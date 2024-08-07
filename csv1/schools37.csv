@@ -1,0 +1,47 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+one.Charter,39103970120717,San Joaquin County Office of Education,0,null,null,null,null,null%
+San Joaquin Building Futures Academy,39103970121723,San Joaquin County Office of Education,0,null,null,null,null,null%
+Venture Academy,39103973930476,San Joaquin County Office of Education,47,491,456,458,13,27.66%
+Escalon High,39685023932308,Escalon Unified,81,493,498,486,40,49.38%
+Lincoln High,39685693933801,Lincoln Unified,251,499,529,498,135,53.78%
+Linden High,39685773933959,Linden Unified,69,498,483,487,29,42.03%
+Aspire Benjamin Holt College Preparatory Academy,39685850101956,Lodi Unified,71,500,502,503,32,45.07%
+Ronald E. McNair High,39685850108225,Lodi Unified,156,440,451,436,37,23.72%
+Rio Valley Charter,39685850122580,Lodi Unified,2,null,null,null,null,null%
+Bear Creek High,39685853930237,Lodi Unified,187,478,510,467,81,43.32%
+Independence,39685853930344,Lodi Unified,1,null,null,null,null,null%
+Middle College High,39685853930443,Lodi Unified,53,569,572,565,46,86.79%
+Tokay High,39685853934759,Lodi Unified,150,493,502,485,60,40%
+Lodi High,39685853934783,Lodi Unified,181,498,520,501,92,50.83%
+Weston Ranch High,39685930101576,Manteca Unified,96,458,461,454,26,27.08%
+New Vision High,39685930112565,Manteca Unified,1,null,null,null,null,null%
+Lathrop High,39685930116376,Manteca Unified,143,442,432,432,22,15.38%
+Manteca Unified Vocational Academy,39685930126094,Manteca Unified,0,null,null,null,null,null%
+Sierra High,39685933930310,Manteca Unified,140,483,478,463,55,39.29%
+East Union High,39685933932001,Manteca Unified,139,482,485,474,56,40.29%
+Manteca High,39685933935103,Manteca Unified,129,481,484,467,49,37.98%
+"Humphreys College Academy of Business, Law and Edu",39686270126755,New Jerusalem Elementary,23,420,449,424,4,17.39%
+California Virtual Academy @ San Joaquin,39686270127191,New Jerusalem Elementary,0,null,null,null,null,null%
+Renew Virtual Academy K12 #1,39686270129361,New Jerusalem Elementary,0,null,null,null,null,null%
+Academy of Arts and Sciences: San Joaquin,39686270129890,New Jerusalem Elementary,0,null,null,null,null,null%
+Valley View Charter Prep,39686270129916,New Jerusalem Elementary,0,null,null,null,null,null%
+Delta Charter Online,39686270130864,New Jerusalem Elementary,0,null,null,null,null,null%
+Delta Charter,39686276119309,New Jerusalem Elementary,17,474,439,468,7,41.18%
+California Connections Academy @ Ripon,39686500125849,Ripon Unified,11,542,487,535,6,54.55%
+Ripon High,39686503935756,Ripon Unified,101,497,494,487,41,40.59%
+Cesar Chavez High,39686760108159,Stockton Unified,148,413,410,417,18,12.16%
+Edward C. Merlo Institute of Environmental Studies,39686760115402,Stockton Unified,22,359,361,370,0,0%
+Aspire Langston Hughes Academy,39686760118497,Stockton Unified,51,407,431,408,9,17.65%
+Stockton Unified Early College Academy,39686760119743,Stockton Unified,91,531,551,519,62,68.13%
+Stockton High,39686760119784,Stockton Unified,0,null,null,null,null,null%
+Stockton Collegiate International Secondary,39686760120733,Stockton Unified,24,496,436,475,6,25%
+Health Careers Academy,39686760123802,Stockton Unified,77,421,416,418,14,18.18%
+Pacific Law Academy,39686760124248,Stockton Unified,0,null,null,null,null,null%
+Weber Institute,39686763930427,Stockton Unified,13,440,431,420,2,15.38%
+Edison High,39686763932100,Stockton Unified,165,419,435,420,27,16.36%
+Franklin High,39686763932654,Stockton Unified,194,431,433,423,29,14.95%
+Stagg Senior High,39686763937406,Stockton Unified,94,426,425,425,17,18.09%
+Millennium Charter,39754990102392,Tracy Joint Unified,67,483,487,480,23,34.33%
+John C. Kimball High,39754990119040,Tracy Joint Unified,216,500,509,500,103,47.69%
+Merrill F. West High,39754993930302,Tracy Joint Unified,198,491,504,479,86,43.43%
+Tracy High,39754993938008,Tracy Joint Unified,197,499,508,496,88,44.67%

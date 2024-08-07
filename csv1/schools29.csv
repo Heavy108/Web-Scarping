@@ -1,0 +1,26 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+CORE Placer Charter,31103140119214,Placer County Office of Education,2,null,null,null,null,null%
+John Adams Academy,31668450121418,Loomis Union Elementary,11,594,550,576,8,72.73%
+Foresthill High,31668940102293,Placer Union High,17,505,535,490,9,52.94%
+Maidu High Independent Study,31668943130135,Placer Union High,3,null,null,null,null,null%
+Colfax High,31668943131851,Placer Union High,75,536,527,531,48,64%
+Del Oro High,31668943132453,Placer Union High,225,534,545,519,146,64.89%
+Placer High,31668943135704,Placer Union High,117,539,542,530,73,62.39%
+Antelope High,31669280116459,Roseville Joint Union High,275,485,483,469,107,38.91%
+Independence High (Alternative),31669283130119,Roseville Joint Union High,3,null,null,null,null,null%
+Woodcreek High,31669283130176,Roseville Joint Union High,313,519,529,501,183,58.47%
+Granite Bay High,31669283130184,Roseville Joint Union High,418,555,575,551,314,75.12%
+Oakmont High,31669283135308,Roseville Joint Union High,230,527,532,510,136,59.13%
+Roseville High,31669283136504,Roseville Joint Union High,264,502,517,493,135,51.14%
+North Tahoe High,31669443130010,Tahoe-Truckee Unified,55,518,512,508,34,61.82%
+Cold Stream Alternative,31669443130192,Tahoe-Truckee Unified,1,null,null,null,null,null%
+Tahoe Truckee High,31669443138500,Tahoe-Truckee Unified,80,533,540,511,46,57.5%
+Partnerships for Student-Centered Learning,31669510122507,Western Placer Unified,8,null,null,null,null,null%
+Phoenix High (Continuation),31669513130036,Western Placer Unified,1,null,null,null,null,null%
+Horizon Charter,31669513130168,Western Placer Unified,16,484,452,456,5,31.25%
+Lincoln High,31669513134657,Western Placer Unified,133,492,497,476,52,39.1%
+Whitney High,31750850108084,Rocklin Unified,279,523,530,502,168,60.22%
+Western Sierra Collegiate Academy,31750850119487,Rocklin Unified,41,571,536,547,31,75.61%
+Rocklin Independent Charter Academy,31750850128561,Rocklin Unified,0,null,null,null,null,null%
+Rocklin High,31750853130150,Rocklin Unified,283,537,560,527,190,67.14%
+Victory High,31750853130200,Rocklin Unified,1,null,null,null,null,null%

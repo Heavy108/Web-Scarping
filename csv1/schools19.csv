@@ -1,0 +1,13 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Nova Education Center,21654172130045,Novato Unified,4,null,null,null,null,null%
+Marin Oaks High,21654172132264,Novato Unified,1,null,null,null,null,null%
+Novato High,21654172132272,Novato Unified,207,534,533,533,133,64.25%
+San Marin High,21654172133056,Novato Unified,106,528,532,526,65,61.32%
+San Rafael High,21654662133262,San Rafael City High,135,494,518,503,69,51.11%
+Terra Linda High,21654662134005,San Rafael City High,148,522,518,529,85,57.43%
+Tamiscal High (Alternative),21654822130078,Tamalpais Union High,27,574,554,559,23,85.19%
+Sir Francis Drake High,21654822131340,Tamalpais Union High,134,576,569,566,105,78.36%
+Redwood High,21654822132587,Tamalpais Union High,241,583,593,579,206,85.48%
+Tamalpais High,21654822133692,Tamalpais Union High,205,578,571,576,165,80.49%
+San Andreas High (Continuation),21654822134419,Tamalpais Union High,2,null,null,null,null,null%
+Tomales High,21733612134310,Shoreline Unified,23,471,491,468,9,39.13%

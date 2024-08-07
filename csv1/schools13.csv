@@ -1,0 +1,41 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Paramount Academy,15101570119669,Kern County Office of Education,54,373,390,377,4,7.41%
+Valley Oaks Charter,15101571530492,Kern County Office of Education,17,499,476,502,6,35.29%
+Cesar E. Chavez High,15634120100529,Delano Joint Union High,162,439,463,439,37,22.84%
+Robert F. Kennedy High,15634120116384,Delano Joint Union High,85,443,449,449,19,22.35%
+Delano High,15634121531672,Delano Joint Union High,125,436,453,422,31,24.8%
+Golden Valley High,15635290100198,Kern High,236,431,425,424,39,16.53%
+Frontier High,15635290110999,Kern High,244,486,503,475,102,41.8%
+Independence High,15635290116392,Kern High,213,471,473,463,75,35.21%
+Mira Monte High,15635290116400,Kern High,184,398,406,403,19,10.33%
+Nueva Continuation High,15635291530047,Kern High,1,null,null,null,null,null%
+Vista West Continuation High,15635291530112,Kern High,2,null,null,null,null,null%
+Arvin High,15635291530252,Kern High,171,420,424,417,21,12.28%
+Stockdale High,15635291530344,Kern High,271,524,548,520,157,57.93%
+Centennial High,15635291530369,Kern High,204,509,519,489,108,52.94%
+Ridgeview High,15635291530385,Kern High,233,436,443,421,38,16.31%
+Kern Workforce 2000 Academy,15635291530435,Kern High,0,null,null,null,null,null%
+Liberty High,15635291530476,Kern High,208,517,531,501,120,57.69%
+Bakersfield High,15635291530708,Kern High,200,486,492,457,80,40%
+East Bakersfield High,15635291532290,Kern High,168,425,429,435,34,20.24%
+Foothill High,15635291532605,Kern High,144,415,436,410,18,12.5%
+Highland High,15635291533330,Kern High,183,470,454,445,52,28.42%
+Kern Valley High,15635291533538,Kern High,23,482,464,467,6,26.09%
+North High,15635291534775,Kern High,96,467,460,443,29,30.21%
+Shafter High,15635291535087,Kern High,79,442,464,440,16,20.25%
+South High,15635291535392,Kern High,176,417,420,400,18,10.23%
+West High,15635291536606,Kern High,146,450,455,432,41,28.08%
+California Virtual Academy High @ Maricopa,15636280127209,Maricopa Unified,0,null,null,null,null,null%
+Maricopa High,15636281533843,Maricopa Unified,4,null,null,null,null,null%
+California City High,15636770114512,Mojave Unified,41,445,431,424,8,19.51%
+Mojave Jr./Sr. High,15636771534460,Mojave Unified,9,null,null,null,null,null%
+Boron Junior-Senior High,15636851530997,Muroc Joint Unified,9,null,null,null,null,null%
+Desert Junior-Senior High,15636851531987,Muroc Joint Unified,49,502,505,489,23,46.94%
+Abraham Lincoln Alternative,15637761530377,Southern Kern Unified,0,null,null,null,null,null%
+Rosamond High,15637761534957,Southern Kern Unified,51,465,471,463,17,33.33%
+Taft Union High,15638181535905,Taft Union High,69,464,471,452,18,26.09%
+Tehachapi High,15638261536135,Tehachapi Unified,102,528,518,501,56,54.9%
+Wasco High,15638591536440,Wasco Union High,106,432,448,433,22,20.75%
+Burroughs High,15737421531367,Sierra Sands Unified,116,518,536,514,70,60.34%
+McFarland High,15739081534155,McFarland Unified,100,407,420,394,14,14%
+Frazier Mountain High,15751681530401,El Tejon Unified,19,473,469,443,5,26.32%

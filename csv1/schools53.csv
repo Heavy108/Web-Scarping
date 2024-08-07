@@ -1,0 +1,36 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+University Preparatory High,54105460119602,Tulare County Office of Education,23,514,481,498,13,56.52%
+La Sierra High,54105465430327,Tulare County Office of Education,0,null,null,null,null,null%
+Eleanor Roosevelt Community Learning Center,54105466119291,Tulare County Office of Education,5,null,null,null,null,null%
+Central California Connections Academy,54718030112458,Alpaugh Unified,3,null,null,null,null,null%
+Alpaugh Junior-Senior High,54718035430301,Alpaugh Unified,6,null,null,null,null,null%
+Summit Charter Academy,54718370109009,Burton Elementary,10,null,null,null,null,null%
+Burton Pathways Charter Academy,54718370122705,Burton Elementary,1,null,null,null,null,null%
+Esperanza High,54718605430095,Cutler-Orosi Joint Unified,0,null,null,null,null,null%
+Orosi High,54718605433230,Cutler-Orosi Joint Unified,97,412,419,414,11,11.34%
+Loma Vista Charter,54719930124776,Lindsay Unified,0,null,null,null,null,null%
+Lindsay Senior High,54719935432414,Lindsay Unified,115,411,404,415,16,13.91%
+Crescent Valley Public Charter,54721400123273,Stone Corral Elementary,0,null,null,null,null,null%
+Mission Oak High,54722490116368,Tulare Joint Union High,162,437,452,435,41,25.31%
+Sierra Vista Charter High,54722490130708,Tulare Joint Union High,0,null,null,null,null,null%
+Tulare Union High,54722495435409,Tulare Joint Union High,146,460,468,447,37,25.34%
+Tulare Western High,54722495435466,Tulare Joint Union High,131,451,450,452,31,23.66%
+Visalia Charter Independent Study,54722560109751,Visalia Unified,11,437,422,442,2,18.18%
+Visalia Technical Early College,54722560120659,Visalia Unified,0,null,null,null,null,null%
+Golden West High,54722565430046,Visalia Unified,125,478,469,468,39,31.2%
+El Diamante High,54722565430368,Visalia Unified,208,480,465,475,76,36.54%
+Mt. Whitney High,54722565432828,Visalia Unified,132,478,478,460,49,37.12%
+Redwood High,54722565434527,Visalia Unified,225,497,500,493,106,47.11%
+Farmersville High,54753255430210,Farmersville Unified,79,399,413,400,6,7.59%
+Butterfield Charter High,54755230114348,Porterville Unified,0,null,null,null,null,null%
+Harmony Magnet Academy,54755230116590,Porterville Unified,80,472,483,464,27,33.75%
+Granite Hills High,54755235430251,Porterville Unified,78,444,441,433,16,20.51%
+Prospect Education Center,54755235430350,Porterville Unified,0,null,null,null,null,null%
+Monache High,54755235432786,Porterville Unified,163,458,487,447,56,34.36%
+Porterville High,54755235434113,Porterville Unified,167,431,449,442,43,25.75%
+Strathmore High,54755235434931,Porterville Unified,27,393,383,388,3,11.11%
+Ronald Reagan Academy,54755310102186,Dinuba Unified,0,null,null,null,null,null%
+Dinuba High,54755315431184,Dinuba Unified,182,422,434,412,28,15.38%
+Woodlake High,54767945436282,Woodlake Unified,70,443,448,438,13,18.57%
+Exeter Independent Study (Alternative),54768365430087,Exeter Unified,0,null,null,null,null,null%
+Exeter Union High,54768365431598,Exeter Unified,72,478,486,485,30,41.67%

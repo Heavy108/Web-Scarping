@@ -1,0 +1,19 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Monterey County Home Charter,27102722730232,Monterey County Office of Education,3,null,null,null,null,null%
+Carmel High,27659872730414,Carmel Unified,40,601,584,575,32,80%
+Greenfield High,27660682730174,South Monterey County Joint Union High,49,429,389,427,5,10.2%
+King City High,27660682732170,South Monterey County Joint Union High,46,470,463,457,15,32.61%
+Marina High,27660920111435,Monterey Peninsula Unified,59,479,478,454,20,33.9%
+Learning for Life Charter,27660922730240,Monterey Peninsula Unified,1,null,null,null,null,null%
+Monterey High,27660922732808,Monterey Peninsula Unified,172,493,492,491,81,47.09%
+Seaside High,27660922735348,Monterey Peninsula Unified,114,433,452,423,23,20.18%
+Pacific Grove High,27661342733657,Pacific Grove Unified,88,561,547,542,61,69.32%
+El Puente,27661590124610,Salinas Union High,3,null,null,null,null,null%
+Alisal High,27661592730109,Salinas Union High,224,437,449,431,51,22.77%
+Everett Alvarez High,27661592730166,Salinas Union High,215,450,438,446,44,20.47%
+North Salinas High,27661592733178,Salinas Union High,129,453,445,448,32,24.81%
+Salinas High,27661592734556,Salinas Union High,244,499,504,487,121,49.59%
+North Monterey County High,27738252730034,North Monterey County Unified,94,449,424,437,24,25.53%
+North Monterey County Center for Independent Study,27738252730125,North Monterey County Unified,2,null,null,null,null,null%
+Soledad High,27754402730190,Soledad Unified,117,447,449,428,25,21.37%
+Gonzales High,27754732730885,Gonzales Unified,79,428,397,425,11,13.92%

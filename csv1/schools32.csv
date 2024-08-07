@@ -1,0 +1,69 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Monterey Trail High,34673140105916,Elk Grove Unified,326,459,471,444,89,27.3%
+Pleasant Grove High,34673140108753,Elk Grove Unified,363,530,563,513,240,66.12%
+Cosumnes Oaks High,34673140116897,Elk Grove Unified,309,508,514,491,156,50.49%
+Valley High,34673143430170,Elk Grove Unified,184,427,433,426,40,21.74%
+Las Flores High (Alternative),34673143430352,Elk Grove Unified,0,null,null,null,null,null%
+Florin High,34673143430477,Elk Grove Unified,157,425,449,420,30,19.11%
+Laguna Creek High,34673143430592,Elk Grove Unified,257,494,505,483,122,47.47%
+Sheldon High,34673143430618,Elk Grove Unified,279,486,500,472,110,39.43%
+Franklin High,34673143430873,Elk Grove Unified,511,514,536,512,289,56.56%
+Elk Grove High,34673143432572,Elk Grove Unified,231,501,527,493,123,53.25%
+Elk Grove Charter,34673146112254,Elk Grove Unified,4,null,null,null,null,null%
+Vista del Lago High,34673300113571,Folsom-Cordova Unified,231,554,571,552,170,73.59%
+Walnutwood High (Independent Study),34673303430501,Folsom-Cordova Unified,3,null,null,null,null,null%
+Cordova High,34673303431533,Folsom-Cordova Unified,100,488,488,466,41,41%
+Folsom High,34673303433216,Folsom-Cordova Unified,300,550,573,538,228,76%
+Kinney High (Continuation),34673303434792,Folsom-Cordova Unified,1,null,null,null,null,null%
+Liberty Ranch High,34673550119131,Galt Joint Union High,94,504,519,496,54,57.45%
+Galt High,34673553433471,Galt Joint Union High,46,462,480,448,15,32.61%
+Rio Vista High,34674134835302,River Delta Joint Unified,45,477,461,484,16,35.56%
+Delta High,34674135731708,River Delta Joint Unified,34,486,459,467,11,32.35%
+New Technology High,34674390101881,Sacramento City Unified,30,450,449,432,8,26.67%
+George Washington Carver School of Arts and Scienc,34674390101899,Sacramento City Unified,28,548,504,526,16,57.14%
+The MET,34674390101907,Sacramento City Unified,33,486,457,468,11,33.33%
+Rosemont High,34674390101972,Sacramento City Unified,96,467,488,452,29,30.21%
+Sacramento Charter High,34674390102038,Sacramento City Unified,156,410,405,403,11,7.05%
+Arthur A. Benjamin Health Professions High,34674390108951,Sacramento City Unified,23,447,440,449,8,34.78%
+School of Engineering & Sciences,34674390114546,Sacramento City Unified,12,448,469,420,2,16.67%
+American Legion High (Continuation),34674393430154,Sacramento City Unified,1,null,null,null,null,null%
+Capital City Independent Study,34674393430519,Sacramento City Unified,2,null,null,null,null,null%
+West Campus,34674393430865,Sacramento City Unified,165,497,514,500,79,47.88%
+Luther Burbank High,34674393431012,Sacramento City Unified,187,399,427,397,20,10.7%
+Hiram W. Johnson High,34674393434636,Sacramento City Unified,91,410,423,401,11,12.09%
+John F. Kennedy High,34674393434768,Sacramento City Unified,236,480,505,471,101,42.8%
+C. K. McClatchy High,34674393435419,Sacramento City Unified,221,524,532,512,129,58.37%
+Aspire Alexander Twilight Secondary Academy,34674470121467,San Juan Unified,12,420,418,403,2,16.67%
+Mesa Verde High,34674473430048,San Juan Unified,54,457,434,449,14,25.93%
+La Entrada Continuation High,34674473430097,San Juan Unified,3,null,null,null,null,null%
+El Sereno Alternative Education,34674473430386,San Juan Unified,6,null,null,null,null,null%
+Bella Vista High,34674473430493,San Juan Unified,242,549,562,530,173,71.49%
+Options for Youth-San Juan,34674473430691,San Juan Unified,15,451,422,431,4,26.67%
+Visions In Education,34674473430717,San Juan Unified,43,571,527,533,29,67.44%
+San Juan Choices Charter,34674473430758,San Juan Unified,1,null,null,null,null,null%
+Casa Roble Fundamental High,34674473431111,San Juan Unified,137,495,491,486,62,45.26%
+Del Campo High,34674473432051,San Juan Unified,180,501,488,489,80,44.44%
+El Camino Fundamental High,34674473432317,San Juan Unified,209,512,515,496,113,54.07%
+Encina Preparatory High,34674473432838,San Juan Unified,28,391,413,389,3,10.71%
+Mira Loma High,34674473435930,San Juan Unified,236,594,624,583,189,80.08%
+Rio Americano High,34674473436714,San Juan Unified,202,539,548,536,131,64.85%
+San Juan High,34674473438504,San Juan Unified,34,414,449,420,3,8.82%
+Global Youth Charter,34739730106377,Center Joint Unified,1,null,null,null,null,null%
+Center High,34739733430378,Center Joint Unified,96,496,524,466,44,45.83%
+Antelope View Charter,34739733430816,Center Joint Unified,0,null,null,null,null,null%
+Inderkum High,34752830102236,Natomas Unified,161,459,462,449,44,27.33%
+Natomas Pacific Pathways Prep,34752830112425,Natomas Unified,85,482,496,477,37,43.53%
+Natomas High,34752833430584,Natomas Unified,74,459,451,454,26,35.14%
+Natomas Charter,34752833430659,Natomas Unified,69,528,500,524,36,52.17%
+Futures High,34765050101832,Twin Rivers Unified,17,457,492,489,6,35.29%
+Heritage Peak Charter,34765050108415,Twin Rivers Unified,25,478,462,458,9,36%
+Creative Connections Arts Academy,34765050108795,Twin Rivers Unified,8,null,null,null,null,null%
+Community Collaborative Charter,34765050108837,Twin Rivers Unified,2,null,null,null,null,null%
+SAVA: Sacramento Academic and Vocational Academy,34765050114272,Twin Rivers Unified,1,null,null,null,null,null%
+Highlands Community Charter,34765050130757,Twin Rivers Unified,0,null,null,null,null,null%
+Elwood J. Keema High,34765053430634,Twin Rivers Unified,0,null,null,null,null,null%
+Vista Nueva Career and Technology High,34765053430881,Twin Rivers Unified,1,null,null,null,null,null%
+Foothill High,34765053433265,Twin Rivers Unified,92,446,445,430,22,23.91%
+Grant Union High,34765053433794,Twin Rivers Unified,208,400,401,395,22,10.58%
+Highlands High,34765053434370,Twin Rivers Unified,54,435,440,407,11,20.37%
+Rio Linda High,34765053436979,Twin Rivers Unified,128,449,468,443,38,29.69%

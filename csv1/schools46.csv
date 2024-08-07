@@ -1,0 +1,14 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Benicia High,48705244831004,Benicia Unified,183,554,560,538,126,68.85%
+Dixon High,48705324832259,Dixon Unified,133,489,517,472,65,48.87%
+Matt Garcia Learning Center,48705400123356,Fairfield-Suisun Unified,0,null,null,null,null,null%
+Angelo Rodriguez High,48705404830170,Fairfield-Suisun Unified,251,490,487,489,111,44.22%
+Armijo High,48705404830451,Fairfield-Suisun Unified,181,498,504,494,80,44.2%
+Fairfield High,48705404833000,Fairfield-Suisun Unified,89,458,453,451,25,28.09%
+Vanden High,48705654838801,Travis Unified,180,513,510,504,98,54.44%
+Will C. Wood High,48705734830089,Vacaville Unified,137,487,523,475,59,43.07%
+Elise P. Buckingham Charter Magnet High,48705734830113,Vacaville Unified,51,545,537,533,39,76.47%
+Vacaville High,48705734837803,Vacaville Unified,237,499,515,492,127,53.59%
+Jesse M. Bethel High,48705814830147,Vallejo City Unified,144,453,464,447,45,31.25%
+MIT Academy,48705814830196,Vallejo City Unified,0,null,null,null,null,null%
+Vallejo High,48705814838504,Vallejo City Unified,92,434,426,418,16,17.39%

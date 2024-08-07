@@ -1,0 +1,75 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+FAME Public Charter,01100170109835,Alameda County Office of Education,17,503,546,505,9,52.94%
+Envision Academy for Arts & Technology,01100170112607,Alameda County Office of Education,71,397,387,395,5,7.04%
+Aspire California College Preparatory Academy,01100170118489,Alameda County Office of Education,0,null,null,null,null,null%
+Alameda Science and Technology Institute,01611190106401,Alameda Unified,36,562,590,555,29,80.56%
+Nea Community Learning Center,01611190119222,Alameda Unified,6,null,null,null,null,null%
+Alameda High,01611190130229,Alameda Unified,325,543,573,543,229,70.46%
+Alameda Community Learning Center,01611190130609,Alameda Unified,20,575,593,581,16,80%
+Alternatives in Action,01611190130625,Alameda Unified,23,352,350,343,1,4.35%
+Encinal High,01611190132878,Alameda Unified,132,483,504,476,56,42.42%
+Island High (Continuation),01611190134304,Alameda Unified,2,null,null,null,null,null%
+Albany High,01611270130450,Albany City Unified,178,572,599,574,136,76.4%
+REALM Charter High,01611430122697,Berkeley Unified,36,384,360,386,2,5.56%
+Berkeley High,01611430131177,Berkeley Unified,450,583,580,574,335,74.44%
+Berkeley Technology Academy,01611430134924,Berkeley Unified,4,null,null,null,null,null%
+Castro Valley High,01611500132225,Castro Valley Unified,438,527,556,524,273,62.33%
+Emery Secondary,01611680132746,Emery Unified,23,420,433,441,6,26.09%
+American High,01611760130062,Fremont Unified,309,573,608,592,243,78.64%
+Robertson High (Continuation),01611760130138,Fremont Unified,1,null,null,null,null,null%
+Vista Alternative,01611760130435,Fremont Unified,0,null,null,null,null,null%
+Circle of Independent Learning,01611760130534,Fremont Unified,5,null,null,null,null,null%
+Irvington High,01611760134270,Fremont Unified,364,590,634,606,309,84.89%
+John F. Kennedy High,01611760134452,Fremont Unified,179,485,509,485,77,43.02%
+Mission San Jose High,01611760135244,Fremont Unified,453,653,699,671,421,92.94%
+Washington High,01611760138693,Fremont Unified,226,546,587,549,164,72.57%
+Leadership Public Schools - Hayward,01611920108670,Hayward Unified,97,439,490,443,27,27.84%
+Impact Academy of Arts & Technology,01611920113902,Hayward Unified,99,435,451,444,25,25.25%
+Hayward High,01611920133629,Hayward Unified,162,430,440,433,30,18.52%
+Mt. Eden High,01611920135319,Hayward Unified,214,451,471,449,69,32.24%
+Tennyson High,01611920138339,Hayward Unified,114,424,425,427,17,14.91%
+Vineyard Alternative,01612000130393,Livermore Valley Joint Unified,2,null,null,null,null,null%
+Granada High,01612000133397,Livermore Valley Joint Unified,230,544,567,530,158,68.7%
+Livermore High,01612000134536,Livermore Valley Joint Unified,191,543,554,536,134,70.16%
+Newark Memorial High,01612340130054,Newark Unified,234,486,498,487,105,44.87%
+Crossroads High (Alternative),01612340130484,Newark Unified,0,null,null,null,null,null%
+Decoto School for Independent Study,01612420126763,New Haven Unified,1,null,null,null,null,null%
+James Logan High,01612420134668,New Haven Unified,452,499,522,494,229,50.66%
+Oakland Unity High,01612590100065,Oakland Unified,49,384,396,399,5,10.2%
+MetWest High,01612590100701,Oakland Unified,34,418,387,385,5,14.71%
+Bay Area Technology,01612590106906,Oakland Unified,21,401,428,390,3,14.29%
+Lighthouse Community Charter High,01612590108944,Oakland Unified,53,432,483,447,10,18.87%
+McClymonds High,01612590110189,Oakland Unified,44,355,350,353,0,0%
+American Indian Public High,01612590111856,Oakland Unified,30,505,603,514,22,73.33%
+Coliseum College Prep Academy,01612590112797,Oakland Unified,38,373,374,383,2,5.26%
+Oakland Charter High,01612590114868,Oakland Unified,56,520,583,524,38,67.86%
+ARISE High,01612590115238,Oakland Unified,39,359,367,369,1,2.56%
+Civicorps Corpsmember Academy,01612590115386,Oakland Unified,0,null,null,null,null,null%
+Oakland International High,01612590115667,Oakland Unified,19,308,352,327,0,0%
+Aspire Golden State College Preparatory Academy,01612590118224,Oakland Unified,57,376,371,383,3,5.26%
+Gateway to College at Laney College,01612590119859,Oakland Unified,0,null,null,null,null,null%
+Castlemont High,01612590125161,Oakland Unified,69,355,348,351,2,2.9%
+Fremont High,01612590125716,Oakland Unified,66,399,398,392,6,9.09%
+LPS Oakland R & D Campus,01612590126748,Oakland Unified,0,null,null,null,null,null%
+Rudsdale Continuation,01612590130146,Oakland Unified,1,null,null,null,null,null%
+Street Academy (Alternative),01612590130179,Oakland Unified,3,null,null,null,null,null%
+LIFE Academy,01612590130575,Oakland Unified,54,378,374,377,4,7.41%
+"Oakland Military Institute, College Preparatory Ac",01612590130617,Oakland Unified,66,417,429,418,12,18.18%
+Aspire Lionel Wilson College Preparatory Academy,01612590130666,Oakland Unified,52,391,416,410,3,5.77%
+Oakland High,01612590135905,Oakland Unified,187,414,436,417,32,17.11%
+Oakland Technical High,01612590136051,Oakland Unified,308,515,520,503,168,54.55%
+Skyline High,01612590137943,Oakland Unified,179,447,446,447,49,27.37%
+Oakland School for the Arts,01612593030772,Oakland Unified,80,529,470,523,40,50%
+"Independent Study, Sojourner Truth",01612596114011,Oakland Unified,4,null,null,null,null,null%
+Millennium High Alternative,01612750130286,Piedmont City Unified,10,null,null,null,null,null%
+Piedmont High,01612750136515,Piedmont City Unified,140,621,629,625,129,92.14%
+Lincoln High (Continuation),01612910134528,San Leandro Unified,1,null,null,null,null,null%
+San Leandro High,01612910137588,San Leandro Unified,324,461,462,460,104,32.1%
+East Bay Arts High,01613090111799,San Lorenzo Unified,34,423,422,418,7,20.59%
+KIPP King Collegiate High,01613090114421,San Lorenzo Unified,115,482,475,478,42,36.52%
+Arroyo High,01613090130849,San Lorenzo Unified,218,489,521,479,99,45.41%
+San Lorenzo High,01613090137810,San Lorenzo Unified,161,423,447,426,27,16.77%
+Dublin High,01750930132704,Dublin Unified,292,534,565,533,190,65.07%
+Foothill High,01751010130096,Pleasanton Unified,394,585,607,587,326,82.74%
+Amador Valley High,01751010130583,Pleasanton Unified,488,596,614,592,410,84.02%
+Livermore Valley Charter Preparatory High,01766530120931,SBE - Livermore Valley Charter Preparatory High,75,516,523,515,45,60%

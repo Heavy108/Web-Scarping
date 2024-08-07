@@ -1,0 +1,61 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Crescent View West Charter,10101080109991,Fresno County Office of Education,0,null,null,null,null,null%
+Hume Lake Charter,10101080111682,Fresno County Office of Education,1,null,null,null,null,null%
+Big Picture High School - Fresno,10101080119628,Fresno County Office of Education,5,null,null,null,null,null%
+Clovis North High,10621170113555,Clovis Unified,328,524,535,519,193,58.84%
+Clovis Online Charter,10621170118018,Clovis Unified,9,null,null,null,null,null%
+Clovis West High,10621171030196,Clovis Unified,335,508,526,507,176,52.54%
+Enterprise Alternative,10621171030469,Clovis Unified,0,null,null,null,null,null%
+Buchanan High,10621171030501,Clovis Unified,330,522,524,507,189,57.27%
+Clovis East High,10621171030683,Clovis Unified,264,467,471,455,90,34.09%
+Gateway High (Continuation),10621171031004,Clovis Unified,3,null,null,null,null,null%
+Clovis High,10621171031053,Clovis Unified,313,484,492,477,129,41.21%
+Coalinga High,10621251031376,Coalinga-Huron Unified,72,465,446,455,24,33.33%
+Fowler High,10621581032150,Fowler Unified,104,424,417,423,19,18.27%
+Design Science Early College High,10621660108555,Fresno Unified,74,487,502,468,34,45.95%
+Sierra Charter,10621660114355,Fresno Unified,8,null,null,null,null,null%
+University High,10621660114553,Fresno Unified,113,604,587,593,102,90.27%
+Fresno Academy for Civic and Entrepreneurial Leade,10621660115196,Fresno Unified,10,null,null,null,null,null%
+Bullard High,10621661030279,Fresno Unified,334,473,463,460,107,32.04%
+J. E. Young Academic Center,10621661030287,Fresno Unified,0,null,null,null,null,null%
+Erma Duncan Polytechnical High,10621661030295,Fresno Unified,104,396,418,389,5,4.81%
+School of Unlimited Learning,10621661030642,Fresno Unified,0,null,null,null,null,null%
+Sunnyside High,10621661030675,Fresno Unified,421,403,411,399,39,9.26%
+Carter G. Woodson Public Charter,10621661030840,Fresno Unified,0,null,null,null,null,null%
+Edison High,10621661031897,Fresno Unified,368,471,470,458,140,38.04%
+Fresno High,10621661032507,Fresno Unified,144,424,428,416,23,15.97%
+Herbert Hoover High,10621661032911,Fresno Unified,211,415,417,401,29,13.74%
+McLane High,10621661034214,Fresno Unified,212,370,388,376,8,3.77%
+Roosevelt High,10621661035831,Fresno Unified,217,377,384,379,17,7.83%
+Kingsburg Independent Study High,10622570124727,Kingsburg Joint Union High,0,null,null,null,null,null%
+Kingsburg High,10622571033695,Kingsburg Joint Union High,112,487,481,471,44,39.29%
+Orange Cove High,10622650108092,Kings Canyon Joint Unified,56,393,395,405,1,1.79%
+Dunlap Leadership Academy,10622650116640,Kings Canyon Joint Unified,0,null,null,null,null,null%
+Mountain View (Alternative),10622651030378,Kings Canyon Joint Unified,1,null,null,null,null,null%
+Reedley High,10622651035310,Kings Canyon Joint Unified,178,456,462,448,56,31.46%
+Laton High,10622811033950,Laton Joint Unified,0,null,null,null,null,null%
+National University Academy - Orange Center,10623310124354,Orange Center,0,null,null,null,null,null%
+Academy of Arts and Sciences: Fresno,10623310130880,Orange Center,0,null,null,null,null,null%
+Parlier High,10623641034990,Parlier Unified,78,387,398,386,5,6.41%
+Ambassador Phillip V. Sanchez Public Charter,10623800124982,Raisin City Elementary,0,null,null,null,null,null%
+Taft High,10624141030451,Sanger Unified,0,null,null,null,null,null%
+Hallmark Charter,10624141030766,Sanger Unified,21,475,445,460,7,33.33%
+Kings River High (Continuation),10624141036086,Sanger Unified,1,null,null,null,null,null%
+Sanger High,10624141036094,Sanger Unified,287,434,446,430,58,20.21%
+Selma Independent,10624301030758,Selma Unified,0,null,null,null,null,null%
+Selma High,10624301036672,Selma Unified,186,434,422,425,32,17.2%
+West Park Charter Academy,10625396112387,West Park Elementary,0,null,null,null,null,null%
+Crescent View South Charter,10625470120535,Westside Elementary,0,null,null,null,null,null%
+Opportunities For Learning - Fresno,10625470127159,Westside Elementary,1,null,null,null,null,null%
+Firebaugh High,10738091030121,Firebaugh-Las Deltas Unified,84,401,373,396,4,4.76%
+Central Unified Alternative/Opportunity,10739651030386,Central Unified,0,null,null,null,null,null%
+Central High East Campus,10739651030626,Central Unified,368,451,449,449,92,25%
+Kerman High,10739991033430,Kerman Unified,132,434,426,425,21,15.91%
+Mendota High,10751271030493,Mendota Unified,62,385,395,378,4,6.45%
+Tranquillity High,10752341037456,Golden Plains Unified,55,375,402,386,4,7.27%
+Sierra High,10752751036938,Sierra Unified,50,522,500,501,24,48%
+Riverdale High,10754081035575,Riverdale Joint Unified,69,422,424,429,12,17.39%
+Caruthers High,10755981030535,Caruthers Unified,72,413,422,397,10,13.89%
+Elm High,10767780122473,Washington Unified,0,null,null,null,null,null%
+W. E. B. DuBois Public Charter,10767781030774,Washington Unified,1,null,null,null,null,null%
+Washington High,10767781038306,Washington Unified,113,392,396,394,6,5.31%

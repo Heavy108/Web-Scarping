@@ -1,0 +1,44 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Making Waves Academy,07100740114470,Contra Costa County Office of Education,73,454,478,452,19,26.03%
+Clayton Valley Charter High,07100740731380,Contra Costa County Office of Education,240,512,508,501,124,51.67%
+Acalanes Center for Independent Study,07616300107524,Acalanes Union High,2,null,null,null,null,null%
+Acalanes High,07616300730283,Acalanes Union High,234,586,604,587,195,83.33%
+Campolindo High,07616300731125,Acalanes Union High,260,603,617,616,237,91.15%
+Las Lomas High,07616300733725,Acalanes Union High,247,565,554,560,181,73.28%
+Miramonte High,07616300734244,Acalanes Union High,218,628,633,633,203,93.12%
+Dozier-Libbey Medical High,07616480117218,Antioch Unified,85,496,485,495,35,41.18%
+Live Oak High (Continuation),07616480730101,Antioch Unified,1,null,null,null,null,null%
+Prospects High (Alternative),07616480730259,Antioch Unified,1,null,null,null,null,null%
+Deer Valley High,07616480730465,Antioch Unified,248,478,477,464,94,37.9%
+Antioch High,07616480730861,Antioch Unified,134,477,465,463,45,33.58%
+Vista Oaks Charter,07616630130930,Byron Union Elementary,0,null,null,null,null,null%
+John Swett High,07616970737023,John Swett Unified,31,477,512,485,14,45.16%
+Heritage High,07617210107797,Liberty Union High,324,520,510,511,180,55.56%
+Freedom High,07617210730457,Liberty Union High,227,470,455,464,70,30.84%
+Independence High,07617210730572,Liberty Union High,2,null,null,null,null,null%
+Liberty High,07617210733980,Liberty Union High,262,479,479,476,103,39.31%
+Briones (Alternative),07617390730473,Martinez Unified,0,null,null,null,null,null%
+Alhambra Senior High,07617390730549,Martinez Unified,118,518,543,523,70,59.32%
+Northgate High,07617540730044,Mt. Diablo Unified,180,568,586,566,134,74.44%
+Horizons Alternative,07617540730317,Mt. Diablo Unified,2,null,null,null,null,null%
+College Park High,07617540731646,Mt. Diablo Unified,235,540,558,527,154,65.53%
+Concord High,07617540731836,Mt. Diablo Unified,121,491,505,488,56,46.28%
+Mt. Diablo High,07617540734566,Mt. Diablo Unified,113,437,436,436,25,22.12%
+Ygnacio Valley High,07617540737809,Mt. Diablo Unified,102,458,455,451,33,32.35%
+Pittsburg Senior High,07617880735407,Pittsburg Unified,290,446,436,442,64,22.07%
+Leadership Public Schools: Richmond,07617960101477,West Contra Costa Unified,102,394,413,410,11,10.78%
+North Campus Continuation,07617960730275,West Contra Costa Unified,22,324,307,328,0,0%
+Middle College High,07617960730291,West Contra Costa Unified,68,500,526,509,33,48.53%
+Vista High (Alternative),07617960730325,West Contra Costa Unified,27,393,378,404,1,3.7%
+Hercules High,07617960730598,West Contra Costa Unified,196,451,454,454,57,29.08%
+De Anza Senior High,07617960732164,West Contra Costa Unified,204,399,395,409,26,12.75%
+El Cerrito Senior High,07617960732941,West Contra Costa Unified,262,444,445,439,77,29.39%
+Gompers (Samuel) Continuation,07617960733253,West Contra Costa Unified,19,314,289,312,0,0%
+Kennedy High,07617960733659,West Contra Costa Unified,134,346,345,348,7,5.22%
+Pinole Valley High,07617960735316,West Contra Costa Unified,246,426,417,422,55,22.36%
+Richmond High,07617960735902,West Contra Costa Unified,273,357,354,358,11,4.03%
+Dougherty Valley High,07618040113118,San Ramon Valley Unified,528,604,651,613,457,86.55%
+California High,07618040730051,San Ramon Valley Unified,435,576,606,571,342,78.62%
+Venture (Alternative),07618040730218,San Ramon Valley Unified,16,559,539,523,11,68.75%
+Monte Vista High,07618040734368,San Ramon Valley Unified,362,566,591,566,271,74.86%
+San Ramon Valley High,07618040736504,San Ramon Valley Unified,383,574,587,567,322,84.07%

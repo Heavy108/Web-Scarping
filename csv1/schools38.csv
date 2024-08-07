@@ -1,0 +1,15 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Grizzly ChalleNGe Charter,40104050101725,San Luis Obispo County Office of Education,0,null,null,null,null,null%
+San Luis Obispo County Juvenile Court,40104054030078,San Luis Obispo County Office of Education,1,null,null,null,null,null%
+West Mall Alternative,40687004030102,Atascadero Unified,1,null,null,null,null,null%
+Atascadero High,40687004030755,Atascadero Unified,130,546,532,521,89,68.46%
+Nipomo High,40687594030268,Lucia Mar Unified,86,508,511,490,40,46.51%
+Arroyo Grande High,40687594030557,Lucia Mar Unified,231,535,543,524,146,63.2%
+Morro Bay High,40688094034807,San Luis Coastal Unified,81,544,551,512,51,62.96%
+San Luis Obispo High,40688094036703,San Luis Coastal Unified,222,572,571,549,164,73.87%
+Shandon High,40688334037008,Shandon Joint Unified,2,null,null,null,null,null%
+Templeton Independent Study High,40688414030185,Templeton Unified,6,null,null,null,null,null%
+Templeton High,40688414037701,Templeton Unified,115,535,524,521,71,61.74%
+Independence High,40754570119354,Paso Robles Joint Unified,1,null,null,null,null,null%
+Paso Robles High,40754574035754,Paso Robles Joint Unified,176,508,504,490,86,48.86%
+Coast Union High,40754654032009,Coast Unified,18,522,506,486,9,50%

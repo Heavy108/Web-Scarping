@@ -1,0 +1,35 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Vista Real Charter High,56105610109900,Ventura County Office of Education,3,null,null,null,null,null%
+River Oaks Academy,56105610122713,Ventura County Office of Education,1,null,null,null,null,null%
+Fillmore Senior High,56724545632021,Fillmore Unified,84,471,493,451,28,33.33%
+Golden Valley Charter,56724705630363,Mesa Union Elementary,6,null,null,null,null,null%
+Academy of Arts and Sciences: Thousand Oaks & Simi,56725040127043,Mupu Elementary,5,null,null,null,null,null%
+Academy of Arts and Sciences: Oxnard & Ventura,56725040127076,Mupu Elementary,1,null,null,null,null,null%
+Nordhoff High,56725205634076,Ojai Unified,93,521,529,505,52,55.91%
+"Architecture, Construction & Engineering Charter H",56725460120634,Oxnard Union High,0,null,null,null,null,null%
+Condor High,56725460125674,Oxnard Union High,0,null,null,null,null,null%
+Pacifica High,56725465630389,Oxnard Union High,236,460,467,454,77,32.63%
+Adolfo Camarillo High,56725465631619,Oxnard Union High,271,530,561,521,184,67.9%
+Channel Islands High,56725465631742,Oxnard Union High,167,431,448,432,39,23.35%
+Hueneme High,56725465632849,Oxnard Union High,93,433,424,432,16,17.2%
+Oxnard High,56725465634548,Oxnard Union High,269,474,484,469,100,37.17%
+Rio Mesa High,56725465634761,Oxnard Union High,155,485,493,476,65,41.94%
+Monte Vista,56726035630249,Simi Valley Unified,6,null,null,null,null,null%
+Santa Susana High,56726035630322,Simi Valley Unified,99,564,573,556,79,79.8%
+Royal High,56726035635008,Simi Valley Unified,148,520,529,514,90,60.81%
+Simi Valley High,56726035636188,Simi Valley Unified,193,528,551,524,112,58.03%
+El Camino High,56726525630298,Ventura Unified,30,563,515,537,23,76.67%
+Foothill Technology High,56726525630348,Ventura Unified,185,542,539,530,121,65.41%
+Buena High,56726525630793,Ventura Unified,147,507,513,489,81,55.1%
+Ventura High,56726525637822,Ventura Unified,192,517,519,508,105,54.69%
+Century Academy,56737590123349,Conejo Valley Unified,9,null,null,null,null,null%
+Westlake High,56737595630116,Conejo Valley Unified,389,570,592,573,298,76.61%
+Newbury Park High,56737595633748,Conejo Valley Unified,396,555,570,542,276,69.7%
+Thousand Oaks High,56737595637004,Conejo Valley Unified,327,543,559,540,227,69.42%
+Oak Park High,56738745630132,Oak Park Unified,248,580,591,586,198,79.84%
+Oak View High,56738745630199,Oak Park Unified,1,null,null,null,null,null%
+Oak Park Independent,56738745630256,Oak Park Unified,14,519,459,488,6,42.86%
+IvyTech Charter,56739400121426,Moorpark Unified,0,null,null,null,null,null%
+The High School at Moorpark College,56739405630371,Moorpark Unified,23,527,506,519,15,65.22%
+Moorpark High,56739405633250,Moorpark Unified,237,541,550,533,162,68.35%
+Santa Paula High,56768285635776,Santa Paula Unified,145,416,431,421,17,11.72%

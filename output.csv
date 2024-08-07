@@ -1,0 +1,1754 @@
+School Name,School Code,District Name,Number of Test Takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+FAME Public Charter,01100170109835,Alameda County Office of Education,17,503,546,505,9,52.94%
+Envision Academy for Arts & Technology,01100170112607,Alameda County Office of Education,71,397,387,395,5,7.04%
+Aspire California College Preparatory Academy,01100170118489,Alameda County Office of Education,0,null,null,null,null,null%
+Alameda Science and Technology Institute,01611190106401,Alameda Unified,36,562,590,555,29,80.56%
+Nea Community Learning Center,01611190119222,Alameda Unified,6,null,null,null,null,null%
+Alameda High,01611190130229,Alameda Unified,325,543,573,543,229,70.46%
+Alameda Community Learning Center,01611190130609,Alameda Unified,20,575,593,581,16,80%
+Alternatives in Action,01611190130625,Alameda Unified,23,352,350,343,1,4.35%
+Encinal High,01611190132878,Alameda Unified,132,483,504,476,56,42.42%
+Island High (Continuation),01611190134304,Alameda Unified,2,null,null,null,null,null%
+Albany High,01611270130450,Albany City Unified,178,572,599,574,136,76.4%
+REALM Charter High,01611430122697,Berkeley Unified,36,384,360,386,2,5.56%
+Berkeley High,01611430131177,Berkeley Unified,450,583,580,574,335,74.44%
+Berkeley Technology Academy,01611430134924,Berkeley Unified,4,null,null,null,null,null%
+Castro Valley High,01611500132225,Castro Valley Unified,438,527,556,524,273,62.33%
+Emery Secondary,01611680132746,Emery Unified,23,420,433,441,6,26.09%
+American High,01611760130062,Fremont Unified,309,573,608,592,243,78.64%
+Robertson High (Continuation),01611760130138,Fremont Unified,1,null,null,null,null,null%
+Vista Alternative,01611760130435,Fremont Unified,0,null,null,null,null,null%
+Circle of Independent Learning,01611760130534,Fremont Unified,5,null,null,null,null,null%
+Irvington High,01611760134270,Fremont Unified,364,590,634,606,309,84.89%
+John F. Kennedy High,01611760134452,Fremont Unified,179,485,509,485,77,43.02%
+Mission San Jose High,01611760135244,Fremont Unified,453,653,699,671,421,92.94%
+Washington High,01611760138693,Fremont Unified,226,546,587,549,164,72.57%
+Leadership Public Schools - Hayward,01611920108670,Hayward Unified,97,439,490,443,27,27.84%
+Impact Academy of Arts & Technology,01611920113902,Hayward Unified,99,435,451,444,25,25.25%
+Hayward High,01611920133629,Hayward Unified,162,430,440,433,30,18.52%
+Mt. Eden High,01611920135319,Hayward Unified,214,451,471,449,69,32.24%
+Tennyson High,01611920138339,Hayward Unified,114,424,425,427,17,14.91%
+Vineyard Alternative,01612000130393,Livermore Valley Joint Unified,2,null,null,null,null,null%
+Granada High,01612000133397,Livermore Valley Joint Unified,230,544,567,530,158,68.7%
+Livermore High,01612000134536,Livermore Valley Joint Unified,191,543,554,536,134,70.16%
+Newark Memorial High,01612340130054,Newark Unified,234,486,498,487,105,44.87%
+Crossroads High (Alternative),01612340130484,Newark Unified,0,null,null,null,null,null%
+Decoto School for Independent Study,01612420126763,New Haven Unified,1,null,null,null,null,null%
+James Logan High,01612420134668,New Haven Unified,452,499,522,494,229,50.66%
+Oakland Unity High,01612590100065,Oakland Unified,49,384,396,399,5,10.2%
+MetWest High,01612590100701,Oakland Unified,34,418,387,385,5,14.71%
+Bay Area Technology,01612590106906,Oakland Unified,21,401,428,390,3,14.29%
+Lighthouse Community Charter High,01612590108944,Oakland Unified,53,432,483,447,10,18.87%
+McClymonds High,01612590110189,Oakland Unified,44,355,350,353,0,0%
+American Indian Public High,01612590111856,Oakland Unified,30,505,603,514,22,73.33%
+Coliseum College Prep Academy,01612590112797,Oakland Unified,38,373,374,383,2,5.26%
+Oakland Charter High,01612590114868,Oakland Unified,56,520,583,524,38,67.86%
+ARISE High,01612590115238,Oakland Unified,39,359,367,369,1,2.56%
+Civicorps Corpsmember Academy,01612590115386,Oakland Unified,0,null,null,null,null,null%
+Oakland International High,01612590115667,Oakland Unified,19,308,352,327,0,0%
+Aspire Golden State College Preparatory Academy,01612590118224,Oakland Unified,57,376,371,383,3,5.26%
+Gateway to College at Laney College,01612590119859,Oakland Unified,0,null,null,null,null,null%
+Castlemont High,01612590125161,Oakland Unified,69,355,348,351,2,2.9%
+Fremont High,01612590125716,Oakland Unified,66,399,398,392,6,9.09%
+LPS Oakland R & D Campus,01612590126748,Oakland Unified,0,null,null,null,null,null%
+Rudsdale Continuation,01612590130146,Oakland Unified,1,null,null,null,null,null%
+Street Academy (Alternative),01612590130179,Oakland Unified,3,null,null,null,null,null%
+LIFE Academy,01612590130575,Oakland Unified,54,378,374,377,4,7.41%
+"Oakland Military Institute, College Preparatory Ac",01612590130617,Oakland Unified,66,417,429,418,12,18.18%
+Aspire Lionel Wilson College Preparatory Academy,01612590130666,Oakland Unified,52,391,416,410,3,5.77%
+Oakland High,01612590135905,Oakland Unified,187,414,436,417,32,17.11%
+Oakland Technical High,01612590136051,Oakland Unified,308,515,520,503,168,54.55%
+Skyline High,01612590137943,Oakland Unified,179,447,446,447,49,27.37%
+Oakland School for the Arts,01612593030772,Oakland Unified,80,529,470,523,40,50%
+"Independent Study, Sojourner Truth",01612596114011,Oakland Unified,4,null,null,null,null,null%
+Millennium High Alternative,01612750130286,Piedmont City Unified,10,null,null,null,null,null%
+Piedmont High,01612750136515,Piedmont City Unified,140,621,629,625,129,92.14%
+Lincoln High (Continuation),01612910134528,San Leandro Unified,1,null,null,null,null,null%
+San Leandro High,01612910137588,San Leandro Unified,324,461,462,460,104,32.1%
+East Bay Arts High,01613090111799,San Lorenzo Unified,34,423,422,418,7,20.59%
+KIPP King Collegiate High,01613090114421,San Lorenzo Unified,115,482,475,478,42,36.52%
+Arroyo High,01613090130849,San Lorenzo Unified,218,489,521,479,99,45.41%
+San Lorenzo High,01613090137810,San Lorenzo Unified,161,423,447,426,27,16.77%
+Dublin High,01750930132704,Dublin Unified,292,534,565,533,190,65.07%
+Foothill High,01751010130096,Pleasanton Unified,394,585,607,587,326,82.74%
+Amador Valley High,01751010130583,Pleasanton Unified,488,596,614,592,410,84.02%
+Livermore Valley Charter Preparatory High,01766530120931,SBE - Livermore Valley Charter Preparatory High,75,516,523,515,45,60%
+North Star Independent Study,03739810330050,Amador County Unified,0,null,null,null,null,null%
+Amador High,03739810330753,Amador County Unified,70,532,523,504,45,64.29%
+Argonaut High,03739810334755,Amador County Unified,27,508,492,502,15,55.56%
+CORE Butte Charter,04100410114991,Butte County Office of Education,26,532,462,485,10,38.46%
+Learning Community Charter,04100410430090,Butte County Office of Education,0,null,null,null,null,null%
+Biggs High,04614080430827,Biggs Unified,11,433,429,406,2,18.18%
+Inspire School of Arts and Sciences,04614240120394,Chico Unified,42,602,552,562,34,80.95%
+Oakdale,04614240430199,Chico Unified,0,null,null,null,null,null%
+Chico High,04614240431676,Chico Unified,164,543,549,521,112,68.29%
+Pleasant Valley High,04614240437558,Chico Unified,159,526,555,508,100,62.89%
+Durham High,04614320433201,Durham Unified,43,498,484,472,19,44.19%
+Ipakanni Early College Charter,04614400121509,Feather Falls Union Elementary,0,null,null,null,null,null%
+Pivot Charter School North Valley,04614570125252,Golden Feather Union Elementary,0,null,null,null,null,null%
+Las Plumas High,04615150434803,Oroville Union High,53,511,522,489,32,60.38%
+Oroville High,04615150435602,Oroville Union High,49,464,485,446,16,32.65%
+Paradise eLearning Academy,04615310121715,Paradise Unified,0,null,null,null,null,null%
+Paradise Senior High,04615310437350,Paradise Unified,52,526,545,504,32,61.54%
+Hometech Charter,04615316112585,Paradise Unified,0,null,null,null,null,null%
+Esperanza High (Continuation),04755070433946,Gridley Unified,1,null,null,null,null,null%
+Gridley High,04755070433953,Gridley Unified,36,498,491,497,18,50%
+Mountain Oaks,05100580530154,Calaveras County Office of Education,4,null,null,null,null,null%
+Bret Harte Union High,05615560532507,Bret Harte Union High,60,547,550,541,43,71.67%
+Calaveras Unified Alternative-Sierra Hills Educati,05615640530055,Calaveras Unified,0,null,null,null,null,null%
+Calaveras High,05615640531509,Calaveras Unified,61,513,503,485,33,54.1%
+Colusa Alternative High (Continuation),06615980630012,Colusa Unified,1,null,null,null,null,null%
+Colusa Alternative Home,06615980630046,Colusa Unified,0,null,null,null,null,null%
+Colusa High,06615980631259,Colusa Unified,37,472,501,454,14,37.84%
+Maxwell Jr/Sr High,06616060634758,Maxwell Unified,13,466,442,449,4,30.77%
+Pierce High,06616140635250,Pierce Joint Unified,27,458,443,432,8,29.63%
+Williams Junior/Senior High,06616220637504,Williams Unified,26,467,448,474,6,23.08%
+Making Waves Academy,07100740114470,Contra Costa County Office of Education,73,454,478,452,19,26.03%
+Clayton Valley Charter High,07100740731380,Contra Costa County Office of Education,240,512,508,501,124,51.67%
+Acalanes Center for Independent Study,07616300107524,Acalanes Union High,2,null,null,null,null,null%
+Acalanes High,07616300730283,Acalanes Union High,234,586,604,587,195,83.33%
+Campolindo High,07616300731125,Acalanes Union High,260,603,617,616,237,91.15%
+Las Lomas High,07616300733725,Acalanes Union High,247,565,554,560,181,73.28%
+Miramonte High,07616300734244,Acalanes Union High,218,628,633,633,203,93.12%
+Dozier-Libbey Medical High,07616480117218,Antioch Unified,85,496,485,495,35,41.18%
+Live Oak High (Continuation),07616480730101,Antioch Unified,1,null,null,null,null,null%
+Prospects High (Alternative),07616480730259,Antioch Unified,1,null,null,null,null,null%
+Deer Valley High,07616480730465,Antioch Unified,248,478,477,464,94,37.9%
+Antioch High,07616480730861,Antioch Unified,134,477,465,463,45,33.58%
+Vista Oaks Charter,07616630130930,Byron Union Elementary,0,null,null,null,null,null%
+John Swett High,07616970737023,John Swett Unified,31,477,512,485,14,45.16%
+Heritage High,07617210107797,Liberty Union High,324,520,510,511,180,55.56%
+Freedom High,07617210730457,Liberty Union High,227,470,455,464,70,30.84%
+Independence High,07617210730572,Liberty Union High,2,null,null,null,null,null%
+Liberty High,07617210733980,Liberty Union High,262,479,479,476,103,39.31%
+Briones (Alternative),07617390730473,Martinez Unified,0,null,null,null,null,null%
+Alhambra Senior High,07617390730549,Martinez Unified,118,518,543,523,70,59.32%
+Northgate High,07617540730044,Mt. Diablo Unified,180,568,586,566,134,74.44%
+Horizons Alternative,07617540730317,Mt. Diablo Unified,2,null,null,null,null,null%
+College Park High,07617540731646,Mt. Diablo Unified,235,540,558,527,154,65.53%
+Concord High,07617540731836,Mt. Diablo Unified,121,491,505,488,56,46.28%
+Mt. Diablo High,07617540734566,Mt. Diablo Unified,113,437,436,436,25,22.12%
+Ygnacio Valley High,07617540737809,Mt. Diablo Unified,102,458,455,451,33,32.35%
+Pittsburg Senior High,07617880735407,Pittsburg Unified,290,446,436,442,64,22.07%
+Leadership Public Schools: Richmond,07617960101477,West Contra Costa Unified,102,394,413,410,11,10.78%
+North Campus Continuation,07617960730275,West Contra Costa Unified,22,324,307,328,0,0%
+Middle College High,07617960730291,West Contra Costa Unified,68,500,526,509,33,48.53%
+Vista High (Alternative),07617960730325,West Contra Costa Unified,27,393,378,404,1,3.7%
+Hercules High,07617960730598,West Contra Costa Unified,196,451,454,454,57,29.08%
+De Anza Senior High,07617960732164,West Contra Costa Unified,204,399,395,409,26,12.75%
+El Cerrito Senior High,07617960732941,West Contra Costa Unified,262,444,445,439,77,29.39%
+Gompers (Samuel) Continuation,07617960733253,West Contra Costa Unified,19,314,289,312,0,0%
+Kennedy High,07617960733659,West Contra Costa Unified,134,346,345,348,7,5.22%
+Pinole Valley High,07617960735316,West Contra Costa Unified,246,426,417,422,55,22.36%
+Richmond High,07617960735902,West Contra Costa Unified,273,357,354,358,11,4.03%
+Dougherty Valley High,07618040113118,San Ramon Valley Unified,528,604,651,613,457,86.55%
+California High,07618040730051,San Ramon Valley Unified,435,576,606,571,342,78.62%
+Venture (Alternative),07618040730218,San Ramon Valley Unified,16,559,539,523,11,68.75%
+Monte Vista High,07618040734368,San Ramon Valley Unified,362,566,591,566,271,74.86%
+San Ramon Valley High,07618040736504,San Ramon Valley Unified,383,574,587,567,322,84.07%
+Castle Rock,08100820830059,Del Norte County Office of Education,4,null,null,null,null,null%
+Del Norte High,08618200833004,Del Norte County Unified,77,476,510,464,35,45.45%
+Charter Community School Home Study Academy,09100900930123,El Dorado County Office of Education,16,564,550,527,13,81.25%
+Oak Ridge High,09618530930081,El Dorado Union High,386,546,570,542,280,72.54%
+Union Mine High,09618530930164,El Dorado Union High,75,533,517,498,40,53.33%
+EDUHSD Virtual Academy at Shenandoah,09618530930214,El Dorado Union High,6,null,null,null,null,null%
+El Dorado High,09618530932756,El Dorado Union High,115,534,522,516,66,57.39%
+Independence Continuation,09618530934554,El Dorado Union High,1,null,null,null,null,null%
+Ponderosa High,09618530936302,El Dorado Union High,205,539,564,527,149,72.68%
+South Tahoe High,09619030937805,Lake Tahoe Unified,107,503,502,488,55,51.4%
+American River Charter,09737830121566,Black Oak Mine Unified,0,null,null,null,null,null%
+Golden Sierra Junior Senior High,09737830930073,Black Oak Mine Unified,27,537,541,514,20,74.07%
+Crescent View West Charter,10101080109991,Fresno County Office of Education,0,null,null,null,null,null%
+Hume Lake Charter,10101080111682,Fresno County Office of Education,1,null,null,null,null,null%
+Big Picture High School - Fresno,10101080119628,Fresno County Office of Education,5,null,null,null,null,null%
+Clovis North High,10621170113555,Clovis Unified,328,524,535,519,193,58.84%
+Clovis Online Charter,10621170118018,Clovis Unified,9,null,null,null,null,null%
+Clovis West High,10621171030196,Clovis Unified,335,508,526,507,176,52.54%
+Enterprise Alternative,10621171030469,Clovis Unified,0,null,null,null,null,null%
+Buchanan High,10621171030501,Clovis Unified,330,522,524,507,189,57.27%
+Clovis East High,10621171030683,Clovis Unified,264,467,471,455,90,34.09%
+Gateway High (Continuation),10621171031004,Clovis Unified,3,null,null,null,null,null%
+Clovis High,10621171031053,Clovis Unified,313,484,492,477,129,41.21%
+Coalinga High,10621251031376,Coalinga-Huron Unified,72,465,446,455,24,33.33%
+Fowler High,10621581032150,Fowler Unified,104,424,417,423,19,18.27%
+Design Science Early College High,10621660108555,Fresno Unified,74,487,502,468,34,45.95%
+Sierra Charter,10621660114355,Fresno Unified,8,null,null,null,null,null%
+University High,10621660114553,Fresno Unified,113,604,587,593,102,90.27%
+Fresno Academy for Civic and Entrepreneurial Leade,10621660115196,Fresno Unified,10,null,null,null,null,null%
+Bullard High,10621661030279,Fresno Unified,334,473,463,460,107,32.04%
+J. E. Young Academic Center,10621661030287,Fresno Unified,0,null,null,null,null,null%
+Erma Duncan Polytechnical High,10621661030295,Fresno Unified,104,396,418,389,5,4.81%
+School of Unlimited Learning,10621661030642,Fresno Unified,0,null,null,null,null,null%
+Sunnyside High,10621661030675,Fresno Unified,421,403,411,399,39,9.26%
+Carter G. Woodson Public Charter,10621661030840,Fresno Unified,0,null,null,null,null,null%
+Edison High,10621661031897,Fresno Unified,368,471,470,458,140,38.04%
+Fresno High,10621661032507,Fresno Unified,144,424,428,416,23,15.97%
+Herbert Hoover High,10621661032911,Fresno Unified,211,415,417,401,29,13.74%
+McLane High,10621661034214,Fresno Unified,212,370,388,376,8,3.77%
+Roosevelt High,10621661035831,Fresno Unified,217,377,384,379,17,7.83%
+Kingsburg Independent Study High,10622570124727,Kingsburg Joint Union High,0,null,null,null,null,null%
+Kingsburg High,10622571033695,Kingsburg Joint Union High,112,487,481,471,44,39.29%
+Orange Cove High,10622650108092,Kings Canyon Joint Unified,56,393,395,405,1,1.79%
+Dunlap Leadership Academy,10622650116640,Kings Canyon Joint Unified,0,null,null,null,null,null%
+Mountain View (Alternative),10622651030378,Kings Canyon Joint Unified,1,null,null,null,null,null%
+Reedley High,10622651035310,Kings Canyon Joint Unified,178,456,462,448,56,31.46%
+Laton High,10622811033950,Laton Joint Unified,0,null,null,null,null,null%
+National University Academy - Orange Center,10623310124354,Orange Center,0,null,null,null,null,null%
+Academy of Arts and Sciences: Fresno,10623310130880,Orange Center,0,null,null,null,null,null%
+Parlier High,10623641034990,Parlier Unified,78,387,398,386,5,6.41%
+Ambassador Phillip V. Sanchez Public Charter,10623800124982,Raisin City Elementary,0,null,null,null,null,null%
+Taft High,10624141030451,Sanger Unified,0,null,null,null,null,null%
+Hallmark Charter,10624141030766,Sanger Unified,21,475,445,460,7,33.33%
+Kings River High (Continuation),10624141036086,Sanger Unified,1,null,null,null,null,null%
+Sanger High,10624141036094,Sanger Unified,287,434,446,430,58,20.21%
+Selma Independent,10624301030758,Selma Unified,0,null,null,null,null,null%
+Selma High,10624301036672,Selma Unified,186,434,422,425,32,17.2%
+West Park Charter Academy,10625396112387,West Park Elementary,0,null,null,null,null,null%
+Crescent View South Charter,10625470120535,Westside Elementary,0,null,null,null,null,null%
+Opportunities For Learning - Fresno,10625470127159,Westside Elementary,1,null,null,null,null,null%
+Firebaugh High,10738091030121,Firebaugh-Las Deltas Unified,84,401,373,396,4,4.76%
+Central Unified Alternative/Opportunity,10739651030386,Central Unified,0,null,null,null,null,null%
+Central High East Campus,10739651030626,Central Unified,368,451,449,449,92,25%
+Kerman High,10739991033430,Kerman Unified,132,434,426,425,21,15.91%
+Mendota High,10751271030493,Mendota Unified,62,385,395,378,4,6.45%
+Tranquillity High,10752341037456,Golden Plains Unified,55,375,402,386,4,7.27%
+Sierra High,10752751036938,Sierra Unified,50,522,500,501,24,48%
+Riverdale High,10754081035575,Riverdale Joint Unified,69,422,424,429,12,17.39%
+Caruthers High,10755981030535,Caruthers Unified,72,413,422,397,10,13.89%
+Elm High,10767780122473,Washington Unified,0,null,null,null,null,null%
+W. E. B. DuBois Public Charter,10767781030774,Washington Unified,1,null,null,null,null,null%
+Washington High,10767781038306,Washington Unified,113,392,396,394,6,5.31%
+Success One!,11101160130724,Glenn County Office of Education,0,null,null,null,null,null%
+Conservation Corps of Long Beach Gateway Cities Ch,11101160130807,Glenn County Office of Education,0,null,null,null,null,null%
+William Finch,11101161130103,Glenn County Office of Education,2,null,null,null,null,null%
+Princeton Junior-Senior High,11626461136209,Princeton Joint Unified,7,null,null,null,null,null%
+Willows High,11626611132851,Willows Unified,30,459,473,468,9,30%
+Orland High,11754811135656,Orland Joint Unified,38,498,480,480,13,34.21%
+Hamilton High,11765621133701,Hamilton Unified,30,456,465,466,11,36.67%
+Northcoast Preparatory and Performing Arts Academy,12101240115097,Humboldt County Office of Education,35,620,534,579,32,91.43%
+Six Rivers Charter High,12626870107110,Northern Humboldt Union High,16,531,528,472,6,37.5%
+Laurel Tree Charter,12626870124263,Northern Humboldt Union High,3,null,null,null,null,null%
+Arcata High,12626871230705,Northern Humboldt Union High,97,574,555,540,75,77.32%
+McKinleyville High,12626871235209,Northern Humboldt Union High,52,501,500,486,27,51.92%
+Academy of the Redwoods,12628100108688,Fortuna Union High,25,577,542,524,19,76%
+Fortuna Union High,12628101233402,Fortuna Union High,67,491,493,480,29,43.28%
+Hoopa Valley High,12629011234004,Klamath-Trinity Joint Unified,21,470,440,442,7,33.33%
+Pacific View Charter,12629271230150,Loleta Union Elementary,0,null,null,null,null,null%
+Alder Grove Charter,12630320111203,South Bay Union Elementary,4,null,null,null,null,null%
+South Fork Junior - Senior High,12630401237007,Southern Humboldt Joint Unified,14,544,509,499,7,50%
+Ferndale High,12753741232909,Ferndale Unified,18,507,520,511,11,61.11%
+Mattole Triple Junction High,12753821230085,Mattole Unified,2,null,null,null,null,null%
+Mattole Valley Charter (#159),12753821230135,Mattole Unified,4,null,null,null,null,null%
+Eureka Senior High,12755151232206,Eureka City Schools,111,517,523,502,57,51.35%
+Brawley High,13630811331404,Brawley Union High,156,452,451,442,43,27.56%
+Calexico High,13630991332204,Calexico Unified,216,431,432,425,47,21.76%
+Calipatria High,13631071332501,Calipatria Unified,23,464,453,446,6,26.09%
+Southwest High,13631151330133,Central Union High,193,476,482,468,70,36.27%
+Central Union High,13631151333004,Central Union High,128,468,486,464,46,35.94%
+Desert Oasis High (Continuation),13631151333558,Central Union High,1,null,null,null,null,null%
+Holtville High,13631491335306,Holtville Unified,67,441,451,434,13,19.4%
+Imperial High,13631641335900,Imperial Unified,105,495,494,474,44,41.9%
+San Pasqual Valley High,13632141337609,San Pasqual Valley Unified,9,null,null,null,null,null%
+YouthBuild Charter School of California,14101400117994,Inyo County Office of Education,1,null,null,null,null,null%
+YouthBuild Charter School of California Central,14101400121301,Inyo County Office of Education,0,null,null,null,null,null%
+The Education Corps,14101400128447,Inyo County Office of Education,3,null,null,null,null,null%
+College Bridge Academy,14101400128454,Inyo County Office of Education,0,null,null,null,null,null%
+Big Pine High,14632481431352,Big Pine Unified,3,null,null,null,null,null%
+Lone Pine High,14632891434901,Lone Pine Unified,6,null,null,null,null,null%
+Owens Valley High,14632971436203,Owens Valley Unified,1,null,null,null,null,null%
+Bishop Independent Study,14766870119081,Bishop Unified,0,null,null,null,null,null%
+Bishop Union High,14766871431600,Bishop Unified,73,494,506,476,38,52.05%
+Paramount Academy,15101570119669,Kern County Office of Education,54,373,390,377,4,7.41%
+Valley Oaks Charter,15101571530492,Kern County Office of Education,17,499,476,502,6,35.29%
+Cesar E. Chavez High,15634120100529,Delano Joint Union High,162,439,463,439,37,22.84%
+Robert F. Kennedy High,15634120116384,Delano Joint Union High,85,443,449,449,19,22.35%
+Delano High,15634121531672,Delano Joint Union High,125,436,453,422,31,24.8%
+Golden Valley High,15635290100198,Kern High,236,431,425,424,39,16.53%
+Frontier High,15635290110999,Kern High,244,486,503,475,102,41.8%
+Independence High,15635290116392,Kern High,213,471,473,463,75,35.21%
+Mira Monte High,15635290116400,Kern High,184,398,406,403,19,10.33%
+Nueva Continuation High,15635291530047,Kern High,1,null,null,null,null,null%
+Vista West Continuation High,15635291530112,Kern High,2,null,null,null,null,null%
+Arvin High,15635291530252,Kern High,171,420,424,417,21,12.28%
+Stockdale High,15635291530344,Kern High,271,524,548,520,157,57.93%
+Centennial High,15635291530369,Kern High,204,509,519,489,108,52.94%
+Ridgeview High,15635291530385,Kern High,233,436,443,421,38,16.31%
+Kern Workforce 2000 Academy,15635291530435,Kern High,0,null,null,null,null,null%
+Liberty High,15635291530476,Kern High,208,517,531,501,120,57.69%
+Bakersfield High,15635291530708,Kern High,200,486,492,457,80,40%
+East Bakersfield High,15635291532290,Kern High,168,425,429,435,34,20.24%
+Foothill High,15635291532605,Kern High,144,415,436,410,18,12.5%
+Highland High,15635291533330,Kern High,183,470,454,445,52,28.42%
+Kern Valley High,15635291533538,Kern High,23,482,464,467,6,26.09%
+North High,15635291534775,Kern High,96,467,460,443,29,30.21%
+Shafter High,15635291535087,Kern High,79,442,464,440,16,20.25%
+South High,15635291535392,Kern High,176,417,420,400,18,10.23%
+West High,15635291536606,Kern High,146,450,455,432,41,28.08%
+California Virtual Academy High @ Maricopa,15636280127209,Maricopa Unified,0,null,null,null,null,null%
+Maricopa High,15636281533843,Maricopa Unified,4,null,null,null,null,null%
+California City High,15636770114512,Mojave Unified,41,445,431,424,8,19.51%
+Mojave Jr./Sr. High,15636771534460,Mojave Unified,9,null,null,null,null,null%
+Boron Junior-Senior High,15636851530997,Muroc Joint Unified,9,null,null,null,null,null%
+Desert Junior-Senior High,15636851531987,Muroc Joint Unified,49,502,505,489,23,46.94%
+Abraham Lincoln Alternative,15637761530377,Southern Kern Unified,0,null,null,null,null,null%
+Rosamond High,15637761534957,Southern Kern Unified,51,465,471,463,17,33.33%
+Taft Union High,15638181535905,Taft Union High,69,464,471,452,18,26.09%
+Tehachapi High,15638261536135,Tehachapi Unified,102,528,518,501,56,54.9%
+Wasco High,15638591536440,Wasco Union High,106,432,448,433,22,20.75%
+Burroughs High,15737421531367,Sierra Sands Unified,116,518,536,514,70,60.34%
+McFarland High,15739081534155,McFarland Unified,100,407,420,394,14,14%
+Frazier Mountain High,15751681530401,El Tejon Unified,19,473,469,443,5,26.32%
+Crossroads Charter,16638750101717,Armona Union Elementary,0,null,null,null,null,null%
+California Virtual Academy @ Kings,16638750112698,Armona Union Elementary,3,null,null,null,null,null%
+"National University Academy, Armona",16638750121491,Armona Union Elementary,0,null,null,null,null,null%
+Corcoran High,16638911632207,Corcoran Joint Unified,71,443,446,431,16,22.54%
+Sierra Pacific High,16639250118919,Hanford Joint Union High,64,481,483,464,21,32.81%
+Hanford West High,16639251630169,Hanford Joint Union High,108,448,454,450,26,24.07%
+Hanford High,16639251634401,Hanford Joint Union High,86,460,449,436,24,27.91%
+Lemoore Middle College High,16639820110205,Lemoore Union High,55,485,468,464,22,40%
+Lemoore High,16639821635606,Lemoore Union High,117,470,468,459,37,31.62%
+Avenal High,16739321630953,Reef-Sunset Unified,82,376,357,372,1,1.22%
+Kelseyville High,17640141734359,Kelseyville Unified,42,500,468,491,18,42.86%
+Lower Lake High,17640221735000,Konocti Unified,40,463,457,459,12,30%
+Clear Lake High,17640301732304,Lakeport Unified,51,500,511,497,28,54.9%
+Middletown High,17640551736008,Middletown Unified,44,507,518,489,25,56.82%
+Upper Lake High,17640711737006,Upper Lake Union High,30,450,412,436,5,16.67%
+Big Valley Jr. Sr. High,18640891831601,Big Valley Joint Unified,2,null,null,null,null,null%
+Lassen High,18641391833805,Lassen Union High,70,492,507,484,35,50%
+New Day Academy,18641620120287,Ravendale-Termo Elementary,2,null,null,null,null,null%
+Long Valley Charter,18641626010763,Ravendale-Termo Elementary,0,null,null,null,null,null%
+Westwood Charter,18642041830132,Westwood Unified,1,null,null,null,null,null%
+Westwood High,18642041838507,Westwood Unified,7,null,null,null,null,null%
+Mt. Lassen Charter,18750360121657,Fort Sage Unified,0,null,null,null,null,null%
+Herlong High,18750361833409,Fort Sage Unified,5,null,null,null,null,null%
+Academia Avance Charter,19101990109926,Los Angeles County Office of Education,57,380,386,382,6,10.53%
+Los Angeles International Charter High,19101990109942,Los Angeles County Office of Education,65,401,420,428,15,23.08%
+Optimist Charter,19101990127522,Los Angeles County Office of Education,0,null,null,null,null,null%
+L.A. County High School for the Arts,19101991933399,Los Angeles County Office of Education,129,565,509,570,90,69.77%
+Alternative Opportunity Programs,19101991995257,Los Angeles County Office of Education,0,null,null,null,null,null%
+International Polytechnic High,19101991995869,Los Angeles County Office of Education,110,508,519,495,57,51.82%
+Soledad Enrichment Action Charter High,19101991996008,Los Angeles County Office of Education,11,338,305,335,0,0%
+Cerritos High,19642121930056,ABC Unified,367,535,587,546,263,71.66%
+Artesia High,19642121930361,ABC Unified,130,453,466,450,31,23.85%
+Whitney (Gretchen) High,19642121931880,ABC Unified,154,639,687,661,151,98.05%
+Gahr (Richard) High,19642121933159,ABC Unified,234,485,509,477,104,44.44%
+ABC Secondary (Alternative),19642121995596,ABC Unified,0,null,null,null,null,null%
+William J. (Pete) Knight High,19642460100081,Antelope Valley Union High,303,441,435,442,77,25.41%
+Eastside High,19642460108407,Antelope Valley Union High,257,420,408,409,34,13.23%
+SOAR High (Students On Academic Rise),19642460111872,Antelope Valley Union High,87,517,513,496,45,51.72%
+Los Angeles County Online High,19642460115337,Antelope Valley Union High,6,null,null,null,null,null%
+Academies of the Antelope Valley,19642460126003,Antelope Valley Union High,3,null,null,null,null,null%
+Antelope Valley High,19642461930213,Antelope Valley Union High,138,412,400,405,10,7.25%
+Desert Winds Continuation High,19642461931732,Antelope Valley Union High,1,null,null,null,null,null%
+Palmdale High,19642461936624,Antelope Valley Union High,218,446,427,433,46,21.1%
+Quartz Hill High,19642461937051,Antelope Valley Union High,344,499,494,486,152,44.19%
+Highland High,19642461995398,Antelope Valley Union High,312,471,460,458,99,31.73%
+Littlerock High,19642461995406,Antelope Valley Union High,133,423,426,422,24,18.05%
+Lancaster High,19642461995844,Antelope Valley Union High,238,470,462,449,74,31.09%
+Desert Sands Charter,19642461996537,Antelope Valley Union High,4,null,null,null,null,null%
+Arcadia High,19642611930288,Arcadia Unified,597,578,635,592,509,85.26%
+Rancho Learning Center (Alternative),19642611995299,Arcadia Unified,32,605,641,601,30,93.75%
+Azusa High,19642791930528,Azusa Unified,159,440,445,431,35,22.01%
+Gladstone High,19642791933449,Azusa Unified,117,445,432,434,19,16.24%
+Opportunities For Learning - Baldwin Park II,19642870114397,Baldwin Park Unified,79,434,397,426,7,8.86%
+Baldwin Park High,19642871930601,Baldwin Park Unified,179,459,473,446,58,32.4%
+Sierra Vista High,19642871938166,Baldwin Park Unified,215,454,463,448,59,27.44%
+Opportunities for Learning - Baldwin Park,19642871996479,Baldwin Park Unified,81,441,419,447,15,18.52%
+Bassett Senior High,19642951930700,Bassett Unified,100,427,436,431,21,21%
+Nueva Vista Continuation High,19642951936491,Bassett Unified,1,null,null,null,null,null%
+Bellflower High,19643031930775,Bellflower Unified,147,465,482,445,41,27.89%
+Mayfair High,19643031935618,Bellflower Unified,234,490,495,478,99,42.31%
+Beverly Hills High,19643111930981,Beverly Hills Unified,219,574,589,588,173,79%
+Bonita High,19643291931088,Bonita Unified,260,495,500,500,127,48.85%
+San Dimas High,19643291937739,Bonita Unified,155,497,491,487,67,43.23%
+Burbank High,19643371931187,Burbank Unified,320,516,532,513,193,60.31%
+Burroughs High,19643371931237,Burbank Unified,338,519,521,509,183,54.14%
+Options for Youth-Burbank Charter,19643371996099,Burbank Unified,22,467,439,464,9,40.91%
+Centinela Valley Independent Study,19643520118521,Centinela Valley Union High,0,null,null,null,null,null%
+Family First Charter,19643520128488,Centinela Valley Union High,0,null,null,null,null,null%
+New Opportunities Charter,19643520128496,Centinela Valley Union High,0,null,null,null,null,null%
+Hawthorne High,19643521933951,Centinela Valley Union High,179,412,405,420,26,14.53%
+Lawndale High,19643521934926,Centinela Valley Union High,361,428,429,423,62,17.17%
+Leuzinger High,19643521935048,Centinela Valley Union High,155,391,410,391,16,10.32%
+Charter Oak High,19643781931666,Charter Oak Unified,262,470,485,466,97,37.02%
+San Antonio High (Continuation),19643941931807,Claremont Unified,2,null,null,null,null,null%
+Claremont High,19643941931823,Claremont Unified,403,517,525,519,228,56.58%
+Covina High,19644361932086,Covina-Valley Unified,150,454,462,452,36,24%
+Northview High,19644361936418,Covina-Valley Unified,158,433,431,426,28,17.72%
+South Hills High,19644361938372,Covina-Valley Unified,271,488,499,476,105,38.75%
+Culver City High,19644441932201,Culver City Unified,341,514,516,502,170,49.85%
+Downey High,19644511932441,Downey Unified,455,464,456,454,126,27.69%
+Warren High,19644511939164,Downey Unified,474,467,473,458,144,30.38%
+Opportunities for Learning - Duarte,19644690128736,Duarte Unified,4,null,null,null,null,null%
+Duarte High,19644691932482,Duarte Unified,143,448,465,446,33,23.08%
+Arroyo High,19645191930320,El Monte Union High,291,455,483,457,91,31.27%
+El Monte High,19645191932664,El Monte Union High,211,434,454,430,56,26.54%
+Mountain View High,19645191932680,El Monte Union High,126,442,461,444,31,24.6%
+Rosemead High,19645191937481,El Monte Union High,277,473,505,469,124,44.77%
+South El Monte High,19645191995661,El Monte Union High,164,436,458,427,38,23.17%
+El Rancho High,19645271932706,El Rancho Unified,391,441,458,435,90,23.02%
+El Segundo High,19645351932763,El Segundo Unified,229,523,518,513,126,55.02%
+Crescenta Valley High,19645681932144,Glendale Unified,507,561,599,566,377,74.36%
+Daily (Allan F.) High (Continuation),19645681933472,Glendale Unified,2,null,null,null,null,null%
+Glendale High,19645681933530,Glendale Unified,254,502,536,495,136,53.54%
+Herbert Hoover High,19645681934082,Glendale Unified,135,505,549,511,72,53.33%
+Verdugo Academy,19645681995497,Glendale Unified,2,null,null,null,null,null%
+Anderson W. Clark Magnet High,19645681996131,Glendale Unified,171,523,580,539,119,69.59%
+Glendora High,19645761933597,Glendora Unified,329,534,554,525,217,65.96%
+Whitcomb Continuation High,19645761939677,Glendora Unified,1,null,null,null,null,null%
+Gorman Learning Center,19645841996305,Gorman Elementary,35,516,473,473,16,45.71%
+Hawthorne Math and Science Academy,19645920100354,Hawthorne,116,493,513,492,58,50%
+Inglewood High,19646341934231,Inglewood Unified,113,387,389,394,9,7.96%
+Inglewood Continuation High,19646341934249,Inglewood Unified,1,null,null,null,null,null%
+Morningside High,19646341936046,Inglewood Unified,116,380,368,379,4,3.45%
+City Honors College Preparatory Academy,19646341996529,Inglewood Unified,92,439,429,442,23,25%
+Animo Inglewood Charter High,19646341996586,Inglewood Unified,85,433,466,448,20,23.53%
+La Canada High,19646591934611,La Canada Unified,261,604,627,605,228,87.36%
+Agoura High,19646831930080,Las Virgenes Unified,288,571,576,573,236,81.94%
+Calabasas High,19646831931781,Las Virgenes Unified,238,545,547,554,166,69.75%
+Environmental Charter High,19646911996438,Lawndale Elementary,116,443,445,446,26,22.41%
+"Lennox Mathematics, Science and Technology Academy",19647090100602,Lennox,119,432,426,418,18,15.13%
+Animo Leadership High,19647091996313,Lennox,119,405,424,416,18,15.13%
+Beach High-Intensive Learning Program,19647250125153,Long Beach Unified,0,null,null,null,null,null%
+Avalon K-12,19647251930411,Long Beach Unified,30,501,515,492,15,50%
+Jordan High,19647251934470,Long Beach Unified,322,392,397,389,23,7.14%
+Lakewood High,19647251934678,Long Beach Unified,426,469,469,454,136,31.92%
+Millikan High,19647251935758,Long Beach Unified,510,472,465,464,173,33.92%
+Polytechnic High,19647251936947,Long Beach Unified,660,479,483,473,267,40.45%
+Reid High,19647251937176,Long Beach Unified,1,null,null,null,null,null%
+Wilson High,19647251939875,Long Beach Unified,475,494,494,485,222,46.74%
+California Academy of Mathematics and Science,19647251995539,Long Beach Unified,155,581,602,579,137,88.39%
+Educational Partnership High,19647251995570,Long Beach Unified,2,null,null,null,null,null%
+Cabrillo High,19647251995935,Long Beach Unified,230,405,408,388,19,8.26%
+Renaissance High School for the Arts,19647251996503,Long Beach Unified,67,506,459,483,24,35.82%
+High Tech LA,19647330100677,Los Angeles Unified,69,525,542,508,41,59.42%
+Wallis Annenberg High,19647330100750,Los Angeles Unified,85,414,424,416,11,12.94%
+North Valley Military Institute College Preparator,19647330100776,Los Angeles Unified,10,null,null,null,null,null%
+Central City Value,19647330100800,Los Angeles Unified,109,399,395,404,11,10.09%
+View Park Preparatory Accelerated High,19647330101196,Los Angeles Unified,105,385,374,382,9,8.57%
+Crenshaw Arts-Technology Charter High,19647330101659,Los Angeles Unified,61,375,362,381,3,4.92%
+Oscar De La Hoya Animo Charter High,19647330101675,Los Angeles Unified,153,392,391,398,19,12.42%
+Renaissance Arts Academy,19647330101683,Los Angeles Unified,39,512,499,506,18,46.15%
+Animo South Los Angeles Charter,19647330102434,Los Angeles Unified,135,387,372,376,9,6.67%
+New Designs Charter,19647330102541,Los Angeles Unified,63,397,410,411,11,17.46%
+Middle College High,19647330102913,Los Angeles Unified,90,439,434,435,17,18.89%
+Harbor Teacher Preparation Academy,19647330102921,Los Angeles Unified,90,510,538,509,55,61.11%
+Ivy Academia,19647330106351,Los Angeles Unified,37,416,418,431,8,21.62%
+Camino Nuevo Charter High,19647330106435,Los Angeles Unified,106,406,418,413,14,13.21%
+Animo Venice Charter High,19647330106831,Los Angeles Unified,129,416,411,414,17,13.18%
+Animo Pat Brown,19647330106849,Los Angeles Unified,121,386,412,377,14,11.57%
+Alliance Gertz-Ressler Richard Merkin 6-12 Complex,19647330106864,Los Angeles Unified,111,415,430,436,17,15.32%
+Orthopaedic Hospital,19647330106997,Los Angeles Unified,137,448,449,444,35,25.55%
+Northridge Academy High,19647330107003,Los Angeles Unified,152,461,463,464,49,32.24%
+International Studies Learning Center at Legacy Hi,19647330107011,Los Angeles Unified,42,453,465,457,14,33.33%
+Port of Los Angeles High,19647330107755,Los Angeles Unified,148,483,500,487,63,42.57%
+CHAMPS - Charter HS of Arts-Multimedia & Performin,19647330108878,Los Angeles Unified,162,501,464,497,69,42.59%
+Alliance Judy Ivie Burton Technology Academy High,19647330108894,Los Angeles Unified,131,391,413,408,16,12.21%
+Alliance Collins Family College-Ready High,19647330108936,Los Angeles Unified,161,381,408,390,13,8.07%
+Pacific Boulevard,19647330109322,Los Angeles Unified,0,null,null,null,null,null%
+Santee Education Complex,19647330109447,Los Angeles Unified,172,388,371,382,11,6.4%
+South East High,19647330109454,Los Angeles Unified,256,433,425,439,59,23.05%
+Maywood Academy High,19647330109462,Los Angeles Unified,141,421,436,420,29,20.57%
+PUC CA Academy for Liberal Studies Early College H,19647330109553,Los Angeles Unified,53,422,435,437,6,11.32%
+Los Angeles Academy of Arts & Enterprise Charter,19647330110304,Los Angeles Unified,29,385,386,388,3,10.34%
+Frida Kahlo High,19647330110668,Los Angeles Unified,1,null,null,null,null,null%
+New Village Girls Academy,19647330111484,Los Angeles Unified,16,370,320,374,0,0%
+Alliance Patti And Peter Neuwirth Leadership Acade,19647330111492,Los Angeles Unified,177,378,397,386,9,5.08%
+Alliance Dr. Olga Mohan High,19647330111500,Los Angeles Unified,108,390,422,407,15,13.89%
+Animo Ralph Bunche High,19647330111575,Los Angeles Unified,80,361,385,387,1,1.25%
+Animo Jackie Robinson High,19647330111583,Los Angeles Unified,117,381,398,377,11,9.4%
+Animo Watts College Preparatory Academy,19647330111625,Los Angeles Unified,95,371,359,362,3,3.16%
+Alliance Ouchi-O'Donovan 6-12 Complex,19647330111641,Los Angeles Unified,124,388,381,397,12,9.68%
+Alliance Marc & Eva Stern Math and Science,19647330111658,Los Angeles Unified,142,426,433,439,30,21.13%
+School of Business and Tourism at Contreras Learni,19647330112029,Los Angeles Unified,75,401,400,403,7,9.33%
+East Valley Senior High,19647330112037,Los Angeles Unified,82,397,404,415,12,14.63%
+Arleta High,19647330112045,Los Angeles Unified,236,390,404,397,21,8.9%
+Panorama High,19647330112052,Los Angeles Unified,103,413,421,411,13,12.62%
+Bright Star Secondary Charter Academy,19647330112508,Los Angeles Unified,108,431,443,435,20,18.52%
+Frederick Douglass Academy High,19647330112557,Los Angeles Unified,56,377,365,378,3,5.36%
+Student Empowerment Academy,19647330112862,Los Angeles Unified,35,360,370,372,1,2.86%
+Contreras Learning Center-Los Angeles School of Gl,19647330112870,Los Angeles Unified,63,386,397,378,3,4.76%
+West Adams Preparatory High,19647330114850,Los Angeles Unified,208,391,405,385,13,6.25%
+Magnolia Science Academy 3,19647330115030,Los Angeles Unified,46,407,433,418,6,13.04%
+Magnolia Science Academy 2,19647330115212,Los Angeles Unified,23,446,457,427,6,26.09%
+Discovery Charter Preparatory No. 2,19647330115253,Los Angeles Unified,72,365,371,373,3,4.17%
+Alliance Media Arts and Entertainment Design High,19647330116509,Los Angeles Unified,70,371,384,375,4,5.71%
+Edward R. Roybal Learning Center,19647330117051,Los Angeles Unified,151,418,409,408,21,13.91%
+Helen Bernstein High,19647330117069,Los Angeles Unified,49,391,389,391,3,6.12%
+APEX Academy,19647330117077,Los Angeles Unified,47,376,371,368,2,4.26%
+Alliance Health Services Academy High,19647330117598,Los Angeles Unified,83,380,390,393,10,12.05%
+Alliance Environmental Science and Technology High,19647330117606,Los Angeles Unified,102,430,423,444,21,20.59%
+Magnolia Science Academy 4,19647330117622,Los Angeles Unified,24,409,407,405,2,8.33%
+Contreras Learning Center-Academic Leadership Comm,19647330117721,Los Angeles Unified,57,384,412,390,4,7.02%
+RFK Community Schools-Los Angeles High School of t,19647330117747,Los Angeles Unified,58,408,411,409,10,17.24%
+Belmont SH-LA Teacher Preparatory Academy,19647330117754,Los Angeles Unified,32,331,359,339,1,3.13%
+RFK Community Schools- for the Visual Arts and Hum,19647330117762,Los Angeles Unified,71,392,416,394,12,16.9%
+New Millennium Secondary,19647330117911,Los Angeles Unified,44,387,378,388,3,6.82%
+Alain Leroy Locke College Prep Academy,19647330118588,Los Angeles Unified,281,358,377,364,15,5.34%
+Sun Valley High,19647330119651,Los Angeles Unified,30,391,408,385,3,10%
+RFK Community Schools-New Open World Academy K-12,19647330119685,Los Angeles Unified,33,402,387,402,2,6.06%
+RFK Community Schools-UCLA Community K-12,19647330119693,Los Angeles Unified,61,384,404,392,6,9.84%
+Ramon C. Cortines School of Visual and Performing,19647330119727,Los Angeles Unified,249,451,434,446,73,29.32%
+Felicitas and Gonzalo Mendez High,19647330119966,Los Angeles Unified,58,390,396,382,6,10.34%
+New Designs Charter School-Watts,19647330120071,Los Angeles Unified,16,393,375,371,0,0%
+Daniel Pearl Journalism & Communications Magnet,19647330120360,Los Angeles Unified,83,489,462,470,30,36.14%
+RFK Community Schools-Ambassador-Global Leadership,19647330121095,Los Angeles Unified,40,419,406,412,9,22.5%
+Alliance Cindy and Bill Simon Technology Academy H,19647330121285,Los Angeles Unified,97,382,395,364,7,7.22%
+Alliance Tennenbaum Family Technology High,19647330121293,Los Angeles Unified,79,393,407,385,7,8.86%
+Academy of Environmental & Social Policy (ESP) at,19647330122275,Los Angeles Unified,45,396,386,390,3,6.67%
+"Math, Science, & Technology Magnet Academy at Roos",19647330122333,Los Angeles Unified,69,450,455,447,23,33.33%
+East Los Angeles Performing Arts Academy at Esteba,19647330122341,Los Angeles Unified,80,375,375,378,4,5%
+Humanitas Academy of Art and Technology at Esteban,19647330122358,Los Angeles Unified,65,382,377,386,5,7.69%
+Social Justice Leadership Academy at Esteban E. To,19647330122366,Los Angeles Unified,79,364,357,371,1,1.27%
+East Los Angeles Renaissance Academy at Esteban E.,19647330122374,Los Angeles Unified,56,404,393,388,5,8.93%
+Engineering and Technology Academy at Esteban E. T,19647330122382,Los Angeles Unified,74,402,393,395,12,16.22%
+PUC Triumph Charter High,19647330122598,Los Angeles Unified,0,null,null,null,null,null%
+PUC Lakeview Charter High,19647330122606,Los Angeles Unified,89,380,395,390,6,6.74%
+Aspire Pacific Academy,19647330122721,Los Angeles Unified,133,401,405,394,15,11.28%
+Los Angeles Big Picture High,19647330122762,Los Angeles Unified,0,null,null,null,null,null%
+Alliance College-Ready Academy High 16,19647330123141,Los Angeles Unified,92,382,387,378,8,8.7%
+Valley Academy of Arts and Sciences,19647330124362,Los Angeles Unified,186,447,432,440,39,20.97%
+"Cesar E. Chavez Learning Academies-Arts,Theatre, E",19647330124370,Los Angeles Unified,63,361,354,369,2,3.17%
+Cesar E. Chavez Learning Academies-Social Justice,19647330124388,Los Angeles Unified,90,392,387,401,11,12.22%
+Cesar E. Chavez Learning Academies-Academy of Scie,19647330124396,Los Angeles Unified,66,427,396,413,6,9.09%
+Cesar E. Chavez Learning Academies-Teacher Prepara,19647330124404,Los Angeles Unified,50,402,389,401,4,8%
+Los Angeles River at Sonia Sotomayor Learning Acad,19647330124412,Los Angeles Unified,62,390,379,383,4,6.45%
+School of History and Dramatic Arts at Sonia Sotom,19647330124420,Los Angeles Unified,77,433,427,430,18,23.38%
+Dr. Maya Angelou Community High,19647330124479,Los Angeles Unified,92,368,345,363,5,5.43%
+Public Service Community at Diego Rivera Learning,19647330124487,Los Angeles Unified,38,383,389,406,2,5.26%
+Communication and Technology at Diego Rivera Learn,19647330124495,Los Angeles Unified,55,384,387,373,3,5.45%
+Green Design at Diego Rivera Learning Complex,19647330124503,Los Angeles Unified,49,370,375,375,1,2.04%
+Performing Arts Community at Diego Rivera Learning,19647330124511,Los Angeles Unified,64,353,368,372,2,3.13%
+Rancho Dominguez Preparatory,19647330124529,Los Angeles Unified,125,423,407,420,15,12%
+Synergy Quantum Academy,19647330124560,Los Angeles Unified,113,425,412,419,24,21.24%
+Animo College Preparatory Academy,19647330124883,Los Angeles Unified,49,350,343,359,1,2.04%
+Alliance Renee and Meyer Luskin Academy High,19647330124891,Los Angeles Unified,92,372,402,364,6,6.52%
+PUC Early College Academy for Leaders and Scholars,19647330124933,Los Angeles Unified,67,383,381,401,8,11.94%
+Alliance Margaret M. Bloomfield Technology Academy,19647330124941,Los Angeles Unified,1,null,null,null,null,null%
+Leadership in Entertainment and Media Arts (LEMA),19647330125963,Los Angeles Unified,33,361,346,354,0,0%
+STEM Academy at Bernstein High,19647330125989,Los Angeles Unified,68,391,392,399,9,13.24%
+Academy of Science and Engineering,19647330126185,Los Angeles Unified,4,null,null,null,null,null%
+Augustus F. Hawkins High A Critical Design and Gam,19647330126482,Los Angeles Unified,50,361,356,354,0,0%
+Augustus F. Hawkins High B Community Health Advoca,19647330126490,Los Angeles Unified,63,356,328,366,2,3.17%
+Augustus F. Hawkins High C Responsible Indigenous,19647330126508,Los Angeles Unified,52,342,341,346,1,1.92%
+Linda Esperanza Marquez High A Huntington Park Ins,19647330126516,Los Angeles Unified,45,428,405,431,7,15.56%
+Linda Esperanza Marquez High B LIBRA Academy,19647330126524,Los Angeles Unified,82,427,427,410,15,18.29%
+Linda Esperanza Marquez High C School of Social Ju,19647330126532,Los Angeles Unified,44,436,445,423,7,15.91%
+"Science, Technology, Engineering, Arts and Mathema",19647330126540,Los Angeles Unified,17,384,382,383,1,5.88%
+Visual and Performing Arts at Legacy High School C,19647330126557,Los Angeles Unified,19,392,379,386,1,5.26%
+Academy for Multilingual Arts and Science at Mervy,19647330126573,Los Angeles Unified,28,366,350,377,0,0%
+Academies of Education and Empowerment at Carson H,19647330126615,Los Angeles Unified,84,410,417,403,8,9.52%
+Academy of Medical Arts at Carson High,19647330126623,Los Angeles Unified,115,417,431,417,15,13.04%
+Humanities and Arts (HARTS) Academy of Los Angeles,19647330127787,Los Angeles Unified,25,446,421,425,2,8%
+Contreras Learning Center-School of Social Justice,19647330127795,Los Angeles Unified,76,377,369,383,3,3.95%
+Early College Academy-LA Trade Tech College,19647330127803,Los Angeles Unified,2,null,null,null,null,null%
+Camino Nuevo High No. 2,19647330127910,Los Angeles Unified,0,null,null,null,null,null%
+William Tell Aggeler Opportunity High,19647331930064,Los Angeles Unified,0,null,null,null,null,null%
+Harris Newmark Continuation,19647331930296,Los Angeles Unified,1,null,null,null,null,null%
+Whitney Young Continuation,19647331930403,Los Angeles Unified,1,null,null,null,null,null%
+View Park Continuation,19647331930429,Los Angeles Unified,8,null,null,null,null,null%
+Harold McAlister High (Opportunity),19647331930619,Los Angeles Unified,2,null,null,null,null,null%
+Phineas Banning Senior High,19647331930650,Los Angeles Unified,309,405,424,408,40,12.94%
+Thomas Riley High,19647331930692,Los Angeles Unified,2,null,null,null,null,null%
+Angel's Gate (Continuation),19647331930734,Los Angeles Unified,1,null,null,null,null,null%
+Bell Senior High,19647331930866,Los Angeles Unified,411,420,439,420,64,15.57%
+Belmont Senior High,19647331930924,Los Angeles Unified,175,390,409,401,17,9.71%
+John R. Wooden High,19647331930940,Los Angeles Unified,3,null,null,null,null,null%
+Birmingham Community Charter High,19647331931047,Los Angeles Unified,327,433,428,433,60,18.35%
+Albert Einstein Continuation,19647331931385,Los Angeles Unified,1,null,null,null,null,null%
+Highland Park Continuation,19647331931393,Los Angeles Unified,2,null,null,null,null,null%
+Jack London Continuation,19647331931450,Los Angeles Unified,1,null,null,null,null,null%
+Canoga Park Senior High,19647331931476,Los Angeles Unified,124,442,429,426,22,17.74%
+Mission Continuation,19647331931484,Los Angeles Unified,3,null,null,null,null,null%
+Carson Senior High,19647331931526,Los Angeles Unified,135,438,431,432,28,20.74%
+Chatsworth Charter High,19647331931708,Los Angeles Unified,238,458,455,446,71,29.83%
+Valley Alternative Magnet,19647331931716,Los Angeles Unified,19,463,469,457,6,31.58%
+Grover Cleveland Charter High,19647331931864,Los Angeles Unified,428,507,507,509,215,50.23%
+"Crenshaw Science, Technology, Engineering, Math an",19647331932128,Los Angeles Unified,150,375,374,368,3,2%
+Henry David Thoreau Continuation,19647331932250,Los Angeles Unified,1,null,null,null,null,null%
+Susan Miller Dorsey Senior High,19647331932383,Los Angeles Unified,143,374,359,378,6,4.2%
+Eagle Rock High,19647331932540,Los Angeles Unified,288,469,471,460,101,35.07%
+El Camino Real Charter High,19647331932623,Los Angeles Unified,428,517,532,514,246,57.48%
+Los Angeles Center for Enriched Studies,19647331932847,Los Angeles Unified,207,550,579,559,152,73.43%
+Downtown Business High,19647331932888,Los Angeles Unified,195,475,505,464,73,37.44%
+Fairfax Senior High,19647331932920,Los Angeles Unified,275,454,466,450,81,29.45%
+John H. Francis Polytechnic,19647331932987,Los Angeles Unified,417,437,455,439,99,23.74%
+King/Drew Medical Magnet High,19647331933001,Los Angeles Unified,275,447,451,458,78,28.36%
+Benjamin Franklin Senior High,19647331933043,Los Angeles Unified,194,440,448,427,51,26.29%
+John C. Fremont Senior High,19647331933118,Los Angeles Unified,227,386,388,383,16,7.05%
+Sherman Oaks Center for Enriched Studies,19647331933233,Los Angeles Unified,200,517,521,525,117,58.5%
+Gardena Senior High,19647331933241,Los Angeles Unified,132,421,400,417,18,13.64%
+James A. Garfield Senior High,19647331933381,Los Angeles Unified,351,408,420,404,42,11.97%
+Granada Hills Charter High,19647331933746,Los Angeles Unified,748,539,560,543,505,67.51%
+Ulysses S. Grant Senior High,19647331933795,Los Angeles Unified,167,429,430,438,33,19.76%
+Alexander Hamilton Senior High,19647331933852,Los Angeles Unified,459,482,462,481,176,38.34%
+Hollywood Senior High,19647331934033,Los Angeles Unified,235,448,447,444,57,24.26%
+Huntington Park Senior High,19647331934157,Los Angeles Unified,185,387,391,388,12,6.49%
+Thomas Jefferson Senior High,19647331934371,Los Angeles Unified,127,368,377,373,6,4.72%
+David Starr Jordan Senior High,19647331934454,Los Angeles Unified,46,402,394,389,3,6.52%
+Abraham Lincoln Senior High,19647331935121,Los Angeles Unified,181,432,462,425,50,27.62%
+Los Angeles Senior High,19647331935352,Los Angeles Unified,182,414,430,410,29,15.93%
+Manual Arts Senior High,19647331935519,Los Angeles Unified,209,373,374,376,10,4.78%
+John Marshall Senior High,19647331935568,Los Angeles Unified,365,490,493,485,164,44.93%
+James Monroe High,19647331935865,Los Angeles Unified,225,438,430,437,55,24.44%
+Nathaniel Narbonne Senior High,19647331936160,Los Angeles Unified,278,446,446,438,66,23.74%
+North Hollywood Senior High,19647331936350,Los Angeles Unified,400,517,516,510,191,47.75%
+Ramona Opportunity High,19647331937085,Los Angeles Unified,0,null,null,null,null,null%
+Reseda Senior High,19647331937226,Los Angeles Unified,210,446,449,440,56,26.67%
+Theodore Roosevelt Senior High,19647331937424,Los Angeles Unified,229,392,396,390,22,9.61%
+San Fernando Senior High,19647331937622,Los Angeles Unified,238,416,436,413,41,17.23%
+San Pedro Senior High,19647331937838,Los Angeles Unified,243,460,456,455,73,30.04%
+South Gate Senior High,19647331938307,Los Angeles Unified,354,409,410,421,46,12.99%
+Sylmar Senior High,19647331938554,Los Angeles Unified,276,411,417,406,32,11.59%
+William Howard Taft Charter High,19647331938612,Los Angeles Unified,296,511,530,524,169,57.09%
+University Senior High,19647331938885,Los Angeles Unified,248,457,462,456,81,32.66%
+Van Nuys Senior High,19647331938968,Los Angeles Unified,340,518,539,511,194,57.06%
+Venice Senior High,19647331939040,Los Angeles Unified,222,475,480,468,77,34.68%
+Verdugo Hills Senior High,19647331939107,Los Angeles Unified,182,449,479,449,57,31.32%
+George Washington Preparatory High,19647331939305,Los Angeles Unified,124,375,360,375,4,3.23%
+WESM Health/Sports Medicine,19647331939479,Los Angeles Unified,158,445,425,435,36,22.78%
+Woodrow Wilson Senior High,19647331939859,Los Angeles Unified,240,398,408,396,23,9.58%
+John F. Kennedy High,19647331939941,Los Angeles Unified,227,434,440,432,46,20.26%
+Francisco Bravo Medical Magnet High,19647331995448,Los Angeles Unified,369,477,485,474,137,37.13%
+Los Angeles Unified Alternative Education,19647331995489,Los Angeles Unified,0,null,null,null,null,null%
+Youth Opportunities Unlimited,19647331995794,Los Angeles Unified,1,null,null,null,null,null%
+Palisades Charter High,19647331995836,Los Angeles Unified,452,531,538,525,262,57.96%
+City of Angels,19647331996115,Los Angeles Unified,20,507,451,501,9,45%
+Los Angeles Leadership Academy,19647331996610,Los Angeles Unified,33,418,426,425,6,18.18%
+Elizabeth Learning Center,19647336016885,Los Angeles Unified,83,407,393,414,5,6.02%
+Thirty-Second Street USC Performing Arts,19647336019475,Los Angeles Unified,58,447,442,442,11,18.97%
+Vaughn Next Century Learning Center,19647336019715,Los Angeles Unified,87,459,444,446,22,25.29%
+Robert Fulton College Preparatory,19647336058002,Los Angeles Unified,108,390,379,399,11,10.19%
+Foshay Learning Center,19647336061451,Los Angeles Unified,164,438,442,453,43,26.22%
+PUC Community Charter Middle and PUC Community Cha,19647336116750,Los Angeles Unified,0,null,null,null,null,null%
+Magnolia Science Academy,19647336119945,Los Angeles Unified,55,475,501,470,23,41.82%
+Marco Antonio Firebaugh High,19647740109538,Lynwood Unified,217,404,405,412,23,10.6%
+Pathway Independent Study,19647740114777,Lynwood Unified,0,null,null,null,null,null%
+Lynwood High,19647741935436,Lynwood Unified,259,400,406,403,24,9.27%
+Canyon Oaks High,19647901935899,Monrovia Unified,13,390,363,397,0,0%
+Monrovia High,19647901935923,Monrovia Unified,214,491,499,480,97,45.33%
+Mountain Park,19647901996404,Monrovia Unified,13,489,441,468,4,30.77%
+Applied Technology Center,19648080124552,Montebello Unified,83,422,411,420,12,14.46%
+Schurr High,19648081930155,Montebello Unified,275,464,472,467,89,32.36%
+Bell Gardens High,19648081930825,Montebello Unified,304,420,420,422,46,15.13%
+Montebello High,19648081935998,Montebello Unified,243,427,451,435,52,21.4%
+John H. Glenn High,19648401933647,Norwalk-La Mirada Unified,365,375,385,367,25,6.85%
+La Mirada High,19648401934728,Norwalk-La Mirada Unified,463,439,436,437,106,22.89%
+Norwalk High,19648401936467,Norwalk-La Mirada Unified,442,404,405,413,74,16.74%
+El Camino High (Continuation),19648401936475,Norwalk-La Mirada Unified,69,324,314,321,0,0%
+Antelope Valley Learning Academy,19648570112714,Palmdale Elementary,3,null,null,null,null,null%
+Palmdale Aerospace Academy,19648570125377,Palmdale Elementary,1,null,null,null,null,null%
+Guidance Charter,19648576119580,Palmdale Elementary,12,403,370,407,1,8.33%
+Rancho del Mar High (Continuation),19648651933308,Palos Verdes Peninsula Unified,2,null,null,null,null,null%
+Palos Verdes Peninsula High,19648651995588,Palos Verdes Peninsula Unified,485,594,635,607,411,84.74%
+Palos Verdes High,19648651996552,Palos Verdes Peninsula Unified,251,565,583,564,198,78.88%
+Paramount Alternative Education Center,19648730120378,Paramount Unified,0,null,null,null,null,null%
+Paramount High,19648731936749,Paramount Unified,459,424,434,414,68,14.81%
+Aveson Global Leadership Academy,19648810113464,Pasadena Unified,9,null,null,null,null,null%
+CIS Academy,19648810117440,Pasadena Unified,4,null,null,null,null,null%
+Learning Works,19648810118075,Pasadena Unified,3,null,null,null,null,null%
+Blair High,19648811931062,Pasadena Unified,63,489,495,475,27,42.86%
+Marshall Fundamental,19648811931674,Pasadena Unified,168,496,477,474,70,41.67%
+John Muir High,19648811936103,Pasadena Unified,113,417,407,410,15,13.27%
+Rose City High (Continuation),19648811936806,Pasadena Unified,9,null,null,null,null,null%
+Pasadena High,19648811936822,Pasadena Unified,288,486,484,477,114,39.58%
+School of Extended Educational Options,19649070115170,Pomona Unified,2,null,null,null,null,null%
+Ganesha High,19649071933175,Pomona Unified,114,417,429,418,15,13.16%
+Garey High,19649071933324,Pomona Unified,133,433,433,439,25,18.8%
+Pomona High,19649071937028,Pomona Unified,196,409,410,412,28,14.29%
+Diamond Ranch High,19649071995901,Pomona Unified,339,489,497,472,147,43.36%
+Village Academy High School at Indian Hill,19649071996495,Pomona Unified,64,433,426,442,15,23.44%
+Fremont Academy of Engineering and Design,19649076061634,Pomona Unified,27,451,433,433,6,22.22%
+Palomares Academy of Health Science,19649076061642,Pomona Unified,22,424,441,388,4,18.18%
+San Marino High,19649641937754,San Marino Unified,212,601,657,613,193,91.04%
+Santa Monica High,19649801938000,Santa Monica-Malibu Unified,387,531,541,524,229,59.17%
+Malibu High,19649801995737,Santa Monica-Malibu Unified,105,557,560,553,77,73.33%
+South Pasadena Senior High,19650291938455,South Pasadena Unified,290,565,608,563,227,78.28%
+Temple City High,19650521938679,Temple City Unified,362,545,600,556,267,73.76%
+North High,19650601936277,Torrance Unified,243,490,525,490,126,51.85%
+South High,19650601938356,Torrance Unified,354,540,577,548,248,70.06%
+Torrance High,19650601938752,Torrance Unified,274,495,521,500,136,49.64%
+West High,19650601939602,Torrance Unified,329,532,588,539,232,70.52%
+California Virtual Academy @ Los Angeles,19650940112706,West Covina Unified,35,549,502,521,23,65.71%
+Edgewood High,19650940122432,West Covina Unified,104,503,522,493,57,54.81%
+Insight @ Los Angeles,19650940125393,West Covina Unified,19,453,437,425,4,21.05%
+West Covina High,19650941939537,West Covina Unified,296,477,506,471,120,40.54%
+California High,19651281931302,Whittier Union High,338,450,456,439,85,25.15%
+La Serna High,19651281934868,Whittier Union High,410,486,488,470,158,38.54%
+Pioneer High,19651281936889,Whittier Union High,176,410,451,422,26,14.77%
+Santa Fe High,19651281937903,Whittier Union High,351,434,442,438,74,21.08%
+Whittier High,19651281939701,Whittier Union High,224,450,452,442,55,24.55%
+Sierra Vista High (Alternative),19651281995653,Whittier Union High,1,null,null,null,null,null%
+Golden Valley High,19651360102459,William S. Hart Union High,245,504,510,500,117,47.76%
+West Ranch High,19651360102475,William S. Hart Union High,395,530,554,539,268,67.85%
+Mission View Public,19651360114439,William S. Hart Union High,10,null,null,null,null,null%
+Santa Clarita Valley International,19651360117234,William S. Hart Union High,18,464,423,443,4,22.22%
+"Albert Einstein Academy for Letters, Arts and Scie",19651360121731,William S. Hart Union High,0,null,null,null,null,null%
+Canyon High,19651361931492,William S. Hart Union High,291,497,509,492,147,50.52%
+Saugus High,19651361931740,William S. Hart Union High,280,535,541,518,174,62.14%
+Learning Post High (Alternative),19651361932532,William S. Hart Union High,7,null,null,null,null,null%
+William S. Hart High,19651361933902,William S. Hart Union High,287,523,534,510,161,56.1%
+Bowman (Jereann) High (Continuation),19651361934421,William S. Hart Union High,1,null,null,null,null,null%
+Valencia High,19651361995802,William S. Hart Union High,493,529,544,528,298,60.45%
+Opportunities for Learning - Santa Clarita,19651361996263,William S. Hart Union High,18,492,439,489,8,44.44%
+Academy of the Canyons,19651361996321,William S. Hart Union High,82,610,591,596,67,81.71%
+Centennial High,19734371931567,Compton Unified,83,366,362,372,2,2.41%
+Compton High,19734371931963,Compton Unified,146,394,378,394,11,7.53%
+Dominguez High,19734371932326,Compton Unified,153,413,406,410,17,11.11%
+Thurgood Marshall,19734371996057,Compton Unified,4,null,null,null,null,null%
+Puente Hills High,19734451933316,Hacienda la Puente Unified,0,null,null,null,null,null%
+La Puente High,19734451934801,Hacienda la Puente Unified,139,424,429,423,24,17.27%
+Los Altos High,19734451935246,Hacienda la Puente Unified,276,471,475,464,92,33.33%
+Glen A. Wilson High,19734451939834,Hacienda la Puente Unified,253,520,575,531,161,63.64%
+William Workman High,19734451939925,Hacienda la Puente Unified,90,420,451,415,13,14.44%
+iQ Academy California-Los Angeles,19734520120600,Rowland Unified,2,null,null,null,null,null%
+Nogales High,19734521936228,Rowland Unified,176,442,470,436,46,26.14%
+John A. Rowland High,19734521937564,Rowland Unified,317,535,597,541,221,69.72%
+Diamond Bar High,19734601932862,Walnut Valley Unified,595,558,615,568,453,76.13%
+Walnut High,19734601939149,Walnut Valley Unified,583,558,598,559,429,73.58%
+Gabrielino High,19752911995810,San Gabriel Unified,282,522,557,518,176,62.41%
+Options for Youth San Gabriel,19752911996016,San Gabriel Unified,26,474,413,455,5,19.23%
+Del Mar High,19752911996081,San Gabriel Unified,1,null,null,null,null,null%
+Assurance Learning Academy,19753090127100,Acton-Agua Dulce Unified,2,null,null,null,null,null%
+Hope Charter Academy,19753090129742,Acton-Agua Dulce Unified,0,null,null,null,null,null%
+Academy of Arts and Sciences: Los Angeles (9-12),19753090130781,Acton-Agua Dulce Unified,0,null,null,null,null,null%
+SIATech Academy South,19753090131383,Acton-Agua Dulce Unified,0,null,null,null,null,null%
+Vasquez High,19753091995786,Acton-Agua Dulce Unified,38,517,486,500,20,52.63%
+Mira Costa High,19753331935808,Manhattan Beach Unified,415,571,584,577,338,81.45%
+Redondo Union High,19753411937143,Redondo Beach Unified,391,526,540,520,238,60.87%
+Redondo Shores High (Continuation),19753411995752,Redondo Beach Unified,1,null,null,null,null,null%
+School of Arts and Enterprise,19756971996693,SBE - The School of Arts and Enterprise,40,453,427,473,10,25%
+Century High,19757131930122,Alhambra Unified,2,null,null,null,null,null%
+Alhambra High,19757131930163,Alhambra Unified,388,480,524,470,178,45.88%
+Mark Keppel High,19757131934553,Alhambra Unified,436,521,595,526,289,66.28%
+San Gabriel High,19757131937697,Alhambra Unified,339,475,535,473,159,46.9%
+Independence High (Alternative),19757131995430,Alhambra Unified,1,null,null,null,null,null%
+Lifeline Education Charter,19764970115725,SBE - Lifeline Education Charter,33,346,306,359,0,0%
+Da Vinci Science,19768690119016,Wiseburn Unified,104,472,478,467,31,29.81%
+Da Vinci Design,19768690119636,Wiseburn Unified,97,459,442,459,28,28.87%
+Anahuacalmecac International University Preparator,19768850130799,SBE - Anahuacalmecac International Preparatory Hig,0,null,null,null,null,null%
+Madera County Independent Academy,20102070117184,Madera County Office of Education,0,null,null,null,null,null%
+Pioneer Technical Center,20102072030229,Madera County Office of Education,0,null,null,null,null,null%
+Chowchilla Union High,20652012032357,Chowchilla Union High,87,443,440,439,16,18.39%
+Madera South High,20652430110965,Madera Unified,264,414,417,414,27,10.23%
+Sherman Thomas Charter High,20652430118950,Madera Unified,2,null,null,null,null,null%
+Furman (Duane E.) High (Independent Study Program),20652432035640,Madera Unified,0,null,null,null,null,null%
+Madera High,20652432035707,Madera Unified,214,453,455,455,64,29.91%
+Liberty High,20755802030203,Golden Valley Unified,82,494,467,472,30,36.59%
+Minarets High,20756060117010,Chawanakee Unified,36,516,469,472,15,41.67%
+Minarets Charter High,20756060125021,Chawanakee Unified,26,492,453,463,8,30.77%
+Chawanakee Academy,20756066114862,Chawanakee Unified,1,null,null,null,null,null%
+Yosemite High,20764142030013,Yosemite Unified,64,516,524,500,39,60.94%
+Evergreen High,20764142030104,Yosemite Unified,0,null,null,null,null,null%
+Glacier High School Charter,20764142030237,Yosemite Unified,6,null,null,null,null,null%
+Nova Education Center,21654172130045,Novato Unified,4,null,null,null,null,null%
+Marin Oaks High,21654172132264,Novato Unified,1,null,null,null,null,null%
+Novato High,21654172132272,Novato Unified,207,534,533,533,133,64.25%
+San Marin High,21654172133056,Novato Unified,106,528,532,526,65,61.32%
+San Rafael High,21654662133262,San Rafael City High,135,494,518,503,69,51.11%
+Terra Linda High,21654662134005,San Rafael City High,148,522,518,529,85,57.43%
+Tamiscal High (Alternative),21654822130078,Tamalpais Union High,27,574,554,559,23,85.19%
+Sir Francis Drake High,21654822131340,Tamalpais Union High,134,576,569,566,105,78.36%
+Redwood High,21654822132587,Tamalpais Union High,241,583,593,579,206,85.48%
+Tamalpais High,21654822133692,Tamalpais Union High,205,578,571,576,165,80.49%
+San Andreas High (Continuation),21654822134419,Tamalpais Union High,2,null,null,null,null,null%
+Tomales High,21733612134310,Shoreline Unified,23,471,491,468,9,39.13%
+Sierra Home,22655322230068,Mariposa County Unified,0,null,null,null,null,null%
+Mariposa County High,22655322235356,Mariposa County Unified,39,534,550,513,28,71.79%
+Anderson Valley Junior-Senior High,23655402330900,Anderson Valley Unified,18,463,526,484,7,38.89%
+Fort Bragg High,23655652331361,Fort Bragg Unified,51,510,485,495,24,47.06%
+Mendocino High,23655812333185,Mendocino Unified,18,582,522,527,15,83.33%
+Point Arena High,23655992333649,Point Arena Joint Union High,12,472,448,440,3,25%
+Round Valley High,23656072334563,Round Valley Unified,3,null,null,null,null,null%
+Ukiah Independent Study Academy,23656150128280,Ukiah Unified,0,null,null,null,null,null%
+Redwood Academy of Ukiah,23656152330413,Ukiah Unified,13,566,552,540,11,84.62%
+Accelerated Achievement Academy,23656152330454,Ukiah Unified,0,null,null,null,null,null%
+Ukiah High,23656152335024,Ukiah Unified,106,519,533,515,60,56.6%
+New Horizons,23656232330314,Willits Unified,2,null,null,null,null,null%
+Willits Charter,23656232330363,Willits Unified,3,null,null,null,null,null%
+Willits High,23656232335487,Willits Unified,31,503,475,473,12,38.71%
+Potter Valley High,23738662330041,Potter Valley Community Unified,11,491,439,456,3,27.27%
+Laytonville High,23739162332260,Laytonville Unified,10,null,null,null,null,null%
+Leggett Valley High,23752182332724,Leggett Valley Unified,1,null,null,null,null,null%
+Merced Scholars Charter,24102490106518,Merced County Office of Education,3,null,null,null,null,null%
+Hilmar High,24656982432409,Hilmar Unified,57,462,453,447,17,29.82%
+Le Grand High,24657302433001,Le Grand Union High,59,415,413,425,5,8.47%
+Crossroads Alternative Education Center,24657550119073,Los Banos Unified,0,null,null,null,null,null%
+Pacheco High,24657550120923,Los Banos Unified,157,445,451,441,39,24.84%
+Los Banos High,24657552434207,Los Banos Unified,103,457,465,458,29,28.16%
+Independence High (Alternative),24657892430049,Merced Union High,0,null,null,null,null,null%
+Golden Valley High,24657892430098,Merced Union High,179,434,446,436,51,28.49%
+Buhach Colony High,24657892430205,Merced Union High,197,443,447,438,44,22.34%
+Atwater High,24657892430601,Merced Union High,187,451,446,433,40,21.39%
+Livingston High,24657892433605,Merced Union High,108,448,442,442,18,16.67%
+Merced High,24657892435204,Merced Union High,241,482,491,465,90,37.34%
+Gustine High,24736192431807,Gustine Unified,52,443,444,452,15,28.85%
+Dos Palos High,24753172431203,Dos Palos Oro Loma Joint Unified,63,431,429,422,9,14.29%
+Shattuck Independent Study,24753660114538,Delhi Unified,0,null,null,null,null,null%
+Delhi High,24753662430114,Delhi Unified,88,399,403,419,8,9.09%
+Surprise Valley High,25658962537702,Surprise Valley Joint Unified,3,null,null,null,null,null%
+Modoc High,25735852535409,Modoc Joint Unified,13,515,518,500,8,61.54%
+Tulelake High,25735934737250,Tulelake Basin Joint Unified,8,null,null,null,null,null%
+Urban Corps of San Diego County Charter,26102640124990,Mono County Office of Education,0,null,null,null,null,null%
+California Heritage Youthbuild Academy,26102640125633,Mono County Office of Education,0,null,null,null,null,null%
+Orange County Conservation Corps Charter,26102640126698,Mono County Office of Education,0,null,null,null,null,null%
+Coleville High,26736682633006,Eastern Sierra Unified,10,null,null,null,null,null%
+Lee Vining High,26736682635001,Eastern Sierra Unified,17,481,452,489,6,35.29%
+Mammoth High,26736922630010,Mammoth Unified,39,500,505,492,20,51.28%
+Monterey County Home Charter,27102722730232,Monterey County Office of Education,3,null,null,null,null,null%
+Carmel High,27659872730414,Carmel Unified,40,601,584,575,32,80%
+Greenfield High,27660682730174,South Monterey County Joint Union High,49,429,389,427,5,10.2%
+King City High,27660682732170,South Monterey County Joint Union High,46,470,463,457,15,32.61%
+Marina High,27660920111435,Monterey Peninsula Unified,59,479,478,454,20,33.9%
+Learning for Life Charter,27660922730240,Monterey Peninsula Unified,1,null,null,null,null,null%
+Monterey High,27660922732808,Monterey Peninsula Unified,172,493,492,491,81,47.09%
+Seaside High,27660922735348,Monterey Peninsula Unified,114,433,452,423,23,20.18%
+Pacific Grove High,27661342733657,Pacific Grove Unified,88,561,547,542,61,69.32%
+El Puente,27661590124610,Salinas Union High,3,null,null,null,null,null%
+Alisal High,27661592730109,Salinas Union High,224,437,449,431,51,22.77%
+Everett Alvarez High,27661592730166,Salinas Union High,215,450,438,446,44,20.47%
+North Salinas High,27661592733178,Salinas Union High,129,453,445,448,32,24.81%
+Salinas High,27661592734556,Salinas Union High,244,499,504,487,121,49.59%
+North Monterey County High,27738252730034,North Monterey County Unified,94,449,424,437,24,25.53%
+North Monterey County Center for Independent Study,27738252730125,North Monterey County Unified,2,null,null,null,null,null%
+Soledad High,27754402730190,Soledad Unified,117,447,449,428,25,21.37%
+Gonzales High,27754732730885,Gonzales Unified,79,428,397,425,11,13.92%
+Calistoga Junior-Senior High,28662412831758,Calistoga Joint Unified,26,428,430,432,2,7.69%
+Napa Valley Independent Studies,28662660101964,Napa Valley Unified,3,null,null,null,null,null%
+American Canyon High,28662660121087,Napa Valley Unified,160,469,463,470,57,35.63%
+Vintage High,28662662830016,Napa Valley Unified,201,491,494,489,92,45.77%
+New Technology High,28662662830115,Napa Valley Unified,43,522,469,500,22,51.16%
+Napa High,28662662835601,Napa Valley Unified,168,513,521,500,83,49.4%
+Saint Helena High,28662902837102,Saint Helena Unified,51,523,471,513,24,47.06%
+Bitney College Preparatory High,29102980114314,Nevada County Office of Education,24,506,473,482,11,45.83%
+Forest Charter,29102980126219,Nevada County Office of Education,30,522,500,508,18,60%
+EPIC de Cesar Chavez,29102980130823,Nevada County Office of Education,0,null,null,null,null,null%
+Muir Charter,29102982930147,Nevada County Office of Education,1,null,null,null,null,null%
+William & Marian Ghidotti High,29663570112367,Nevada Joint Union High,32,622,608,576,29,90.63%
+North Point Academy,29663572930030,Nevada Joint Union High,0,null,null,null,null,null%
+Bear River High,29663572930048,Nevada Joint Union High,70,555,555,540,57,81.43%
+Nevada Union High,29663572935500,Nevada Joint Union High,122,550,552,534,83,68.03%
+Vantage Point Charter,29768776111371,Penn Valley Union Elementary,0,null,null,null,null,null%
+OCCS:CHEP/PCHS,30103063030632,Orange County Department of Education,39,531,527,528,26,66.67%
+Cypress High,30664313030038,Anaheim Union High,369,521,551,513,211,57.18%
+Anaheim High,30664313030228,Anaheim Union High,255,436,448,432,56,21.96%
+Polaris High (Alternative),30664313030384,Anaheim Union High,0,null,null,null,null,null%
+Oxford Academy,30664313030616,Anaheim Union High,167,627,669,634,164,98.2%
+Gilbert High (Continuation),30664313032786,Anaheim Union High,1,null,null,null,null,null%
+Katella High,30664313033057,Anaheim Union High,268,444,451,428,59,22.01%
+John F. Kennedy High,30664313033115,Anaheim Union High,309,524,551,529,196,63.43%
+Loara High,30664313033784,Anaheim Union High,215,441,455,445,54,25.12%
+Magnolia High,30664313034204,Anaheim Union High,159,442,447,443,38,23.9%
+Savanna High,30664313036712,Anaheim Union High,192,437,455,444,46,23.96%
+Western High,30664313038239,Anaheim Union High,138,462,483,444,44,31.88%
+Brea Canyon High (Continuation),30664493030624,Brea-Olinda Unified,1,null,null,null,null,null%
+Brea-Olinda High,30664493030640,Brea-Olinda Unified,251,520,545,521,155,61.75%
+Capistrano Connections Academy,30664640106765,Capistrano Unified,53,537,513,512,34,64.15%
+San Juan Hills High,30664640113381,Capistrano Unified,262,545,533,534,167,63.74%
+California Preparatory Academy,30664640124131,Capistrano Unified,6,null,null,null,null,null%
+Capistrano Valley High,30664643030210,Capistrano Unified,331,542,558,537,227,68.58%
+Aliso Niguel High,30664643030574,Capistrano Unified,417,563,574,548,312,74.82%
+Tesoro High,30664643030756,Capistrano Unified,339,549,569,545,247,72.86%
+Junipero Serra High,30664643035987,Capistrano Unified,4,null,null,null,null,null%
+San Clemente High,30664643036001,Capistrano Unified,406,537,530,522,266,65.52%
+Dana Hills High,30664643038569,Capistrano Unified,362,540,541,527,243,67.13%
+Opportunities for Learning - Capistrano,30664646120356,Capistrano Unified,3,null,null,null,null,null%
+La Sierra High (Alternative),30665143030335,Fullerton Joint Union High,1,null,null,null,null,null%
+Buena Park High,30665143030855,Fullerton Joint Union High,241,456,456,449,68,28.22%
+Fullerton Union High,30665143032505,Fullerton Joint Union High,205,494,518,499,103,50.24%
+La Habra High,30665143033362,Fullerton Joint Union High,235,491,501,474,103,43.83%
+La Vista High (Continuation),30665143033610,Fullerton Joint Union High,2,null,null,null,null,null%
+Sonora High,30665143037090,Fullerton Joint Union High,219,511,530,517,131,59.82%
+Sunny Hills High,30665143037348,Fullerton Joint Union High,387,538,586,551,281,72.61%
+Troy High,30665143037496,Fullerton Joint Union High,541,611,653,617,470,86.88%
+Bolsa Grande High,30665223030434,Garden Grove Unified,359,490,521,491,174,48.47%
+Garden Grove High,30665223032752,Garden Grove Unified,354,475,499,476,140,39.55%
+La Quinta High,30665223033578,Garden Grove Unified,411,495,552,497,236,57.42%
+Los Amigos High,30665223033933,Garden Grove Unified,210,436,455,441,52,24.76%
+Pacifica High,30665223035581,Garden Grove Unified,268,501,522,498,135,50.37%
+Rancho Alamitos High,30665223035706,Garden Grove Unified,213,476,503,478,84,39.44%
+Santiago High,30665223036555,Garden Grove Unified,279,451,455,443,64,22.94%
+Ocean View High,30665483030145,Huntington Beach Union High,170,481,486,472,64,37.65%
+Coast High,30665483030368,Huntington Beach Union High,4,null,null,null,null,null%
+Edison High,30665483031895,Huntington Beach Union High,302,541,554,534,208,68.87%
+Fountain Valley High,30665483032158,Huntington Beach Union High,515,542,578,543,362,70.29%
+Huntington Beach High,30665483032943,Huntington Beach Union High,384,542,558,534,266,69.27%
+Marina High,30665483034410,Huntington Beach Union High,272,527,553,520,164,60.29%
+Westminster High,30665483038445,Huntington Beach Union High,274,479,521,472,117,42.7%
+Laguna Beach High,30665553033206,Laguna Beach Unified,74,572,585,577,62,83.78%
+Early College High,30665970111666,Newport-Mesa Unified,35,463,492,478,11,31.43%
+Monte Vista High,30665973030186,Newport-Mesa Unified,1,null,null,null,null,null%
+Corona del Mar High,30665973031697,Newport-Mesa Unified,152,570,588,566,115,75.66%
+Costa Mesa High,30665973031853,Newport-Mesa Unified,90,480,492,478,37,41.11%
+Estancia High,30665973032000,Newport-Mesa Unified,154,455,457,431,41,26.62%
+Back Bay High,30665973034907,Newport-Mesa Unified,1,null,null,null,null,null%
+Newport Harbor High,30665973035045,Newport-Mesa Unified,249,519,529,514,150,60.24%
+OUSD Home Sch,30666210118174,Orange Unified,2,null,null,null,null,null%
+Canyon High,30666213030046,Orange Unified,315,533,549,539,204,64.76%
+El Modena High,30666213031952,Orange Unified,201,519,533,513,108,53.73%
+Orange High,30666213035409,Orange Unified,112,459,478,448,31,27.68%
+Villa Park High,30666213038098,Orange Unified,279,515,525,509,158,56.63%
+Yorba Linda High,30666470119404,Placentia-Yorba Linda Unified,286,540,571,543,201,70.28%
+Esperanza High,30666473030053,Placentia-Yorba Linda Unified,202,533,556,527,129,63.86%
+La Entrada High,30666473030483,Placentia-Yorba Linda Unified,2,null,null,null,null,null%
+El Dorado High,30666473031929,Placentia-Yorba Linda Unified,224,523,533,504,134,59.82%
+El Camino Real Continuation High,30666473031945,Placentia-Yorba Linda Unified,1,null,null,null,null,null%
+Valencia High,30666473038023,Placentia-Yorba Linda Unified,307,533,571,532,194,63.19%
+Parkview,30666476119556,Placentia-Yorba Linda Unified,6,null,null,null,null,null%
+Nova Academy,30666700106567,Santa Ana Unified,66,448,443,448,16,24.24%
+Segerstrom High,30666700108365,Santa Ana Unified,302,471,471,463,99,32.78%
+Hector G. Godinez,30666700114736,Santa Ana Unified,388,440,457,433,98,25.26%
+Cesar E. Chavez High,30666703030475,Santa Ana Unified,1,null,null,null,null,null%
+Century High,30666703030491,Santa Ana Unified,183,395,404,395,18,9.84%
+Middle College High,30666703030608,Santa Ana Unified,81,497,504,483,34,41.98%
+OCSA,30666703030723,Santa Ana Unified,243,590,565,582,198,81.48%
+Saddleback High,30666703035821,Santa Ana Unified,182,394,422,397,24,13.19%
+Santa Ana High,30666703036357,Santa Ana Unified,239,403,420,401,29,12.13%
+Valley High,30666703036456,Santa Ana Unified,226,403,432,415,36,15.93%
+El Toro High,30736353030061,Saddleback Valley Unified,298,530,557,521,193,64.77%
+Laguna Hills High,30736353030244,Saddleback Valley Unified,188,543,550,527,125,66.49%
+Trabuco Hills High,30736353030392,Saddleback Valley Unified,337,535,554,517,216,64.09%
+Mira Monte High (Alternative),30736353030509,Saddleback Valley Unified,1,null,null,null,null,null%
+Mission Viejo High,30736353034956,Saddleback Valley Unified,338,541,553,528,227,67.16%
+Arnold O. Beckman High,30736430102871,Tustin Unified,384,565,595,572,284,73.96%
+Foothill High,30736433032109,Tustin Unified,337,532,542,532,218,64.69%
+Tustin High,30736433037553,Tustin Unified,305,458,457,453,94,30.82%
+Irvine High,30736503030152,Irvine Unified,249,568,609,583,192,77.11%
+Woodbridge High,30736503030285,Irvine Unified,373,571,614,577,298,79.89%
+Alternative Education-San Joaquin High,30736503030467,Irvine Unified,2,null,null,null,null,null%
+Northwood High,30736503030657,Irvine Unified,358,604,656,621,329,91.9%
+University High,30736503035102,Irvine Unified,392,617,666,624,355,90.56%
+Los Alamitos High,30739243033917,Los Alamitos Unified,517,528,541,517,308,59.57%
+CORE Placer Charter,31103140119214,Placer County Office of Education,2,null,null,null,null,null%
+John Adams Academy,31668450121418,Loomis Union Elementary,11,594,550,576,8,72.73%
+Foresthill High,31668940102293,Placer Union High,17,505,535,490,9,52.94%
+Maidu High Independent Study,31668943130135,Placer Union High,3,null,null,null,null,null%
+Colfax High,31668943131851,Placer Union High,75,536,527,531,48,64%
+Del Oro High,31668943132453,Placer Union High,225,534,545,519,146,64.89%
+Placer High,31668943135704,Placer Union High,117,539,542,530,73,62.39%
+Antelope High,31669280116459,Roseville Joint Union High,275,485,483,469,107,38.91%
+Independence High (Alternative),31669283130119,Roseville Joint Union High,3,null,null,null,null,null%
+Woodcreek High,31669283130176,Roseville Joint Union High,313,519,529,501,183,58.47%
+Granite Bay High,31669283130184,Roseville Joint Union High,418,555,575,551,314,75.12%
+Oakmont High,31669283135308,Roseville Joint Union High,230,527,532,510,136,59.13%
+Roseville High,31669283136504,Roseville Joint Union High,264,502,517,493,135,51.14%
+North Tahoe High,31669443130010,Tahoe-Truckee Unified,55,518,512,508,34,61.82%
+Cold Stream Alternative,31669443130192,Tahoe-Truckee Unified,1,null,null,null,null,null%
+Tahoe Truckee High,31669443138500,Tahoe-Truckee Unified,80,533,540,511,46,57.5%
+Partnerships for Student-Centered Learning,31669510122507,Western Placer Unified,8,null,null,null,null,null%
+Phoenix High (Continuation),31669513130036,Western Placer Unified,1,null,null,null,null,null%
+Horizon Charter,31669513130168,Western Placer Unified,16,484,452,456,5,31.25%
+Lincoln High,31669513134657,Western Placer Unified,133,492,497,476,52,39.1%
+Whitney High,31750850108084,Rocklin Unified,279,523,530,502,168,60.22%
+Western Sierra Collegiate Academy,31750850119487,Rocklin Unified,41,571,536,547,31,75.61%
+Rocklin Independent Charter Academy,31750850128561,Rocklin Unified,0,null,null,null,null,null%
+Rocklin High,31750853130150,Rocklin Unified,283,537,560,527,190,67.14%
+Victory High,31750853130200,Rocklin Unified,1,null,null,null,null,null%
+Plumas Charter,32669693230083,Plumas Unified,6,null,null,null,null,null%
+Chester Junior/Senior High,32669693232006,Plumas Unified,16,481,528,471,7,43.75%
+Greenville Junior/Senior High,32669693233509,Plumas Unified,4,null,null,null,null,null%
+Portola Junior/Senior High,32669693235603,Plumas Unified,13,516,529,498,8,61.54%
+Quincy Junior/Senior High,32669693236007,Plumas Unified,24,550,540,523,20,83.33%
+River Springs Charter,33103300110833,Riverside County Office of Education,53,489,458,478,20,37.74%
+Riverside County Education Academy,33103300125237,Riverside County Office of Education,1,null,null,null,null,null%
+Come Back Kids,33103300128397,Riverside County Office of Education,0,null,null,null,null,null%
+Gateway College and Career Academy,33103300128777,Riverside County Office of Education,0,null,null,null,null,null%
+California School for the Deaf-Riverside,33316253330834,California School for the Deaf-Riverside (State Sp,1,null,null,null,null,null%
+Alvord Alternative Continuation High,33669770126896,Alvord Unified,0,null,null,null,null,null%
+La Sierra High,33669773330008,Alvord Unified,298,473,478,458,103,34.56%
+Norte Vista High,33669773334299,Alvord Unified,210,439,450,432,47,22.38%
+Banning High,33669853330214,Banning Unified,97,419,407,414,14,14.43%
+Banning Independent Study,33669853330974,Banning Unified,0,null,null,null,null,null%
+21st Century Learning Institute,33669930129882,Beaumont Unified,0,null,null,null,null,null%
+Beaumont Senior High,33669933330479,Beaumont Unified,242,474,465,474,90,37.19%
+Eleanor Roosevelt High,33670330110627,Corona-Norco Unified,486,486,490,486,218,44.86%
+John F. Kennedy High,33670330110759,Corona-Norco Unified,134,509,499,497,70,52.24%
+Corona-Norco Alternative,33670333330131,Corona-Norco Unified,0,null,null,null,null,null%
+Centennial High,33670333330446,Corona-Norco Unified,418,494,514,482,203,48.56%
+Lee V. Pollard High,33670333330586,Corona-Norco Unified,2,null,null,null,null,null%
+Santiago High,33670333330701,Corona-Norco Unified,523,498,512,499,259,49.52%
+Corona High,33670333331600,Corona-Norco Unified,288,470,480,468,109,37.85%
+Norco High,33670333334232,Corona-Norco Unified,258,482,496,476,111,43.02%
+Shadow Hills High,33670580118885,Desert Sands Unified,179,436,428,434,36,20.11%
+Palm Desert High,33670583330388,Desert Sands Unified,259,516,510,508,137,52.9%
+La Quinta High,33670583330669,Desert Sands Unified,397,474,477,462,140,35.26%
+Horizon,33670583330909,Desert Sands Unified,2,null,null,null,null,null%
+Amistad High (Continuation),33670583331113,Desert Sands Unified,1,null,null,null,null,null%
+Indio High,33670583333192,Desert Sands Unified,199,424,403,430,30,15.08%
+Hamilton High,33670820106716,Hemet Unified,15,506,506,481,6,40%
+Tahquitz High,33670820113159,Hemet Unified,125,443,443,445,34,27.2%
+College Prep High,33670820128363,Hemet Unified,13,495,484,463,5,38.46%
+Helen Hunt Jackson Alternative High,33670823330503,Hemet Unified,3,null,null,null,null,null%
+West Valley High,33670823330537,Hemet Unified,122,460,461,462,39,31.97%
+Hemet High,33670823332673,Hemet Unified,199,483,488,470,74,37.19%
+Patriot High,33670900114157,Jurupa Unified,173,467,481,463,60,34.68%
+Rivercrest Preparatory,33670900127720,Jurupa Unified,2,null,null,null,null,null%
+Jurupa Valley High,33670903330412,Jurupa Unified,159,438,447,439,37,23.27%
+Rubidoux High,33670903337136,Jurupa Unified,128,434,445,433,28,21.88%
+Santa Rosa Academy,33671160109843,Menifee Union Elementary,34,531,506,503,21,61.76%
+Moreno Valley Online Academy,33671240128868,Moreno Valley Unified,0,null,null,null,null,null%
+Canyon Springs High,33671243330396,Moreno Valley Unified,272,444,443,440,71,26.1%
+Valley View High,33671243330438,Moreno Valley Unified,259,440,464,445,65,25.1%
+Vista del Lago High,33671243331071,Moreno Valley Unified,199,436,434,424,35,17.59%
+Moreno Valley High,33671243333770,Moreno Valley Unified,212,417,421,419,29,13.68%
+Nuview Bridge Early College High,33671573331014,Nuview Union,110,473,488,471,41,37.27%
+Cathedral City High,33671733330578,Palm Springs Unified,236,443,440,432,56,23.73%
+Desert Hot Springs High,33671733330818,Palm Springs Unified,124,432,427,429,25,20.16%
+Palm Springs High,33671733335130,Palm Springs Unified,276,458,457,447,89,32.25%
+Twin Palms Continuation,33671813331139,Palo Verde Unified,1,null,null,null,null,null%
+Palo Verde High,33671813335759,Palo Verde Unified,59,451,462,437,16,27.12%
+California Military Institute,33672070101170,Perris Union High,70,437,441,423,13,18.57%
+Heritage High,33672070113191,Perris Union High,283,452,448,444,78,27.56%
+Perris Lake High (Continuation),33672073330172,Perris Union High,1,null,null,null,null,null%
+Paloma Valley High,33672073330727,Perris Union High,213,468,474,450,68,31.92%
+Perris High,33672073335973,Perris Union High,199,410,420,410,21,10.55%
+Riverside Virtual,33672150115709,Riverside Unified,6,null,null,null,null,null%
+Arlington High,33672153330024,Riverside Unified,221,449,453,445,53,23.98%
+Summit View Independent Study,33672153330362,Riverside Unified,2,null,null,null,null,null%
+Opportunity Program,33672153330511,Riverside Unified,0,null,null,null,null,null%
+Martin Luther King Jr. High,33672153330859,Riverside Unified,402,500,524,494,198,49.25%
+John W. North High,33672153334406,Riverside Unified,265,461,471,458,85,32.08%
+Polytechnic High,33672153336237,Riverside Unified,306,489,484,477,129,42.16%
+Ramona High,33672153336492,Riverside Unified,230,440,452,442,48,20.87%
+Mountain Heights Academy,33672493331006,San Jacinto Unified,1,null,null,null,null,null%
+Mountain View High,33672493337649,San Jacinto Unified,1,null,null,null,null,null%
+San Jacinto High,33672493337656,San Jacinto Unified,200,440,432,425,38,19%
+San Jacinto Valley Academy,33672496114748,San Jacinto Unified,22,480,498,466,11,50%
+Desert Mirage High,33736760100255,Coachella Valley Unified,144,412,404,414,14,9.72%
+NOVA Academy - Coachella,33736760121673,Coachella Valley Unified,27,406,408,403,3,11.11%
+La Familia Continuation High,33736763330032,Coachella Valley Unified,1,null,null,null,null,null%
+West Shores High,33736763330354,Coachella Valley Unified,36,400,399,396,4,11.11%
+Coachella Valley High,33736763330990,Coachella Valley Unified,217,408,433,409,29,13.36%
+Lakeside High,33751760107920,Lake Elsinore Unified,198,457,460,454,55,27.78%
+Keith McCarthy Academy,33751760116343,Lake Elsinore Unified,0,null,null,null,null,null%
+Southern California Online Academy,33751760124859,Lake Elsinore Unified,5,null,null,null,null,null%
+Temescal Canyon High,33751763330487,Lake Elsinore Unified,204,486,494,472,91,44.61%
+Elsinore High,33751763332350,Lake Elsinore Unified,186,483,489,472,70,37.63%
+Great Oak High,33751920105734,Temecula Valley Unified,506,523,521,505,291,57.51%
+Temecula Valley High,33751923330370,Temecula Valley Unified,352,499,487,485,161,45.74%
+Susan H. Nelson,33751923330636,Temecula Valley Unified,3,null,null,null,null,null%
+Chaparral High,33751923330743,Temecula Valley Unified,419,501,498,491,196,46.78%
+Temecula Preparatory,33751923330917,Temecula Valley Unified,44,548,524,539,30,68.18%
+Vista Murrieta High,33752000100420,Murrieta Valley Unified,428,494,495,491,197,46.03%
+Tenaja Canyon Academy,33752000102079,Murrieta Valley Unified,3,null,null,null,null,null%
+Murrieta Mesa High,33752000118794,Murrieta Valley Unified,309,488,493,478,124,40.13%
+Murrieta Valley High,33752003330529,Murrieta Valley Unified,339,512,523,506,185,54.57%
+Citrus Hill High,33752420109108,Val Verde Unified,338,415,427,405,43,12.72%
+Val Verde Academy,33752420123190,Val Verde Unified,0,null,null,null,null,null%
+Rancho Verde High,33752423330552,Val Verde Unified,474,438,441,430,93,19.62%
+Val Verde High,33752423330560,Val Verde Unified,2,null,null,null,null,null%
+Monterey Trail High,34673140105916,Elk Grove Unified,326,459,471,444,89,27.3%
+Pleasant Grove High,34673140108753,Elk Grove Unified,363,530,563,513,240,66.12%
+Cosumnes Oaks High,34673140116897,Elk Grove Unified,309,508,514,491,156,50.49%
+Valley High,34673143430170,Elk Grove Unified,184,427,433,426,40,21.74%
+Las Flores High (Alternative),34673143430352,Elk Grove Unified,0,null,null,null,null,null%
+Florin High,34673143430477,Elk Grove Unified,157,425,449,420,30,19.11%
+Laguna Creek High,34673143430592,Elk Grove Unified,257,494,505,483,122,47.47%
+Sheldon High,34673143430618,Elk Grove Unified,279,486,500,472,110,39.43%
+Franklin High,34673143430873,Elk Grove Unified,511,514,536,512,289,56.56%
+Elk Grove High,34673143432572,Elk Grove Unified,231,501,527,493,123,53.25%
+Elk Grove Charter,34673146112254,Elk Grove Unified,4,null,null,null,null,null%
+Vista del Lago High,34673300113571,Folsom-Cordova Unified,231,554,571,552,170,73.59%
+Walnutwood High (Independent Study),34673303430501,Folsom-Cordova Unified,3,null,null,null,null,null%
+Cordova High,34673303431533,Folsom-Cordova Unified,100,488,488,466,41,41%
+Folsom High,34673303433216,Folsom-Cordova Unified,300,550,573,538,228,76%
+Kinney High (Continuation),34673303434792,Folsom-Cordova Unified,1,null,null,null,null,null%
+Liberty Ranch High,34673550119131,Galt Joint Union High,94,504,519,496,54,57.45%
+Galt High,34673553433471,Galt Joint Union High,46,462,480,448,15,32.61%
+Rio Vista High,34674134835302,River Delta Joint Unified,45,477,461,484,16,35.56%
+Delta High,34674135731708,River Delta Joint Unified,34,486,459,467,11,32.35%
+New Technology High,34674390101881,Sacramento City Unified,30,450,449,432,8,26.67%
+George Washington Carver School of Arts and Scienc,34674390101899,Sacramento City Unified,28,548,504,526,16,57.14%
+The MET,34674390101907,Sacramento City Unified,33,486,457,468,11,33.33%
+Rosemont High,34674390101972,Sacramento City Unified,96,467,488,452,29,30.21%
+Sacramento Charter High,34674390102038,Sacramento City Unified,156,410,405,403,11,7.05%
+Arthur A. Benjamin Health Professions High,34674390108951,Sacramento City Unified,23,447,440,449,8,34.78%
+School of Engineering & Sciences,34674390114546,Sacramento City Unified,12,448,469,420,2,16.67%
+American Legion High (Continuation),34674393430154,Sacramento City Unified,1,null,null,null,null,null%
+Capital City Independent Study,34674393430519,Sacramento City Unified,2,null,null,null,null,null%
+West Campus,34674393430865,Sacramento City Unified,165,497,514,500,79,47.88%
+Luther Burbank High,34674393431012,Sacramento City Unified,187,399,427,397,20,10.7%
+Hiram W. Johnson High,34674393434636,Sacramento City Unified,91,410,423,401,11,12.09%
+John F. Kennedy High,34674393434768,Sacramento City Unified,236,480,505,471,101,42.8%
+C. K. McClatchy High,34674393435419,Sacramento City Unified,221,524,532,512,129,58.37%
+Aspire Alexander Twilight Secondary Academy,34674470121467,San Juan Unified,12,420,418,403,2,16.67%
+Mesa Verde High,34674473430048,San Juan Unified,54,457,434,449,14,25.93%
+La Entrada Continuation High,34674473430097,San Juan Unified,3,null,null,null,null,null%
+El Sereno Alternative Education,34674473430386,San Juan Unified,6,null,null,null,null,null%
+Bella Vista High,34674473430493,San Juan Unified,242,549,562,530,173,71.49%
+Options for Youth-San Juan,34674473430691,San Juan Unified,15,451,422,431,4,26.67%
+Visions In Education,34674473430717,San Juan Unified,43,571,527,533,29,67.44%
+San Juan Choices Charter,34674473430758,San Juan Unified,1,null,null,null,null,null%
+Casa Roble Fundamental High,34674473431111,San Juan Unified,137,495,491,486,62,45.26%
+Del Campo High,34674473432051,San Juan Unified,180,501,488,489,80,44.44%
+El Camino Fundamental High,34674473432317,San Juan Unified,209,512,515,496,113,54.07%
+Encina Preparatory High,34674473432838,San Juan Unified,28,391,413,389,3,10.71%
+Mira Loma High,34674473435930,San Juan Unified,236,594,624,583,189,80.08%
+Rio Americano High,34674473436714,San Juan Unified,202,539,548,536,131,64.85%
+San Juan High,34674473438504,San Juan Unified,34,414,449,420,3,8.82%
+Global Youth Charter,34739730106377,Center Joint Unified,1,null,null,null,null,null%
+Center High,34739733430378,Center Joint Unified,96,496,524,466,44,45.83%
+Antelope View Charter,34739733430816,Center Joint Unified,0,null,null,null,null,null%
+Inderkum High,34752830102236,Natomas Unified,161,459,462,449,44,27.33%
+Natomas Pacific Pathways Prep,34752830112425,Natomas Unified,85,482,496,477,37,43.53%
+Natomas High,34752833430584,Natomas Unified,74,459,451,454,26,35.14%
+Natomas Charter,34752833430659,Natomas Unified,69,528,500,524,36,52.17%
+Futures High,34765050101832,Twin Rivers Unified,17,457,492,489,6,35.29%
+Heritage Peak Charter,34765050108415,Twin Rivers Unified,25,478,462,458,9,36%
+Creative Connections Arts Academy,34765050108795,Twin Rivers Unified,8,null,null,null,null,null%
+Community Collaborative Charter,34765050108837,Twin Rivers Unified,2,null,null,null,null,null%
+SAVA: Sacramento Academic and Vocational Academy,34765050114272,Twin Rivers Unified,1,null,null,null,null,null%
+Highlands Community Charter,34765050130757,Twin Rivers Unified,0,null,null,null,null,null%
+Elwood J. Keema High,34765053430634,Twin Rivers Unified,0,null,null,null,null,null%
+Vista Nueva Career and Technology High,34765053430881,Twin Rivers Unified,1,null,null,null,null,null%
+Foothill High,34765053433265,Twin Rivers Unified,92,446,445,430,22,23.91%
+Grant Union High,34765053433794,Twin Rivers Unified,208,400,401,395,22,10.58%
+Highlands High,34765053434370,Twin Rivers Unified,54,435,440,407,11,20.37%
+Rio Linda High,34765053436979,Twin Rivers Unified,128,449,468,443,38,29.69%
+San Benito High,35675383537008,San Benito High,266,477,472,476,100,37.59%
+Anzar High,35752593530060,Aromas/San Juan Unified,39,496,506,479,16,41.03%
+Alta Vista Public,36675870120592,Adelanto Elementary,2,null,null,null,null,null%
+Central High (Continuation),36676113630712,Barstow Unified,1,null,null,null,null,null%
+Barstow High,36676113630803,Barstow Unified,85,451,474,445,24,28.24%
+Big Bear High,36676373631066,Bear Valley Unified,71,502,519,491,37,52.11%
+Chaffey District Online High,36676520126243,Chaffey Joint Union High,8,null,null,null,null,null%
+Alta Loma High,36676523630225,Chaffey Joint Union High,348,482,488,466,130,37.36%
+Etiwanda High,36676523630373,Chaffey Joint Union High,455,489,501,478,205,45.05%
+Rancho Cucamonga High,36676523630571,Chaffey Joint Union High,519,493,501,489,236,45.47%
+Los Osos High,36676523631058,Chaffey Joint Union High,522,523,544,511,307,58.81%
+Colony High,36676523631157,Chaffey Joint Union High,240,457,466,450,77,32.08%
+Chaffey High,36676523632205,Chaffey Joint Union High,277,453,450,445,71,25.63%
+Montclair High,36676523633906,Chaffey Joint Union High,337,438,456,426,75,22.26%
+Ontario High,36676523634482,Chaffey Joint Union High,282,428,458,428,61,21.63%
+Valley View High (Continuation),36676523637659,Chaffey Joint Union High,1,null,null,null,null,null%
+Don Antonio Lugo High,36676783630035,Chino Valley Unified,142,468,462,461,44,30.99%
+Ruben S. Ayala High,36676783630522,Chino Valley Unified,464,513,542,510,273,58.84%
+Chino Hills High,36676783631017,Chino Valley Unified,516,508,531,508,288,55.81%
+Buena Vista Continuation High,36676783631769,Chino Valley Unified,1,null,null,null,null,null%
+Chino High,36676783632502,Chino Valley Unified,235,456,460,452,70,29.79%
+Grand Terrace High School at the Ray Abril Jr. Edu,36676860125500,Colton Joint Unified,184,451,451,441,44,23.91%
+Washington High,36676863630399,Colton Joint Unified,0,null,null,null,null,null%
+Bloomington High,36676863631322,Colton Joint Unified,177,432,442,430,40,22.6%
+Colton High,36676863632742,Colton Joint Unified,131,427,452,428,24,18.32%
+Summit High,36677100108191,Fontana Unified,326,439,439,425,62,19.02%
+Jurupa Hills High,36677100120758,Fontana Unified,282,437,436,424,61,21.63%
+Fontana A. B. Miller High,36677103630555,Fontana Unified,185,448,447,432,42,22.7%
+Henry J. Kaiser High,36677103630902,Fontana Unified,236,425,427,417,28,11.86%
+Fontana High,36677103633302,Fontana Unified,221,435,448,429,47,21.27%
+Academy of Careers and Exploration,36677360116723,Helendale Elementary,17,454,495,462,7,41.18%
+Empire Springs Charter,36677360128439,Helendale Elementary,0,null,null,null,null,null%
+Independence Charter Academy,36677360130948,Helendale Elementary,0,null,null,null,null,null%
+Alta Vista South Public Charter,36677360131151,Helendale Elementary,0,null,null,null,null,null%
+Hope Academy Charter,36677770124214,Morongo Unified,1,null,null,null,null,null%
+Twentynine Palms High,36677773636743,Morongo Unified,72,486,503,478,31,43.06%
+Yucca Valley High,36677773638616,Morongo Unified,79,493,497,494,40,50.63%
+Needles High,36678013634169,Needles Unified,16,446,453,409,5,31.25%
+Mojave River Academy,36678270111807,Oro Grande Elementary,8,null,null,null,null,null%
+Riverside Preparatory,36678270113928,Oro Grande Elementary,99,460,452,447,28,28.28%
+Citrus Valley High,36678430118802,Redlands Unified,293,488,492,473,135,46.08%
+Redlands eAcademy,36678430127837,Redlands Unified,5,null,null,null,null,null%
+Redlands East Valley High,36678433630779,Redlands Unified,256,506,511,498,134,52.34%
+Grove,36678433630928,Redlands Unified,28,552,506,535,17,60.71%
+Redlands Senior High,36678433635042,Redlands Unified,262,523,538,515,150,57.25%
+Wilmer Amina Carter High,36678500102830,Rialto Unified,265,429,436,436,48,18.11%
+Zupanic High,36678503630530,Rialto Unified,1,null,null,null,null,null%
+Rialto High,36678503630597,Rialto Unified,296,428,437,421,54,18.24%
+Eisenhower Senior High,36678503633005,Rialto Unified,210,433,456,427,42,20%
+Rim of the World Senior High,36678683635265,Rim of the World Unified,118,506,496,484,57,48.31%
+ASA Charter,36678760107730,San Bernardino City Unified,1,null,null,null,null,null%
+Public Safety Academy,36678760109850,San Bernardino City Unified,9,null,null,null,null,null%
+Options for Youth-San Bernardino,36678760120568,San Bernardino City Unified,23,456,436,457,3,13.04%
+Indian Springs High,36678760125450,San Bernardino City Unified,116,404,404,400,11,9.48%
+San Andreas High,36678763630308,San Bernardino City Unified,1,null,null,null,null,null%
+Alternative Learning Center,36678763630548,San Bernardino City Unified,0,null,null,null,null,null%
+Provisional Accelerated Learning Academy,36678763630993,San Bernardino City Unified,0,null,null,null,null,null%
+Arroyo Valley High,36678763631082,San Bernardino City Unified,243,415,423,406,39,16.05%
+Middle College High,36678763631090,San Bernardino City Unified,60,466,477,469,17,28.33%
+Cajon High,36678763632221,San Bernardino City Unified,330,465,467,456,107,32.42%
+Pacific High,36678763634680,San Bernardino City Unified,156,415,426,403,20,12.82%
+San Bernardino High,36678763635844,San Bernardino City Unified,159,424,426,415,25,15.72%
+San Gorgonio High,36678763636081,San Bernardino City Unified,167,426,434,424,37,22.16%
+Trona High,36678923636487,Trona Joint Unified,4,null,null,null,null,null%
+University Preparatory,36679340110064,Victor Valley Union High,164,500,507,500,83,50.61%
+Adelanto High,36679340125419,Victor Valley Union High,111,423,418,421,15,13.51%
+Goodwill High,36679343630100,Victor Valley Union High,1,null,null,null,null,null%
+Options for Youth-Victorville Charter,36679343630670,Victor Valley Union High,69,436,409,419,8,11.59%
+Excelsior Charter,36679343630761,Victor Valley Union High,74,511,475,473,31,41.89%
+Silverado High,36679343630787,Victor Valley Union High,204,431,431,422,36,17.65%
+Victor Valley High,36679343638012,Victor Valley Union High,130,430,442,428,22,16.92%
+Green Valley High,36679593633351,Yucaipa-Calimesa Joint Unified,1,null,null,null,null,null%
+Yucaipa High,36679593638509,Yucaipa-Calimesa Joint Unified,267,482,489,481,110,41.2%
+Baker High,36738583630076,Baker Valley Unified,6,null,null,null,null,null%
+Silver Valley High,36738903630274,Silver Valley Unified,32,507,497,486,15,46.88%
+Silver Valley Academy,36738903631199,Silver Valley Unified,1,null,null,null,null,null%
+Serrano High,36739573630233,Snowline Joint Unified,179,503,508,493,92,51.4%
+Snowline Virtual,36739573630589,Snowline Joint Unified,2,null,null,null,null,null%
+Summit Leadership Academy-High Desert,36750440107516,Hesperia Unified,17,394,388,370,0,0%
+Mirus Secondary,36750440114389,Hesperia Unified,1,null,null,null,null,null%
+Encore Jr./Sr. High School for the Performing and,36750440116707,Hesperia Unified,40,491,464,486,18,45%
+Oak Hills High,36750440119115,Hesperia Unified,227,456,461,450,69,30.4%
+Hesperia High,36750443630407,Hesperia Unified,143,440,432,434,29,20.28%
+Sultana High,36750443630746,Hesperia Unified,184,459,461,448,50,27.17%
+Shadow Ridge,36750443630811,Hesperia Unified,3,null,null,null,null,null%
+Sky Mountain Charter,36750510115089,Lucerne Valley Unified,7,null,null,null,null,null%
+Lucerne Valley High,36750513630563,Lucerne Valley Unified,13,400,395,397,0,0%
+Upland High,36750693637584,Upland Unified,415,495,505,490,187,45.06%
+Apple Valley High,36750773630423,Apple Valley Unified,169,481,473,471,65,38.46%
+Granite Hills High,36750773630894,Apple Valley Unified,133,488,468,479,59,44.36%
+High Desert Premier Academy,36750773631009,Apple Valley Unified,0,null,null,null,null,null%
+Academy for Academic Excellence,36750773631207,Apple Valley Unified,57,524,494,505,31,54.39%
+San Pasqual Academy,37103710115998,San Diego County Office of Education,12,395,373,363,1,8.33%
+Monarch,37103710120493,San Diego County Office of Education,9,null,null,null,null,null%
+Literacy First Charter,37103716119119,San Diego County Office of Education,0,null,null,null,null,null%
+Juan Bautista de Anza,37679830117887,Borrego Springs Unified,0,null,null,null,null,null%
+Diego Springs Academy,37679830131144,Borrego Springs Unified,0,null,null,null,null,null%
+Borrego Springs High,37679833730447,Borrego Springs Unified,16,459,445,434,3,18.75%
+Coronado Pathways Charter,37680310126110,Coronado Unified,2,null,null,null,null,null%
+Coronado High,37680313731478,Coronado Unified,245,543,549,532,168,68.57%
+Diego Hills Charter,37680490119990,Dehesa Elementary,7,null,null,null,null,null%
+Dehesa Charter,37680496119564,Dehesa Elementary,17,588,496,529,11,64.71%
+Classical Academy High,37681060111195,Escondido Union High,112,568,557,548,84,75%
+San Pasqual High,37681063730058,Escondido Union High,244,530,540,522,165,67.62%
+Escondido Charter High,37681063731023,Escondido Union High,105,533,536,513,67,63.81%
+Escondido High,37681063732062,Escondido Union High,219,484,480,465,94,42.92%
+Orange Glen High,37681063735313,Escondido Union High,200,445,445,435,40,20%
+Oasis High (Alternative),37681223730967,Fallbrook Union High,7,null,null,null,null,null%
+Fallbrook High,37681223732179,Fallbrook Union High,228,489,498,474,91,39.91%
+Valhalla High,37681303730066,Grossmont Union High,220,528,540,516,144,65.45%
+West Hills High,37681303730702,Grossmont Union High,207,508,529,494,113,54.59%
+Steele Canyon High,37681303731262,Grossmont Union High,284,502,504,492,135,47.54%
+Grossmont Middle College High,37681303731536,Grossmont Union High,40,552,534,525,26,65%
+El Cajon Valley High,37681303731692,Grossmont Union High,107,443,456,455,37,34.58%
+El Capitan High,37681303731809,Grossmont Union High,122,475,484,463,42,34.43%
+Granite Hills High,37681303732336,Grossmont Union High,258,500,519,490,134,51.94%
+Grossmont High,37681303732625,Grossmont Union High,227,507,507,490,102,44.93%
+Helix High,37681303732732,Grossmont Union High,337,475,491,464,125,37.09%
+Monte Vista High,37681303734548,Grossmont Union High,148,459,473,443,40,27.03%
+Mount Miguel High,37681303734761,Grossmont Union High,115,420,446,414,15,13.04%
+Santana High,37681303737905,Grossmont Union High,147,509,527,501,81,55.1%
+Greater San Diego Academy,37681556117303,Jamul-Dulzura Union Elementary,4,null,null,null,null,null%
+Diego Valley Charter,37681630124271,Julian Union Elementary,1,null,null,null,null,null%
+Julian Charter,37681633731239,Julian Union Elementary,56,534,509,517,33,58.93%
+Julian High,37681713733219,Julian Union High,8,null,null,null,null,null%
+National University Academy,37681890118323,Lakeside Union Elementary,0,null,null,null,null,null%
+River Valley Charter,37681893731072,Lakeside Union Elementary,37,556,546,555,29,78.38%
+San Diego Virtual,37682130123224,Mountain Empire Unified,5,null,null,null,null,null%
+Pivot Charter School - San Diego,37682130123240,Mountain Empire Unified,4,null,null,null,null,null%
+Academy of Arts and Sciences: El Cajon Middle and,37682130127050,Mountain Empire Unified,0,null,null,null,null,null%
+Academy of Arts and Sciences: Del Mar Middle & Hig,37682130127084,Mountain Empire Unified,0,null,null,null,null,null%
+Mountain Empire High,37682133734878,Mountain Empire Unified,32,468,470,466,15,46.88%
+Del Norte High,37682960118935,Poway Unified,350,566,594,565,264,75.43%
+Mt. Carmel High,37682963730074,Poway Unified,345,551,568,536,243,70.43%
+Rancho Bernardo High,37682963730819,Poway Unified,356,563,593,559,268,75.28%
+Westview High,37682963731528,Poway Unified,438,583,608,581,343,78.31%
+Abraxas Continuation High,37682963735842,Poway Unified,1,null,null,null,null,null%
+Poway High,37682963735867,Poway Unified,333,557,571,552,248,74.47%
+Future Bound Independent Study Secondary,37683040102178,Ramona City Unified,0,null,null,null,null,null%
+Mountain Valley Academy,37683040131250,Ramona City Unified,0,null,null,null,null,null%
+Ramona High,37683043735974,Ramona City Unified,163,516,530,501,100,61.35%
+High Tech High International,37683380106732,San Diego Unified,94,488,499,477,43,45.74%
+Learning Choice Academy,37683380106799,San Diego Unified,9,null,null,null,null,null%
+San Diego International Studies,37683380107029,San Diego Unified,148,531,529,523,87,58.78%
+San Diego Business/Leadership,37683380107052,San Diego Unified,103,406,410,402,11,10.68%
+San Diego MVP Arts,37683380107060,San Diego Unified,34,401,393,405,4,11.76%
+Kearny Digital Media & Design,37683380107078,San Diego Unified,45,490,452,482,16,35.56%
+Kearny SCT,37683380107086,San Diego Unified,54,464,493,452,20,37.04%
+Kearny International Business,37683380107094,San Diego Unified,54,455,471,450,15,27.78%
+"Kearny Eng, Innov & Design",37683380107102,San Diego Unified,34,436,438,426,5,14.71%
+Crawford High,37683380107177,San Diego Unified,105,380,411,380,11,10.48%
+San Diego Science and Technology,37683380107219,San Diego Unified,56,432,428,423,10,17.86%
+San Diego Metro Career and Tech,37683380107482,San Diego Unified,15,480,462,489,8,53.33%
+High Tech High Media Arts,37683380108787,San Diego Unified,88,485,480,457,35,39.77%
+Lincoln High,37683380114025,San Diego Unified,170,386,411,389,10,5.88%
+Health Sciences High,37683380114462,San Diego Unified,105,447,437,422,21,20%
+Arroyo Paseo Charter High,37683380114520,San Diego Unified,10,null,null,null,null,null%
+San Diego Early/Middle College,37683380118315,San Diego Unified,22,529,517,483,11,50%
+King-Chavez Community High,37683380118851,San Diego Unified,90,375,382,369,2,2.22%
+Gompers Preparatory Academy,37683380119610,San Diego Unified,96,367,357,363,4,4.17%
+iHigh Virtual Academy,37683380120410,San Diego Unified,9,null,null,null,null,null%
+Coleman Tech Charter High,37683380122788,San Diego Unified,20,503,492,453,9,45%
+Home & Hosp/Transition Support,37683380126938,San Diego Unified,0,null,null,null,null,null%
+Laurel Preparatory Academy,37683380128744,San Diego Unified,2,null,null,null,null,null%
+John Muir,37683383730116,San Diego Unified,7,null,null,null,null,null%
+Serra High,37683383730173,San Diego Unified,312,457,480,452,114,36.54%
+Mira Mesa High,37683383730181,San Diego Unified,370,499,525,480,184,49.73%
+Twain High,37683383730231,San Diego Unified,1,null,null,null,null,null%
+University City High,37683383730314,San Diego Unified,337,516,525,501,179,53.12%
+San Diego SCPA,37683383730371,San Diego Unified,128,494,474,484,51,39.84%
+Mt. Everest Academy,37683383730751,San Diego Unified,15,533,531,521,9,60%
+Scripps Ranch High,37683383730884,San Diego Unified,431,565,594,564,327,75.87%
+Charter School of San Diego,37683383730959,San Diego Unified,30,498,443,479,13,43.33%
+Preuss School UCSD,37683383731189,San Diego Unified,107,512,539,520,68,63.55%
+Clairemont High,37683383731213,San Diego Unified,107,486,485,473,48,44.86%
+High Tech High,37683383731247,San Diego Unified,122,505,503,477,55,45.08%
+Audeo Charter,37683383731395,San Diego Unified,12,499,451,483,4,33.33%
+Henry High,37683383732781,San Diego Unified,356,520,533,495,204,57.3%
+Hoover High,37683383732997,San Diego Unified,215,408,427,411,27,12.56%
+La Jolla High,37683383733508,San Diego Unified,256,567,591,554,191,74.61%
+Madison High,37683383733698,San Diego Unified,146,450,455,443,42,28.77%
+Mission Bay High,37683383734431,San Diego Unified,128,437,446,430,28,21.88%
+Morse High,37683383734654,San Diego Unified,188,456,487,455,70,37.23%
+Point Loma High,37683383735750,San Diego Unified,311,523,521,506,175,56.27%
+Canyon Crest Academy,37683460106328,San Dieguito Union High,328,611,626,611,299,91.16%
+Torrey Pines High,37683463730033,San Dieguito Union High,492,612,639,617,432,87.8%
+North Coast Alternative High,37683463730769,San Dieguito Union High,1,null,null,null,null,null%
+La Costa Canyon High,37683463731007,San Dieguito Union High,357,542,574,542,264,73.95%
+Sunset High (Continuation),37683463737384,San Dieguito Union High,4,null,null,null,null,null%
+San Dieguito High Academy,37683463737418,San Dieguito Union High,240,562,580,553,179,74.58%
+Insight @ San Diego,37684030125401,Spencer Valley Elementary,5,null,null,null,null,null%
+California Virtual Academy @ San Diego,37684036120893,Spencer Valley Elementary,29,562,538,517,22,75.86%
+Olympian High,37684110111831,Sweetwater Union High,290,495,500,476,130,44.83%
+Southwest Senior High,37684113730124,Sweetwater Union High,131,441,447,437,26,19.85%
+Bonita Vista Senior High,37684113730405,Sweetwater Union High,318,503,512,484,150,47.17%
+Castle Park Senior High,37684113730801,Sweetwater Union High,140,449,449,426,33,23.57%
+Eastlake High,37684113730843,Sweetwater Union High,487,507,520,498,261,53.59%
+Chula Vista Senior High,37684113731064,Sweetwater Union High,271,460,461,441,74,27.31%
+Options Secondary,37684113731155,Sweetwater Union High,2,null,null,null,null,null%
+MAAC Community Charter,37684113731304,Sweetwater Union High,0,null,null,null,null,null%
+Alta Vista Academy,37684113731460,Sweetwater Union High,1,null,null,null,null,null%
+San Ysidro High,37684113731502,Sweetwater Union High,229,444,462,431,57,24.89%
+Otay Ranch Senior High,37684113731627,Sweetwater Union High,404,493,498,474,172,42.57%
+Hilltop Senior High,37684113732849,Sweetwater Union High,234,481,472,458,74,31.62%
+Mar Vista Senior High,37684113733953,Sweetwater Union High,121,479,481,462,47,38.84%
+Sweetwater High,37684113738226,Sweetwater Union High,285,437,459,437,66,23.16%
+Montgomery Senior High,37684113738234,Sweetwater Union High,157,451,450,438,37,23.57%
+RAI Online Charter,37684370101220,Vallecitos Elementary,5,null,null,null,null,null%
+Taylion San Diego Academy,37684370128470,Vallecitos Elementary,1,null,null,null,null,null%
+SIATech,37684520106120,Vista Unified,0,null,null,null,null,null%
+North County Trade Tech High,37684520114264,Vista Unified,0,null,null,null,null,null%
+Mission Vista High,37684520118430,Vista Unified,234,516,507,501,123,52.56%
+Guajome Learning Center,37684520124917,Vista Unified,1,null,null,null,null,null%
+Vista Visions Academy,37684520126300,Vista Unified,0,null,null,null,null,null%
+Rancho Buena Vista High,37684523730728,Vista Unified,255,501,518,495,138,54.12%
+Guajome Park Academy Charter,37684523730942,Vista Unified,49,541,523,531,25,51.02%
+Vista High,37684523738705,Vista Unified,241,493,496,475,102,42.32%
+Carlsbad High,37735513730694,Carlsbad Unified,414,555,564,538,298,71.98%
+Carlsbad Seaside Academy,37735513731163,Carlsbad Unified,0,null,null,null,null,null%
+Pacific View Charter,37735693731221,Oceanside Unified,5,null,null,null,null,null%
+Oceanside High,37735693735206,Oceanside Unified,159,472,505,454,64,40.25%
+El Camino High,37735693739018,Oceanside Unified,345,500,511,486,173,50.14%
+Ocean Shores High (Continuation),37735693739026,Oceanside Unified,1,null,null,null,null,null%
+Mission Hills High,37737910105726,San Marcos Unified,345,508,497,495,167,48.41%
+Bayshore Preparatory Charter,37737910109785,San Marcos Unified,5,null,null,null,null,null%
+Twin Oaks High,37737913730215,San Marcos Unified,1,null,null,null,null,null%
+Foothills High,37737913730793,San Marcos Unified,3,null,null,null,null,null%
+San Marcos High,37737913737632,San Marcos Unified,357,523,525,508,208,58.26%
+Warner Junior/Senior High,37754163730975,Warner Unified,6,null,null,null,null,null%
+Valley Center High,37756143731114,Valley Center-Pauma Unified,128,489,499,474,54,42.19%
+Valley Center Prep,37756143731601,Valley Center-Pauma Unified,3,null,null,null,null,null%
+High Tech High Chula Vista,37764710114678,SBC - High Tech High,136,478,469,471,46,33.82%
+High Tech High North County,37764710114694,SBC - High Tech High,112,516,503,511,56,50%
+S.F. County Opportunity (Hilltop),38103893830395,San Francisco County Office of Education,0,null,null,null,null,null%
+Five Keys Charter (SF Sheriff's),38684780101774,San Francisco Unified,0,null,null,null,null,null%
+Jordan (June) School for Equity,38684780102103,San Francisco Unified,4,null,null,null,null,null%
+City Arts and Tech High,38684780107300,San Francisco Unified,85,410,413,395,11,12.94%
+Five Keys Adult School (SF Sheriff's),38684780118133,San Francisco Unified,0,null,null,null,null,null%
+Five Keys Independence HS (SF Sheriff's),38684780118141,San Francisco Unified,0,null,null,null,null,null%
+S.F. International High,38684780119875,San Francisco Unified,66,321,450,318,3,4.55%
+Academy of Arts and Sciences,38684780119958,San Francisco Unified,44,447,413,456,9,20.45%
+Gateway to College,38684780128876,San Francisco Unified,0,null,null,null,null,null%
+Wells (Ida B.) High,38684783830031,San Francisco Unified,1,null,null,null,null,null%
+Downtown High,38684783830064,San Francisco Unified,1,null,null,null,null,null%
+Independence High,38684783830197,San Francisco Unified,16,546,459,504,6,37.5%
+Wallenberg (Raoul) Traditional High,38684783830205,San Francisco Unified,113,468,514,456,47,41.59%
+Burton (Phillip and Sala) Academic High,38684783830254,San Francisco Unified,170,443,480,431,56,32.94%
+Balboa High,38684783830288,San Francisco Unified,184,467,504,467,79,42.93%
+International Studies Academy,38684783830353,San Francisco Unified,25,430,423,409,5,20%
+"Asawa (Ruth) San Francisco School of the Arts, A P",38684783830387,San Francisco Unified,107,577,541,553,77,71.96%
+Marshall (Thurgood) High,38684783830403,San Francisco Unified,76,364,445,364,10,13.16%
+Leadership High,38684783830411,San Francisco Unified,57,399,390,408,8,14.04%
+Gateway High,38684783830437,San Francisco Unified,93,495,491,483,43,46.24%
+Galileo High,38684783831765,San Francisco Unified,356,445,510,444,128,35.96%
+Lincoln (Abraham) High,38684783833241,San Francisco Unified,331,468,529,461,151,45.62%
+Lowell High,38684783833407,San Francisco Unified,645,595,636,594,561,86.98%
+Mission High,38684783834082,San Francisco Unified,169,400,464,399,40,23.67%
+O'Connell (John) High,38684783834769,San Francisco Unified,48,412,418,409,6,12.5%
+Washington (George) High,38684783839081,San Francisco Unified,365,464,529,462,172,47.12%
+San Francisco Flex Academy,38767030121814,SBE - San Francisco Flex Academy,15,501,509,502,8,53.33%
+one.Charter,39103970120717,San Joaquin County Office of Education,0,null,null,null,null,null%
+San Joaquin Building Futures Academy,39103970121723,San Joaquin County Office of Education,0,null,null,null,null,null%
+Venture Academy,39103973930476,San Joaquin County Office of Education,47,491,456,458,13,27.66%
+Escalon High,39685023932308,Escalon Unified,81,493,498,486,40,49.38%
+Lincoln High,39685693933801,Lincoln Unified,251,499,529,498,135,53.78%
+Linden High,39685773933959,Linden Unified,69,498,483,487,29,42.03%
+Aspire Benjamin Holt College Preparatory Academy,39685850101956,Lodi Unified,71,500,502,503,32,45.07%
+Ronald E. McNair High,39685850108225,Lodi Unified,156,440,451,436,37,23.72%
+Rio Valley Charter,39685850122580,Lodi Unified,2,null,null,null,null,null%
+Bear Creek High,39685853930237,Lodi Unified,187,478,510,467,81,43.32%
+Independence,39685853930344,Lodi Unified,1,null,null,null,null,null%
+Middle College High,39685853930443,Lodi Unified,53,569,572,565,46,86.79%
+Tokay High,39685853934759,Lodi Unified,150,493,502,485,60,40%
+Lodi High,39685853934783,Lodi Unified,181,498,520,501,92,50.83%
+Weston Ranch High,39685930101576,Manteca Unified,96,458,461,454,26,27.08%
+New Vision High,39685930112565,Manteca Unified,1,null,null,null,null,null%
+Lathrop High,39685930116376,Manteca Unified,143,442,432,432,22,15.38%
+Manteca Unified Vocational Academy,39685930126094,Manteca Unified,0,null,null,null,null,null%
+Sierra High,39685933930310,Manteca Unified,140,483,478,463,55,39.29%
+East Union High,39685933932001,Manteca Unified,139,482,485,474,56,40.29%
+Manteca High,39685933935103,Manteca Unified,129,481,484,467,49,37.98%
+"Humphreys College Academy of Business, Law and Edu",39686270126755,New Jerusalem Elementary,23,420,449,424,4,17.39%
+California Virtual Academy @ San Joaquin,39686270127191,New Jerusalem Elementary,0,null,null,null,null,null%
+Renew Virtual Academy K12 #1,39686270129361,New Jerusalem Elementary,0,null,null,null,null,null%
+Academy of Arts and Sciences: San Joaquin,39686270129890,New Jerusalem Elementary,0,null,null,null,null,null%
+Valley View Charter Prep,39686270129916,New Jerusalem Elementary,0,null,null,null,null,null%
+Delta Charter Online,39686270130864,New Jerusalem Elementary,0,null,null,null,null,null%
+Delta Charter,39686276119309,New Jerusalem Elementary,17,474,439,468,7,41.18%
+California Connections Academy @ Ripon,39686500125849,Ripon Unified,11,542,487,535,6,54.55%
+Ripon High,39686503935756,Ripon Unified,101,497,494,487,41,40.59%
+Cesar Chavez High,39686760108159,Stockton Unified,148,413,410,417,18,12.16%
+Edward C. Merlo Institute of Environmental Studies,39686760115402,Stockton Unified,22,359,361,370,0,0%
+Aspire Langston Hughes Academy,39686760118497,Stockton Unified,51,407,431,408,9,17.65%
+Stockton Unified Early College Academy,39686760119743,Stockton Unified,91,531,551,519,62,68.13%
+Stockton High,39686760119784,Stockton Unified,0,null,null,null,null,null%
+Stockton Collegiate International Secondary,39686760120733,Stockton Unified,24,496,436,475,6,25%
+Health Careers Academy,39686760123802,Stockton Unified,77,421,416,418,14,18.18%
+Pacific Law Academy,39686760124248,Stockton Unified,0,null,null,null,null,null%
+Weber Institute,39686763930427,Stockton Unified,13,440,431,420,2,15.38%
+Edison High,39686763932100,Stockton Unified,165,419,435,420,27,16.36%
+Franklin High,39686763932654,Stockton Unified,194,431,433,423,29,14.95%
+Stagg Senior High,39686763937406,Stockton Unified,94,426,425,425,17,18.09%
+Millennium Charter,39754990102392,Tracy Joint Unified,67,483,487,480,23,34.33%
+John C. Kimball High,39754990119040,Tracy Joint Unified,216,500,509,500,103,47.69%
+Merrill F. West High,39754993930302,Tracy Joint Unified,198,491,504,479,86,43.43%
+Tracy High,39754993938008,Tracy Joint Unified,197,499,508,496,88,44.67%
+Grizzly ChalleNGe Charter,40104050101725,San Luis Obispo County Office of Education,0,null,null,null,null,null%
+San Luis Obispo County Juvenile Court,40104054030078,San Luis Obispo County Office of Education,1,null,null,null,null,null%
+West Mall Alternative,40687004030102,Atascadero Unified,1,null,null,null,null,null%
+Atascadero High,40687004030755,Atascadero Unified,130,546,532,521,89,68.46%
+Nipomo High,40687594030268,Lucia Mar Unified,86,508,511,490,40,46.51%
+Arroyo Grande High,40687594030557,Lucia Mar Unified,231,535,543,524,146,63.2%
+Morro Bay High,40688094034807,San Luis Coastal Unified,81,544,551,512,51,62.96%
+San Luis Obispo High,40688094036703,San Luis Coastal Unified,222,572,571,549,164,73.87%
+Shandon High,40688334037008,Shandon Joint Unified,2,null,null,null,null,null%
+Templeton Independent Study High,40688414030185,Templeton Unified,6,null,null,null,null,null%
+Templeton High,40688414037701,Templeton Unified,115,535,524,521,71,61.74%
+Independence High,40754570119354,Paso Robles Joint Unified,1,null,null,null,null,null%
+Paso Robles High,40754574035754,Paso Robles Joint Unified,176,508,504,490,86,48.86%
+Coast Union High,40754654032009,Coast Unified,18,522,506,486,9,50%
+Half Moon Bay High,41688904132817,Cabrillo Unified,136,525,525,524,85,62.5%
+California Virtual Academy @ San Mateo,41689160112284,Jefferson Elementary,9,null,null,null,null,null%
+Jefferson High,41689244133393,Jefferson Union High,110,455,468,451,31,28.18%
+Oceana High,41689244135075,Jefferson Union High,89,534,550,532,58,65.17%
+Terra Nova High,41689244137535,Jefferson Union High,126,537,548,523,85,67.46%
+Westmoor High,41689244137790,Jefferson Union High,179,498,540,496,93,51.96%
+Pescadero High,41689404135331,La Honda-Pescadero Unified,10,null,null,null,null,null%
+Aspire East Palo Alto Charter,41689996114953,Ravenswood City Elementary,0,null,null,null,null,null%
+Peninsula High,41690470128165,San Mateo Union High,0,null,null,null,null,null%
+Aragon High,41690474130217,San Mateo Union High,231,567,581,572,167,72.29%
+Burlingame High,41690474130472,San Mateo Union High,188,557,586,560,146,77.66%
+Capuchino High,41690474130738,San Mateo Union High,137,495,508,487,63,45.99%
+Hillsdale High,41690474133070,San Mateo Union High,201,524,554,520,120,59.7%
+Mills High,41690474134557,San Mateo Union High,222,545,592,543,163,73.42%
+San Mateo High,41690474136370,San Mateo Union High,210,558,576,559,144,68.57%
+Summit Preparatory Charter High,41690620112722,Sequoia Union High,39,532,531,522,23,58.97%
+Everest Public High,41690620119503,Sequoia Union High,53,553,551,538,36,67.92%
+East Palo Alto Academy,41690620126722,Sequoia Union High,21,385,422,403,2,9.52%
+Carlmont High,41690624130993,Sequoia Union High,349,575,604,569,289,82.81%
+Menlo-Atherton High,41690624133716,Sequoia Union High,295,580,593,575,215,72.88%
+Redwood High,41690624135687,Sequoia Union High,1,null,null,null,null,null%
+Sequoia High,41690624136693,Sequoia Union High,270,510,536,526,147,54.44%
+Woodside High,41690624138053,Sequoia Union High,208,500,510,499,108,51.92%
+El Camino High,41690704132551,South San Francisco Unified,198,491,517,479,85,42.93%
+South San Francisco High,41690704137279,South San Francisco Unified,143,481,499,477,55,38.46%
+Family Partnership Home Study Charter,42691120111773,Blochman Union Elementary,0,null,null,null,null,null%
+Carpinteria Senior High,42691464230587,Carpinteria Unified,67,479,499,470,27,40.3%
+Cabrillo High,42692294230454,Lompoc Unified,91,528,520,504,56,61.54%
+Lompoc High,42692294233060,Lompoc Unified,54,474,478,464,21,38.89%
+Olive Grove,42692454230199,Los Olivos Elementary,3,null,null,null,null,null%
+Orcutt Academy Charter,42692600116434,Orcutt Union Elementary,84,514,508,492,47,55.95%
+Pioneer Valley High,42693100102285,Santa Maria Joint Union High,173,455,463,451,46,26.59%
+Ernest Righetti High,42693104234613,Santa Maria Joint Union High,181,486,500,482,78,43.09%
+Santa Maria High,42693104236030,Santa Maria Joint Union High,173,416,447,415,24,13.87%
+Santa Ynez Valley Union High,42693284236345,Santa Ynez Valley Union High,147,521,530,516,87,59.18%
+Cuyama Valley High,42750104231205,Cuyama Joint Unified,3,null,null,null,null,null%
+Alta Vista Alternative High,42767860120402,Santa Barbara Unified,12,568,548,558,10,83.33%
+Dos Pueblos Senior High,42767864231726,Santa Barbara Unified,325,539,557,529,204,62.77%
+San Marcos Senior High,42767864235230,Santa Barbara Unified,201,518,532,514,116,57.71%
+Santa Barbara Senior High,42767864235727,Santa Barbara Unified,257,537,539,529,159,61.87%
+Leadership Public Schools - San Jose,43104390102905,Santa Clara County Office of Education,49,377,392,381,2,4.08%
+University Preparatory Academy Charter,43104390113431,Santa Clara County Office of Education,74,535,546,537,46,62.16%
+Magnolia Science Academy Santa Clara,43104390120261,Santa Clara County Office of Education,3,null,null,null,null,null%
+Silicon Valley Flex Academy,43104390121780,Santa Clara County Office of Education,6,null,null,null,null,null%
+Summit Public School: Tahoma,43104390123794,Santa Clara County Office of Education,61,490,483,483,22,36.07%
+Leigh High,43694014330239,Campbell Union High,226,551,573,544,158,69.91%
+Boynton High,43694014330759,Campbell Union High,2,null,null,null,null,null%
+Branham High,43694014330866,Campbell Union High,216,539,543,540,137,63.43%
+Del Mar High,43694014331955,Campbell Union High,93,468,465,459,31,33.33%
+Prospect High,43694014336137,Campbell Union High,153,534,552,531,98,64.05%
+Westmont High,43694014338505,Campbell Union High,202,528,537,529,125,61.88%
+"Escuela Popular/Center for Training and Careers, F",43694270107151,East Side Union High,0,null,null,null,null,null%
+KIPP San Jose Collegiate,43694270116889,East Side Union High,43,467,508,482,16,37.21%
+Summit Public School: Rainier,43694270123745,East Side Union High,52,488,497,493,25,48.08%
+Calero High,43694270125427,East Side Union High,0,null,null,null,null,null%
+Yerba Buena High,43694274330015,East Side Union High,179,450,487,454,59,32.96%
+Santa Teresa High,43694274330023,East Side Union High,300,516,536,508,169,56.33%
+Independence High,43694274330031,East Side Union High,375,491,524,493,185,49.33%
+Apollo High,43694274330361,East Side Union High,8,null,null,null,null,null%
+Latino College Preparatory Academy,43694274330668,East Side Union High,61,367,383,380,0,0%
+San Jose Conservation Corps Charter,43694274330676,East Side Union High,0,null,null,null,null,null%
+Evergreen Valley High,43694274330692,East Side Union High,452,558,601,565,334,73.89%
+Escuela Popular Accelerated Family Learning,43694274330726,East Side Union High,0,null,null,null,null,null%
+Andrew P. Hill High,43694274332995,East Side Union High,193,492,527,493,95,49.22%
+James Lick High,43694274333639,East Side Union High,117,440,467,440,35,29.91%
+Mount Pleasant High,43694274334900,East Side Union High,166,448,481,442,43,25.9%
+Oak Grove High,43694274335204,East Side Union High,177,494,519,487,87,49.15%
+William C. Overfelt High,43694274335428,East Side Union High,115,434,471,429,30,26.09%
+Piedmont Hills High,43694274335907,East Side Union High,364,527,570,538,233,64.01%
+Silver Creek High,43694274337903,East Side Union High,308,516,551,511,179,58.12%
+Cupertino High,43694684331799,Fremont Union High,362,598,660,619,315,87.02%
+Fremont High,43694684332474,Fremont Union High,230,522,555,525,137,59.57%
+Homestead High,43694684333316,Fremont Union High,412,586,627,591,338,82.04%
+Lynbrook High,43694684334421,Fremont Union High,398,639,698,664,382,95.98%
+Monta Vista High,43694684334462,Fremont Union High,513,638,691,657,487,94.93%
+Dr. T. J. Owens Gilroy Early College Academy,43694840114496,Gilroy Unified,43,567,563,552,30,69.77%
+Christopher High,43694840118380,Gilroy Unified,232,489,487,484,94,40.52%
+Gilroy High,43694844332839,Gilroy Unified,103,465,476,464,35,33.98%
+Los Gatos High,43695344334371,Los Gatos-Saratoga Joint Union High,379,595,608,589,328,86.54%
+Saratoga High,43695344337762,Los Gatos-Saratoga Joint Union High,319,639,674,650,302,94.67%
+Ann Sobrato High,43695830102368,Morgan Hill Unified,161,522,536,515,101,62.73%
+Live Oak High,43695834333951,Morgan Hill Unified,149,479,473,474,55,36.91%
+Los Altos High,43696094334116,Mountain View-Los Altos Union High,246,611,636,622,217,88.21%
+Mountain View High,43696094334728,Mountain View-Los Altos Union High,336,594,617,589,271,80.65%
+Henry M. Gunn High,43696414332904,Palo Alto Unified,330,642,686,646,310,93.94%
+Palo Alto High,43696414335782,Palo Alto Unified,370,627,657,624,330,89.19%
+Gunderson High,43696664330080,San Jose Unified,111,477,474,461,44,39.64%
+Liberty High (Alternative),43696664330502,San Jose Unified,1,null,null,null,null,null%
+Downtown College Preparatory,43696664330585,San Jose Unified,3,null,null,null,null,null%
+Middle College High,43696664330593,San Jose Unified,0,null,null,null,null,null%
+Broadway High,43696664332110,San Jose Unified,1,null,null,null,null,null%
+Leland High,43696664333522,San Jose Unified,339,600,641,603,293,86.43%
+Abraham Lincoln High,43696664333795,San Jose Unified,195,489,491,484,79,40.51%
+Pioneer High,43696664335949,San Jose Unified,259,530,540,531,159,61.39%
+San José High,43696664337200,San Jose Unified,111,442,450,455,27,24.32%
+Willow Glen High,43696664338950,San Jose Unified,180,501,508,496,90,50%
+Santa Clara High,43696744330122,Santa Clara Unified,230,512,522,504,121,52.61%
+Wilson Alternative,43696744330247,Santa Clara Unified,1,null,null,null,null,null%
+Adrian Wilcox High,43696744338802,Santa Clara Unified,231,521,540,526,136,58.87%
+Milpitas High,43733874334470,Milpitas Unified,450,527,563,524,279,62%
+Pacific Collegiate Charter,44104474430252,Santa Cruz County Office of Education,66,638,638,630,62,93.94%
+Cypress Charter High,44697650100305,Live Oak Elementary,17,549,462,506,10,58.82%
+Pajaro Valley High,44697990105858,Pajaro Valley Unified,115,433,436,430,21,18.26%
+Ceiba College Preparatory Academy,44697990117804,Pajaro Valley Unified,1,null,null,null,null,null%
+Pacific Coast Charter,44697994430229,Pajaro Valley Unified,3,null,null,null,null,null%
+Aptos High,44697994430518,Pajaro Valley Unified,152,532,529,521,91,59.87%
+Watsonville High,44697994437901,Pajaro Valley Unified,182,437,452,433,38,20.88%
+Ocean Grove Charter,44698070110007,San Lorenzo Valley Unified,20,620,546,554,15,75%
+SLVUSD Charter,44698074430179,San Lorenzo Valley Unified,0,null,null,null,null,null%
+San Lorenzo Valley High,44698074436754,San Lorenzo Valley Unified,94,535,521,517,52,55.32%
+Ark Independent Studies,44698234430096,Santa Cruz City High,1,null,null,null,null,null%
+Delta Charter,44698234430187,Santa Cruz City High,1,null,null,null,null,null%
+Alternative Family Education,44698234430195,Santa Cruz City High,0,null,null,null,null,null%
+Harbor High,44698234432340,Santa Cruz City High,123,498,518,497,60,48.78%
+Santa Cruz High,44698234437109,Santa Cruz City High,161,555,570,547,116,72.05%
+Soquel High,44698234437406,Santa Cruz City High,127,534,505,532,85,66.93%
+Scotts Valley High,44754324430211,Scotts Valley Unified,121,550,551,547,88,72.73%
+West Valley High,45698564530028,Anderson Union High,65,498,512,480,35,53.85%
+Oakview High (Alternative),45698564530051,Anderson Union High,0,null,null,null,null,null%
+Anderson New Technology High,45698564530333,Anderson Union High,10,null,null,null,null,null%
+Anderson High,45698564530804,Anderson Union High,22,472,484,455,8,36.36%
+Burney Junior-Senior High,45699894531000,Fall River Joint Unified,4,null,null,null,null,null%
+Fall River Junior-Senior High,45699894533600,Fall River Joint Unified,17,508,535,511,10,58.82%
+Stellar Secondary Charter High,45701104530341,Redding Elementary,2,null,null,null,null,null%
+University Preparatory,45701360106013,Shasta Union High,74,577,568,551,59,79.73%
+Foothill High,45701364530044,Shasta Union High,60,557,577,528,46,76.67%
+Shasta Charter Academy,45701364530267,Shasta Union High,8,null,null,null,null,null%
+North State Independence High,45701364530309,Shasta Union High,0,null,null,null,null,null%
+Enterprise High,45701364532750,Shasta Union High,70,536,544,507,40,57.14%
+Shasta High,45701364537304,Shasta Union High,90,554,549,546,61,67.78%
+Northern Summit Academy,45701690129957,Whitmore Union Elementary,0,null,null,null,null,null%
+Academy of Personalized Learning,45752670120170,Gateway Unified,9,null,null,null,null,null%
+Gateway Educational Options,45752674530101,Gateway Unified,0,null,null,null,null,null%
+Central Valley High,45752674531901,Gateway Unified,38,483,487,467,15,39.47%
+Downieville Junior-Senior High,46701774632303,Sierra-Plumas Joint Unified,1,null,null,null,null,null%
+Loyalton High,46701774634259,Sierra-Plumas Joint Unified,9,null,null,null,null,null%
+Golden Eagle Charter,47104700117168,Siskiyou County Office of Education,1,null,null,null,null,null%
+Dunsmuir High,47702504732707,Dunsmuir Joint Union High,3,null,null,null,null,null%
+Happy Camp High,47704664734356,Siskiyou Union High,7,null,null,null,null,null%
+Mt. Shasta High,47704664735403,Siskiyou Union High,32,529,501,513,17,53.13%
+Weed High,47704664738753,Siskiyou Union High,16,474,481,467,8,50%
+Yreka High,47705164739207,Yreka Union High,53,517,520,482,24,45.28%
+Butte Valley High,47736844731253,Butte Valley Unified,3,null,null,null,null,null%
+Etna Union High,47764554733309,Scott Valley Unified,21,527,516,488,11,52.38%
+Benicia High,48705244831004,Benicia Unified,183,554,560,538,126,68.85%
+Dixon High,48705324832259,Dixon Unified,133,489,517,472,65,48.87%
+Matt Garcia Learning Center,48705400123356,Fairfield-Suisun Unified,0,null,null,null,null,null%
+Angelo Rodriguez High,48705404830170,Fairfield-Suisun Unified,251,490,487,489,111,44.22%
+Armijo High,48705404830451,Fairfield-Suisun Unified,181,498,504,494,80,44.2%
+Fairfield High,48705404833000,Fairfield-Suisun Unified,89,458,453,451,25,28.09%
+Vanden High,48705654838801,Travis Unified,180,513,510,504,98,54.44%
+Will C. Wood High,48705734830089,Vacaville Unified,137,487,523,475,59,43.07%
+Elise P. Buckingham Charter Magnet High,48705734830113,Vacaville Unified,51,545,537,533,39,76.47%
+Vacaville High,48705734837803,Vacaville Unified,237,499,515,492,127,53.59%
+Jesse M. Bethel High,48705814830147,Vallejo City Unified,144,453,464,447,45,31.25%
+MIT Academy,48705814830196,Vallejo City Unified,0,null,null,null,null,null%
+Vallejo High,48705814838504,Vallejo City Unified,92,434,426,418,16,17.39%
+Analy High,49706074930400,West Sonoma County Union High,154,551,563,544,109,70.78%
+El Molino High,49706074931507,West Sonoma County Union High,65,532,523,514,38,58.46%
+Cloverdale High,49706564930855,Cloverdale Unified,37,465,473,468,10,27.03%
+Geyserville New Tech Academy,49707060129981,Geyserville Unified,0,null,null,null,null,null%
+Pathways Charter,49707306120588,Harmony Union Elementary,5,null,null,null,null,null%
+California Virtual Academy @ Sonoma,49707970107284,Liberty Elementary,4,null,null,null,null,null%
+Pivot Online Charter - North Bay,49708390120584,Oak Grove Union Elementary,2,null,null,null,null,null%
+Gateway to College Academy,49708620128157,Petaluma Joint Union High,0,null,null,null,null,null%
+Casa Grande High,49708624930012,Petaluma Joint Union High,201,526,549,525,124,61.69%
+Valley Oaks High (Alternative),49708624930236,Petaluma Joint Union High,2,null,null,null,null,null%
+Petaluma High,49708624935151,Petaluma Joint Union High,174,560,553,550,131,75.29%
+Northwest Prep Charter,49708700106344,Piner-Olivet Union Elementary,1,null,null,null,null,null%
+Roseland Charter,49709040101923,Roseland,80,406,406,410,7,8.75%
+Abraxis Charter,49709200108811,Santa Rosa High,0,null,null,null,null,null%
+Elsie Allen High,49709204930160,Santa Rosa High,52,451,476,457,12,23.08%
+Maria Carrillo High,49709204930244,Santa Rosa High,180,571,587,563,145,80.56%
+Montgomery High,49709204934154,Santa Rosa High,147,540,563,535,98,66.67%
+Piner High,49709204935292,Santa Rosa High,71,480,490,476,30,42.25%
+Santa Rosa High,49709204936803,Santa Rosa High,142,554,550,549,100,70.42%
+Sonoma Valley High,49709534937256,Sonoma Valley Unified,139,478,496,481,61,43.88%
+Orchard View,49709614930319,Twin Hills Union Elementary,5,null,null,null,null,null%
+Credo High,49738820123786,Cotati-Rohnert Park Unified,0,null,null,null,null,null%
+Academy of Arts and Sciences: Sonoma,49738820127092,Cotati-Rohnert Park Unified,2,null,null,null,null,null%
+Technology High,49738824930384,Cotati-Rohnert Park Unified,35,574,587,567,30,85.71%
+Rancho Cotate High,49738824935482,Cotati-Rohnert Park Unified,118,478,484,467,40,33.9%
+Windsor High,49753584930228,Windsor Unified,160,518,496,516,86,53.75%
+Healdsburg High,49753904932554,Healdsburg Unified,55,518,526,508,31,56.36%
+Stanislaus Alternative Charter,50105040129023,Stanislaus County Office of Education,0,null,null,null,null,null%
+Valley Charter High,50105045030234,Stanislaus County Office of Education,15,523,476,489,8,53.33%
+Whitmore Charter High,50710430107136,Ceres Unified,18,561,522,542,11,61.11%
+Central Valley High,50710430108076,Ceres Unified,203,434,434,433,43,21.18%
+Endeavor Alternative,50710435030168,Ceres Unified,0,null,null,null,null,null%
+Ceres High,50710435030879,Ceres Unified,147,458,464,450,44,29.93%
+Denair Charter Academy,50710685030267,Denair Unified,2,null,null,null,null,null%
+Denair High,50710685031521,Denair Unified,44,473,450,449,11,25%
+Hart-Ransom Academic Charter,50710926112965,Hart-Ransom Union Elementary,2,null,null,null,null,null%
+Keyes to Learning Charter,50711346113286,Keyes Union,6,null,null,null,null,null%
+James C. Enochs High,50711750110593,Modesto City High,245,499,514,487,118,48.16%
+Aspire Vanguard College Preparatory Academy,50711750120212,Modesto City High,10,null,null,null,null,null%
+Joseph A. Gregori High,50711750121129,Modesto City High,233,480,479,465,82,35.19%
+Fred C. Beyer High,50711755030010,Modesto City High,152,509,509,489,75,49.34%
+Peter Johansen High,50711755030135,Modesto City High,140,449,446,435,33,23.57%
+Grace M. Davis High,50711755031380,Modesto City High,81,460,454,442,21,25.93%
+Thomas Downey High,50711755031802,Modesto City High,136,494,499,483,62,45.59%
+Modesto High,50711755034905,Modesto City High,247,481,484,479,101,40.89%
+Del Puerto High,50712175030127,Patterson Joint Unified,1,null,null,null,null,null%
+Patterson High,50712175036256,Patterson Joint Unified,162,440,435,437,34,20.99%
+Orestimba High,50736015035902,Newman-Crows Landing Unified,76,428,452,444,22,28.95%
+Hughson High,50755495032651,Hughson Unified,87,471,476,456,26,29.89%
+Riverbank High,50755565036850,Riverbank Unified,66,433,458,434,16,24.24%
+Oakdale Charter High,50755645030176,Oakdale Joint Unified,2,null,null,null,null,null%
+Valley Oak Junior and Senior High,50755645030192,Oakdale Joint Unified,0,null,null,null,null,null%
+Oakdale High,50755645035654,Oakdale Joint Unified,138,509,511,502,64,46.38%
+Waterford High,50755725030259,Waterford Unified,57,464,481,465,21,36.84%
+Connecting Waters Charter,50755725030317,Waterford Unified,34,541,506,504,18,52.94%
+eCademy Charter at Crane,50757390124669,Turlock Unified,1,null,null,null,null,null%
+Fusion Charter,50757390131185,Turlock Unified,0,null,null,null,null,null%
+John H. Pitman High,50757395030283,Turlock Unified,234,483,495,480,100,42.74%
+Roselawn High,50757395036884,Turlock Unified,1,null,null,null,null,null%
+Turlock High,50757395037700,Turlock Unified,228,486,493,479,91,39.91%
+East Nicolaus High,51713735132758,East Nicolaus Joint Union High,34,507,505,487,17,50%
+Live Oak High,51713995135256,Live Oak Unified,59,434,457,426,7,11.86%
+South Sutter Charter,51714070109793,Marcum-Illinois Union Elementary,13,523,488,465,6,46.15%
+California Virtual Academy @ Sutter,51714150129007,Meridian Elementary,0,null,null,null,null,null%
+Sutter High,51714495137500,Sutter Union High,78,492,499,471,32,41.03%
+River Valley High,51714640107722,Yuba City Unified,145,488,502,479,64,44.14%
+Albert Powell Continuation,51714645130018,Yuba City Unified,2,null,null,null,null,null%
+Yuba City Unified Alternative,51714645130075,Yuba City Unified,0,null,null,null,null,null%
+Yuba City Charter,51714645130125,Yuba City Unified,1,null,null,null,null,null%
+Yuba City High,51714645139001,Yuba City Unified,134,483,493,476,49,36.57%
+Tehama eLearning Academy,52105206119671,Tehama County Office of Education,1,null,null,null,null,null%
+Corning High,52715065231709,Corning Union High,53,478,469,452,17,32.08%
+Los Molinos High,52715715235106,Los Molinos Unified,20,449,445,412,4,20%
+Red Bluff High,52716395237201,Red Bluff Joint Union High,84,499,526,490,44,52.38%
+Southern Trinity High,53738335337423,Southern Trinity Joint Unified,2,null,null,null,null,null%
+Hayfork High,53750285337407,Mountain Valley Unified,3,null,null,null,null,null%
+Trinity High,53765135337456,Trinity Alps Unified,30,498,490,462,15,50%
+University Preparatory High,54105460119602,Tulare County Office of Education,23,514,481,498,13,56.52%
+La Sierra High,54105465430327,Tulare County Office of Education,0,null,null,null,null,null%
+Eleanor Roosevelt Community Learning Center,54105466119291,Tulare County Office of Education,5,null,null,null,null,null%
+Central California Connections Academy,54718030112458,Alpaugh Unified,3,null,null,null,null,null%
+Alpaugh Junior-Senior High,54718035430301,Alpaugh Unified,6,null,null,null,null,null%
+Summit Charter Academy,54718370109009,Burton Elementary,10,null,null,null,null,null%
+Burton Pathways Charter Academy,54718370122705,Burton Elementary,1,null,null,null,null,null%
+Esperanza High,54718605430095,Cutler-Orosi Joint Unified,0,null,null,null,null,null%
+Orosi High,54718605433230,Cutler-Orosi Joint Unified,97,412,419,414,11,11.34%
+Loma Vista Charter,54719930124776,Lindsay Unified,0,null,null,null,null,null%
+Lindsay Senior High,54719935432414,Lindsay Unified,115,411,404,415,16,13.91%
+Crescent Valley Public Charter,54721400123273,Stone Corral Elementary,0,null,null,null,null,null%
+Mission Oak High,54722490116368,Tulare Joint Union High,162,437,452,435,41,25.31%
+Sierra Vista Charter High,54722490130708,Tulare Joint Union High,0,null,null,null,null,null%
+Tulare Union High,54722495435409,Tulare Joint Union High,146,460,468,447,37,25.34%
+Tulare Western High,54722495435466,Tulare Joint Union High,131,451,450,452,31,23.66%
+Visalia Charter Independent Study,54722560109751,Visalia Unified,11,437,422,442,2,18.18%
+Visalia Technical Early College,54722560120659,Visalia Unified,0,null,null,null,null,null%
+Golden West High,54722565430046,Visalia Unified,125,478,469,468,39,31.2%
+El Diamante High,54722565430368,Visalia Unified,208,480,465,475,76,36.54%
+Mt. Whitney High,54722565432828,Visalia Unified,132,478,478,460,49,37.12%
+Redwood High,54722565434527,Visalia Unified,225,497,500,493,106,47.11%
+Farmersville High,54753255430210,Farmersville Unified,79,399,413,400,6,7.59%
+Butterfield Charter High,54755230114348,Porterville Unified,0,null,null,null,null,null%
+Harmony Magnet Academy,54755230116590,Porterville Unified,80,472,483,464,27,33.75%
+Granite Hills High,54755235430251,Porterville Unified,78,444,441,433,16,20.51%
+Prospect Education Center,54755235430350,Porterville Unified,0,null,null,null,null,null%
+Monache High,54755235432786,Porterville Unified,163,458,487,447,56,34.36%
+Porterville High,54755235434113,Porterville Unified,167,431,449,442,43,25.75%
+Strathmore High,54755235434931,Porterville Unified,27,393,383,388,3,11.11%
+Ronald Reagan Academy,54755310102186,Dinuba Unified,0,null,null,null,null,null%
+Dinuba High,54755315431184,Dinuba Unified,182,422,434,412,28,15.38%
+Woodlake High,54767945436282,Woodlake Unified,70,443,448,438,13,18.57%
+Exeter Independent Study (Alternative),54768365430087,Exeter Unified,0,null,null,null,null,null%
+Exeter Union High,54768365431598,Exeter Unified,72,478,486,485,30,41.67%
+California Virtual Academy @ Jamestown,55723630100099,Jamestown Elementary,9,null,null,null,null,null%
+Theodore Bird High,55723895530043,Sonora Union High,1,null,null,null,null,null%
+Sonora High,55723895536503,Sonora Union High,73,530,524,514,43,58.9%
+Gold Rush Charter,55724130112276,Summerville Union High,0,null,null,null,null,null%
+Connections Visual and Performing Arts Academy,55724135530191,Summerville Union High,0,null,null,null,null,null%
+Summerville High,55724135536750,Summerville Union High,58,504,489,491,25,43.1%
+Tioga High,55751845530076,Big Oak Flat-Groveland Unified,5,null,null,null,null,null%
+Don Pedro High,55751845530084,Big Oak Flat-Groveland Unified,3,null,null,null,null,null%
+Vista Real Charter High,56105610109900,Ventura County Office of Education,3,null,null,null,null,null%
+River Oaks Academy,56105610122713,Ventura County Office of Education,1,null,null,null,null,null%
+Fillmore Senior High,56724545632021,Fillmore Unified,84,471,493,451,28,33.33%
+Golden Valley Charter,56724705630363,Mesa Union Elementary,6,null,null,null,null,null%
+Academy of Arts and Sciences: Thousand Oaks & Simi,56725040127043,Mupu Elementary,5,null,null,null,null,null%
+Academy of Arts and Sciences: Oxnard & Ventura,56725040127076,Mupu Elementary,1,null,null,null,null,null%
+Nordhoff High,56725205634076,Ojai Unified,93,521,529,505,52,55.91%
+"Architecture, Construction & Engineering Charter H",56725460120634,Oxnard Union High,0,null,null,null,null,null%
+Condor High,56725460125674,Oxnard Union High,0,null,null,null,null,null%
+Pacifica High,56725465630389,Oxnard Union High,236,460,467,454,77,32.63%
+Adolfo Camarillo High,56725465631619,Oxnard Union High,271,530,561,521,184,67.9%
+Channel Islands High,56725465631742,Oxnard Union High,167,431,448,432,39,23.35%
+Hueneme High,56725465632849,Oxnard Union High,93,433,424,432,16,17.2%
+Oxnard High,56725465634548,Oxnard Union High,269,474,484,469,100,37.17%
+Rio Mesa High,56725465634761,Oxnard Union High,155,485,493,476,65,41.94%
+Monte Vista,56726035630249,Simi Valley Unified,6,null,null,null,null,null%
+Santa Susana High,56726035630322,Simi Valley Unified,99,564,573,556,79,79.8%
+Royal High,56726035635008,Simi Valley Unified,148,520,529,514,90,60.81%
+Simi Valley High,56726035636188,Simi Valley Unified,193,528,551,524,112,58.03%
+El Camino High,56726525630298,Ventura Unified,30,563,515,537,23,76.67%
+Foothill Technology High,56726525630348,Ventura Unified,185,542,539,530,121,65.41%
+Buena High,56726525630793,Ventura Unified,147,507,513,489,81,55.1%
+Ventura High,56726525637822,Ventura Unified,192,517,519,508,105,54.69%
+Century Academy,56737590123349,Conejo Valley Unified,9,null,null,null,null,null%
+Westlake High,56737595630116,Conejo Valley Unified,389,570,592,573,298,76.61%
+Newbury Park High,56737595633748,Conejo Valley Unified,396,555,570,542,276,69.7%
+Thousand Oaks High,56737595637004,Conejo Valley Unified,327,543,559,540,227,69.42%
+Oak Park High,56738745630132,Oak Park Unified,248,580,591,586,198,79.84%
+Oak View High,56738745630199,Oak Park Unified,1,null,null,null,null,null%
+Oak Park Independent,56738745630256,Oak Park Unified,14,519,459,488,6,42.86%
+IvyTech Charter,56739400121426,Moorpark Unified,0,null,null,null,null,null%
+The High School at Moorpark College,56739405630371,Moorpark Unified,23,527,506,519,15,65.22%
+Moorpark High,56739405633250,Moorpark Unified,237,541,550,533,162,68.35%
+Santa Paula High,56768285635776,Santa Paula Unified,145,416,431,421,17,11.72%
+Da Vinci Charter Academy,57726780119578,Davis Joint Unified,77,589,573,558,70,90.91%
+Davis School for Independent Study,57726785730098,Davis Joint Unified,7,null,null,null,null,null%
+Davis Senior High,57726785732201,Davis Joint Unified,457,596,620,590,386,84.46%
+Esparto High,57726865732904,Esparto Unified,32,448,451,449,9,28.13%
+West Sacramento Early College Prep Charter,57726940115329,Washington Unified,8,null,null,null,null,null%
+River City High,57726945735154,Washington Unified,226,457,453,443,60,26.55%
+Winters High,57727025738505,Winters Joint Unified,45,487,467,473,16,35.56%
+Pioneer High,57727100101162,Woodland Joint Unified,149,478,476,455,51,34.23%
+Woodland Senior High,57727105738802,Woodland Joint Unified,118,477,469,468,44,37.29%
+Yuba County Career Preparatory Charter,58105875830112,Yuba County Office of Education,0,null,null,null,null,null%
+Camptonville Academy,58727286115935,Camptonville Elementary,10,null,null,null,null,null%
+Lindhurst High,58727365830013,Marysville Joint Unified,65,428,450,423,13,20%
+Lincoln (Abraham) (Alternative),58727365830054,Marysville Joint Unified,0,null,null,null,null,null%
+Marysville Charter Academy for the Arts,58727365830138,Marysville Joint Unified,29,501,494,484,16,55.17%
+Marysville High,58727365835202,Marysville Joint Unified,53,489,513,487,24,45.28%
+Wheatland Union High,58727695838305,Wheatland Union High,54,480,475,463,21,38.89%

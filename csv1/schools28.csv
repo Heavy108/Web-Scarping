@@ -1,0 +1,91 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+OCCS:CHEP/PCHS,30103063030632,Orange County Department of Education,39,531,527,528,26,66.67%
+Cypress High,30664313030038,Anaheim Union High,369,521,551,513,211,57.18%
+Anaheim High,30664313030228,Anaheim Union High,255,436,448,432,56,21.96%
+Polaris High (Alternative),30664313030384,Anaheim Union High,0,null,null,null,null,null%
+Oxford Academy,30664313030616,Anaheim Union High,167,627,669,634,164,98.2%
+Gilbert High (Continuation),30664313032786,Anaheim Union High,1,null,null,null,null,null%
+Katella High,30664313033057,Anaheim Union High,268,444,451,428,59,22.01%
+John F. Kennedy High,30664313033115,Anaheim Union High,309,524,551,529,196,63.43%
+Loara High,30664313033784,Anaheim Union High,215,441,455,445,54,25.12%
+Magnolia High,30664313034204,Anaheim Union High,159,442,447,443,38,23.9%
+Savanna High,30664313036712,Anaheim Union High,192,437,455,444,46,23.96%
+Western High,30664313038239,Anaheim Union High,138,462,483,444,44,31.88%
+Brea Canyon High (Continuation),30664493030624,Brea-Olinda Unified,1,null,null,null,null,null%
+Brea-Olinda High,30664493030640,Brea-Olinda Unified,251,520,545,521,155,61.75%
+Capistrano Connections Academy,30664640106765,Capistrano Unified,53,537,513,512,34,64.15%
+San Juan Hills High,30664640113381,Capistrano Unified,262,545,533,534,167,63.74%
+California Preparatory Academy,30664640124131,Capistrano Unified,6,null,null,null,null,null%
+Capistrano Valley High,30664643030210,Capistrano Unified,331,542,558,537,227,68.58%
+Aliso Niguel High,30664643030574,Capistrano Unified,417,563,574,548,312,74.82%
+Tesoro High,30664643030756,Capistrano Unified,339,549,569,545,247,72.86%
+Junipero Serra High,30664643035987,Capistrano Unified,4,null,null,null,null,null%
+San Clemente High,30664643036001,Capistrano Unified,406,537,530,522,266,65.52%
+Dana Hills High,30664643038569,Capistrano Unified,362,540,541,527,243,67.13%
+Opportunities for Learning - Capistrano,30664646120356,Capistrano Unified,3,null,null,null,null,null%
+La Sierra High (Alternative),30665143030335,Fullerton Joint Union High,1,null,null,null,null,null%
+Buena Park High,30665143030855,Fullerton Joint Union High,241,456,456,449,68,28.22%
+Fullerton Union High,30665143032505,Fullerton Joint Union High,205,494,518,499,103,50.24%
+La Habra High,30665143033362,Fullerton Joint Union High,235,491,501,474,103,43.83%
+La Vista High (Continuation),30665143033610,Fullerton Joint Union High,2,null,null,null,null,null%
+Sonora High,30665143037090,Fullerton Joint Union High,219,511,530,517,131,59.82%
+Sunny Hills High,30665143037348,Fullerton Joint Union High,387,538,586,551,281,72.61%
+Troy High,30665143037496,Fullerton Joint Union High,541,611,653,617,470,86.88%
+Bolsa Grande High,30665223030434,Garden Grove Unified,359,490,521,491,174,48.47%
+Garden Grove High,30665223032752,Garden Grove Unified,354,475,499,476,140,39.55%
+La Quinta High,30665223033578,Garden Grove Unified,411,495,552,497,236,57.42%
+Los Amigos High,30665223033933,Garden Grove Unified,210,436,455,441,52,24.76%
+Pacifica High,30665223035581,Garden Grove Unified,268,501,522,498,135,50.37%
+Rancho Alamitos High,30665223035706,Garden Grove Unified,213,476,503,478,84,39.44%
+Santiago High,30665223036555,Garden Grove Unified,279,451,455,443,64,22.94%
+Ocean View High,30665483030145,Huntington Beach Union High,170,481,486,472,64,37.65%
+Coast High,30665483030368,Huntington Beach Union High,4,null,null,null,null,null%
+Edison High,30665483031895,Huntington Beach Union High,302,541,554,534,208,68.87%
+Fountain Valley High,30665483032158,Huntington Beach Union High,515,542,578,543,362,70.29%
+Huntington Beach High,30665483032943,Huntington Beach Union High,384,542,558,534,266,69.27%
+Marina High,30665483034410,Huntington Beach Union High,272,527,553,520,164,60.29%
+Westminster High,30665483038445,Huntington Beach Union High,274,479,521,472,117,42.7%
+Laguna Beach High,30665553033206,Laguna Beach Unified,74,572,585,577,62,83.78%
+Early College High,30665970111666,Newport-Mesa Unified,35,463,492,478,11,31.43%
+Monte Vista High,30665973030186,Newport-Mesa Unified,1,null,null,null,null,null%
+Corona del Mar High,30665973031697,Newport-Mesa Unified,152,570,588,566,115,75.66%
+Costa Mesa High,30665973031853,Newport-Mesa Unified,90,480,492,478,37,41.11%
+Estancia High,30665973032000,Newport-Mesa Unified,154,455,457,431,41,26.62%
+Back Bay High,30665973034907,Newport-Mesa Unified,1,null,null,null,null,null%
+Newport Harbor High,30665973035045,Newport-Mesa Unified,249,519,529,514,150,60.24%
+OUSD Home Sch,30666210118174,Orange Unified,2,null,null,null,null,null%
+Canyon High,30666213030046,Orange Unified,315,533,549,539,204,64.76%
+El Modena High,30666213031952,Orange Unified,201,519,533,513,108,53.73%
+Orange High,30666213035409,Orange Unified,112,459,478,448,31,27.68%
+Villa Park High,30666213038098,Orange Unified,279,515,525,509,158,56.63%
+Yorba Linda High,30666470119404,Placentia-Yorba Linda Unified,286,540,571,543,201,70.28%
+Esperanza High,30666473030053,Placentia-Yorba Linda Unified,202,533,556,527,129,63.86%
+La Entrada High,30666473030483,Placentia-Yorba Linda Unified,2,null,null,null,null,null%
+El Dorado High,30666473031929,Placentia-Yorba Linda Unified,224,523,533,504,134,59.82%
+El Camino Real Continuation High,30666473031945,Placentia-Yorba Linda Unified,1,null,null,null,null,null%
+Valencia High,30666473038023,Placentia-Yorba Linda Unified,307,533,571,532,194,63.19%
+Parkview,30666476119556,Placentia-Yorba Linda Unified,6,null,null,null,null,null%
+Nova Academy,30666700106567,Santa Ana Unified,66,448,443,448,16,24.24%
+Segerstrom High,30666700108365,Santa Ana Unified,302,471,471,463,99,32.78%
+Hector G. Godinez,30666700114736,Santa Ana Unified,388,440,457,433,98,25.26%
+Cesar E. Chavez High,30666703030475,Santa Ana Unified,1,null,null,null,null,null%
+Century High,30666703030491,Santa Ana Unified,183,395,404,395,18,9.84%
+Middle College High,30666703030608,Santa Ana Unified,81,497,504,483,34,41.98%
+OCSA,30666703030723,Santa Ana Unified,243,590,565,582,198,81.48%
+Saddleback High,30666703035821,Santa Ana Unified,182,394,422,397,24,13.19%
+Santa Ana High,30666703036357,Santa Ana Unified,239,403,420,401,29,12.13%
+Valley High,30666703036456,Santa Ana Unified,226,403,432,415,36,15.93%
+El Toro High,30736353030061,Saddleback Valley Unified,298,530,557,521,193,64.77%
+Laguna Hills High,30736353030244,Saddleback Valley Unified,188,543,550,527,125,66.49%
+Trabuco Hills High,30736353030392,Saddleback Valley Unified,337,535,554,517,216,64.09%
+Mira Monte High (Alternative),30736353030509,Saddleback Valley Unified,1,null,null,null,null,null%
+Mission Viejo High,30736353034956,Saddleback Valley Unified,338,541,553,528,227,67.16%
+Arnold O. Beckman High,30736430102871,Tustin Unified,384,565,595,572,284,73.96%
+Foothill High,30736433032109,Tustin Unified,337,532,542,532,218,64.69%
+Tustin High,30736433037553,Tustin Unified,305,458,457,453,94,30.82%
+Irvine High,30736503030152,Irvine Unified,249,568,609,583,192,77.11%
+Woodbridge High,30736503030285,Irvine Unified,373,571,614,577,298,79.89%
+Alternative Education-San Joaquin High,30736503030467,Irvine Unified,2,null,null,null,null,null%
+Northwood High,30736503030657,Irvine Unified,358,604,656,621,329,91.9%
+University High,30736503035102,Irvine Unified,392,617,666,624,355,90.56%
+Los Alamitos High,30739243033917,Los Alamitos Unified,517,528,541,517,308,59.57%

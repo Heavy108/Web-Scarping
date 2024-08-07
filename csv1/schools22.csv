@@ -1,0 +1,17 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Merced Scholars Charter,24102490106518,Merced County Office of Education,3,null,null,null,null,null%
+Hilmar High,24656982432409,Hilmar Unified,57,462,453,447,17,29.82%
+Le Grand High,24657302433001,Le Grand Union High,59,415,413,425,5,8.47%
+Crossroads Alternative Education Center,24657550119073,Los Banos Unified,0,null,null,null,null,null%
+Pacheco High,24657550120923,Los Banos Unified,157,445,451,441,39,24.84%
+Los Banos High,24657552434207,Los Banos Unified,103,457,465,458,29,28.16%
+Independence High (Alternative),24657892430049,Merced Union High,0,null,null,null,null,null%
+Golden Valley High,24657892430098,Merced Union High,179,434,446,436,51,28.49%
+Buhach Colony High,24657892430205,Merced Union High,197,443,447,438,44,22.34%
+Atwater High,24657892430601,Merced Union High,187,451,446,433,40,21.39%
+Livingston High,24657892433605,Merced Union High,108,448,442,442,18,16.67%
+Merced High,24657892435204,Merced Union High,241,482,491,465,90,37.34%
+Gustine High,24736192431807,Gustine Unified,52,443,444,452,15,28.85%
+Dos Palos High,24753172431203,Dos Palos Oro Loma Joint Unified,63,431,429,422,9,14.29%
+Shattuck Independent Study,24753660114538,Delhi Unified,0,null,null,null,null,null%
+Delhi High,24753662430114,Delhi Unified,88,399,403,419,8,9.09%

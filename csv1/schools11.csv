@@ -1,0 +1,10 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Brawley High,13630811331404,Brawley Union High,156,452,451,442,43,27.56%
+Calexico High,13630991332204,Calexico Unified,216,431,432,425,47,21.76%
+Calipatria High,13631071332501,Calipatria Unified,23,464,453,446,6,26.09%
+Southwest High,13631151330133,Central Union High,193,476,482,468,70,36.27%
+Central Union High,13631151333004,Central Union High,128,468,486,464,46,35.94%
+Desert Oasis High (Continuation),13631151333558,Central Union High,1,null,null,null,null,null%
+Holtville High,13631491335306,Holtville Unified,67,441,451,434,13,19.4%
+Imperial High,13631641335900,Imperial Unified,105,495,494,474,44,41.9%
+San Pasqual Valley High,13632141337609,San Pasqual Valley Unified,9,null,null,null,null,null%

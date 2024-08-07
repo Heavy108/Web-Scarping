@@ -1,0 +1,91 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Alta Vista Public,36675870120592,Adelanto Elementary,2,null,null,null,null,null%
+Central High (Continuation),36676113630712,Barstow Unified,1,null,null,null,null,null%
+Barstow High,36676113630803,Barstow Unified,85,451,474,445,24,28.24%
+Big Bear High,36676373631066,Bear Valley Unified,71,502,519,491,37,52.11%
+Chaffey District Online High,36676520126243,Chaffey Joint Union High,8,null,null,null,null,null%
+Alta Loma High,36676523630225,Chaffey Joint Union High,348,482,488,466,130,37.36%
+Etiwanda High,36676523630373,Chaffey Joint Union High,455,489,501,478,205,45.05%
+Rancho Cucamonga High,36676523630571,Chaffey Joint Union High,519,493,501,489,236,45.47%
+Los Osos High,36676523631058,Chaffey Joint Union High,522,523,544,511,307,58.81%
+Colony High,36676523631157,Chaffey Joint Union High,240,457,466,450,77,32.08%
+Chaffey High,36676523632205,Chaffey Joint Union High,277,453,450,445,71,25.63%
+Montclair High,36676523633906,Chaffey Joint Union High,337,438,456,426,75,22.26%
+Ontario High,36676523634482,Chaffey Joint Union High,282,428,458,428,61,21.63%
+Valley View High (Continuation),36676523637659,Chaffey Joint Union High,1,null,null,null,null,null%
+Don Antonio Lugo High,36676783630035,Chino Valley Unified,142,468,462,461,44,30.99%
+Ruben S. Ayala High,36676783630522,Chino Valley Unified,464,513,542,510,273,58.84%
+Chino Hills High,36676783631017,Chino Valley Unified,516,508,531,508,288,55.81%
+Buena Vista Continuation High,36676783631769,Chino Valley Unified,1,null,null,null,null,null%
+Chino High,36676783632502,Chino Valley Unified,235,456,460,452,70,29.79%
+Grand Terrace High School at the Ray Abril Jr. Edu,36676860125500,Colton Joint Unified,184,451,451,441,44,23.91%
+Washington High,36676863630399,Colton Joint Unified,0,null,null,null,null,null%
+Bloomington High,36676863631322,Colton Joint Unified,177,432,442,430,40,22.6%
+Colton High,36676863632742,Colton Joint Unified,131,427,452,428,24,18.32%
+Summit High,36677100108191,Fontana Unified,326,439,439,425,62,19.02%
+Jurupa Hills High,36677100120758,Fontana Unified,282,437,436,424,61,21.63%
+Fontana A. B. Miller High,36677103630555,Fontana Unified,185,448,447,432,42,22.7%
+Henry J. Kaiser High,36677103630902,Fontana Unified,236,425,427,417,28,11.86%
+Fontana High,36677103633302,Fontana Unified,221,435,448,429,47,21.27%
+Academy of Careers and Exploration,36677360116723,Helendale Elementary,17,454,495,462,7,41.18%
+Empire Springs Charter,36677360128439,Helendale Elementary,0,null,null,null,null,null%
+Independence Charter Academy,36677360130948,Helendale Elementary,0,null,null,null,null,null%
+Alta Vista South Public Charter,36677360131151,Helendale Elementary,0,null,null,null,null,null%
+Hope Academy Charter,36677770124214,Morongo Unified,1,null,null,null,null,null%
+Twentynine Palms High,36677773636743,Morongo Unified,72,486,503,478,31,43.06%
+Yucca Valley High,36677773638616,Morongo Unified,79,493,497,494,40,50.63%
+Needles High,36678013634169,Needles Unified,16,446,453,409,5,31.25%
+Mojave River Academy,36678270111807,Oro Grande Elementary,8,null,null,null,null,null%
+Riverside Preparatory,36678270113928,Oro Grande Elementary,99,460,452,447,28,28.28%
+Citrus Valley High,36678430118802,Redlands Unified,293,488,492,473,135,46.08%
+Redlands eAcademy,36678430127837,Redlands Unified,5,null,null,null,null,null%
+Redlands East Valley High,36678433630779,Redlands Unified,256,506,511,498,134,52.34%
+Grove,36678433630928,Redlands Unified,28,552,506,535,17,60.71%
+Redlands Senior High,36678433635042,Redlands Unified,262,523,538,515,150,57.25%
+Wilmer Amina Carter High,36678500102830,Rialto Unified,265,429,436,436,48,18.11%
+Zupanic High,36678503630530,Rialto Unified,1,null,null,null,null,null%
+Rialto High,36678503630597,Rialto Unified,296,428,437,421,54,18.24%
+Eisenhower Senior High,36678503633005,Rialto Unified,210,433,456,427,42,20%
+Rim of the World Senior High,36678683635265,Rim of the World Unified,118,506,496,484,57,48.31%
+ASA Charter,36678760107730,San Bernardino City Unified,1,null,null,null,null,null%
+Public Safety Academy,36678760109850,San Bernardino City Unified,9,null,null,null,null,null%
+Options for Youth-San Bernardino,36678760120568,San Bernardino City Unified,23,456,436,457,3,13.04%
+Indian Springs High,36678760125450,San Bernardino City Unified,116,404,404,400,11,9.48%
+San Andreas High,36678763630308,San Bernardino City Unified,1,null,null,null,null,null%
+Alternative Learning Center,36678763630548,San Bernardino City Unified,0,null,null,null,null,null%
+Provisional Accelerated Learning Academy,36678763630993,San Bernardino City Unified,0,null,null,null,null,null%
+Arroyo Valley High,36678763631082,San Bernardino City Unified,243,415,423,406,39,16.05%
+Middle College High,36678763631090,San Bernardino City Unified,60,466,477,469,17,28.33%
+Cajon High,36678763632221,San Bernardino City Unified,330,465,467,456,107,32.42%
+Pacific High,36678763634680,San Bernardino City Unified,156,415,426,403,20,12.82%
+San Bernardino High,36678763635844,San Bernardino City Unified,159,424,426,415,25,15.72%
+San Gorgonio High,36678763636081,San Bernardino City Unified,167,426,434,424,37,22.16%
+Trona High,36678923636487,Trona Joint Unified,4,null,null,null,null,null%
+University Preparatory,36679340110064,Victor Valley Union High,164,500,507,500,83,50.61%
+Adelanto High,36679340125419,Victor Valley Union High,111,423,418,421,15,13.51%
+Goodwill High,36679343630100,Victor Valley Union High,1,null,null,null,null,null%
+Options for Youth-Victorville Charter,36679343630670,Victor Valley Union High,69,436,409,419,8,11.59%
+Excelsior Charter,36679343630761,Victor Valley Union High,74,511,475,473,31,41.89%
+Silverado High,36679343630787,Victor Valley Union High,204,431,431,422,36,17.65%
+Victor Valley High,36679343638012,Victor Valley Union High,130,430,442,428,22,16.92%
+Green Valley High,36679593633351,Yucaipa-Calimesa Joint Unified,1,null,null,null,null,null%
+Yucaipa High,36679593638509,Yucaipa-Calimesa Joint Unified,267,482,489,481,110,41.2%
+Baker High,36738583630076,Baker Valley Unified,6,null,null,null,null,null%
+Silver Valley High,36738903630274,Silver Valley Unified,32,507,497,486,15,46.88%
+Silver Valley Academy,36738903631199,Silver Valley Unified,1,null,null,null,null,null%
+Serrano High,36739573630233,Snowline Joint Unified,179,503,508,493,92,51.4%
+Snowline Virtual,36739573630589,Snowline Joint Unified,2,null,null,null,null,null%
+Summit Leadership Academy-High Desert,36750440107516,Hesperia Unified,17,394,388,370,0,0%
+Mirus Secondary,36750440114389,Hesperia Unified,1,null,null,null,null,null%
+Encore Jr./Sr. High School for the Performing and,36750440116707,Hesperia Unified,40,491,464,486,18,45%
+Oak Hills High,36750440119115,Hesperia Unified,227,456,461,450,69,30.4%
+Hesperia High,36750443630407,Hesperia Unified,143,440,432,434,29,20.28%
+Sultana High,36750443630746,Hesperia Unified,184,459,461,448,50,27.17%
+Shadow Ridge,36750443630811,Hesperia Unified,3,null,null,null,null,null%
+Sky Mountain Charter,36750510115089,Lucerne Valley Unified,7,null,null,null,null,null%
+Lucerne Valley High,36750513630563,Lucerne Valley Unified,13,400,395,397,0,0%
+Upland High,36750693637584,Upland Unified,415,495,505,490,187,45.06%
+Apple Valley High,36750773630423,Apple Valley Unified,169,481,473,471,65,38.46%
+Granite Hills High,36750773630894,Apple Valley Unified,133,488,468,479,59,44.36%
+High Desert Premier Academy,36750773631009,Apple Valley Unified,0,null,null,null,null,null%
+Academy for Academic Excellence,36750773631207,Apple Valley Unified,57,524,494,505,31,54.39%

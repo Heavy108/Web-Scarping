@@ -1,0 +1,142 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+San Pasqual Academy,37103710115998,San Diego County Office of Education,12,395,373,363,1,8.33%
+Monarch,37103710120493,San Diego County Office of Education,9,null,null,null,null,null%
+Literacy First Charter,37103716119119,San Diego County Office of Education,0,null,null,null,null,null%
+Juan Bautista de Anza,37679830117887,Borrego Springs Unified,0,null,null,null,null,null%
+Diego Springs Academy,37679830131144,Borrego Springs Unified,0,null,null,null,null,null%
+Borrego Springs High,37679833730447,Borrego Springs Unified,16,459,445,434,3,18.75%
+Coronado Pathways Charter,37680310126110,Coronado Unified,2,null,null,null,null,null%
+Coronado High,37680313731478,Coronado Unified,245,543,549,532,168,68.57%
+Diego Hills Charter,37680490119990,Dehesa Elementary,7,null,null,null,null,null%
+Dehesa Charter,37680496119564,Dehesa Elementary,17,588,496,529,11,64.71%
+Classical Academy High,37681060111195,Escondido Union High,112,568,557,548,84,75%
+San Pasqual High,37681063730058,Escondido Union High,244,530,540,522,165,67.62%
+Escondido Charter High,37681063731023,Escondido Union High,105,533,536,513,67,63.81%
+Escondido High,37681063732062,Escondido Union High,219,484,480,465,94,42.92%
+Orange Glen High,37681063735313,Escondido Union High,200,445,445,435,40,20%
+Oasis High (Alternative),37681223730967,Fallbrook Union High,7,null,null,null,null,null%
+Fallbrook High,37681223732179,Fallbrook Union High,228,489,498,474,91,39.91%
+Valhalla High,37681303730066,Grossmont Union High,220,528,540,516,144,65.45%
+West Hills High,37681303730702,Grossmont Union High,207,508,529,494,113,54.59%
+Steele Canyon High,37681303731262,Grossmont Union High,284,502,504,492,135,47.54%
+Grossmont Middle College High,37681303731536,Grossmont Union High,40,552,534,525,26,65%
+El Cajon Valley High,37681303731692,Grossmont Union High,107,443,456,455,37,34.58%
+El Capitan High,37681303731809,Grossmont Union High,122,475,484,463,42,34.43%
+Granite Hills High,37681303732336,Grossmont Union High,258,500,519,490,134,51.94%
+Grossmont High,37681303732625,Grossmont Union High,227,507,507,490,102,44.93%
+Helix High,37681303732732,Grossmont Union High,337,475,491,464,125,37.09%
+Monte Vista High,37681303734548,Grossmont Union High,148,459,473,443,40,27.03%
+Mount Miguel High,37681303734761,Grossmont Union High,115,420,446,414,15,13.04%
+Santana High,37681303737905,Grossmont Union High,147,509,527,501,81,55.1%
+Greater San Diego Academy,37681556117303,Jamul-Dulzura Union Elementary,4,null,null,null,null,null%
+Diego Valley Charter,37681630124271,Julian Union Elementary,1,null,null,null,null,null%
+Julian Charter,37681633731239,Julian Union Elementary,56,534,509,517,33,58.93%
+Julian High,37681713733219,Julian Union High,8,null,null,null,null,null%
+National University Academy,37681890118323,Lakeside Union Elementary,0,null,null,null,null,null%
+River Valley Charter,37681893731072,Lakeside Union Elementary,37,556,546,555,29,78.38%
+San Diego Virtual,37682130123224,Mountain Empire Unified,5,null,null,null,null,null%
+Pivot Charter School - San Diego,37682130123240,Mountain Empire Unified,4,null,null,null,null,null%
+Academy of Arts and Sciences: El Cajon Middle and,37682130127050,Mountain Empire Unified,0,null,null,null,null,null%
+Academy of Arts and Sciences: Del Mar Middle & Hig,37682130127084,Mountain Empire Unified,0,null,null,null,null,null%
+Mountain Empire High,37682133734878,Mountain Empire Unified,32,468,470,466,15,46.88%
+Del Norte High,37682960118935,Poway Unified,350,566,594,565,264,75.43%
+Mt. Carmel High,37682963730074,Poway Unified,345,551,568,536,243,70.43%
+Rancho Bernardo High,37682963730819,Poway Unified,356,563,593,559,268,75.28%
+Westview High,37682963731528,Poway Unified,438,583,608,581,343,78.31%
+Abraxas Continuation High,37682963735842,Poway Unified,1,null,null,null,null,null%
+Poway High,37682963735867,Poway Unified,333,557,571,552,248,74.47%
+Future Bound Independent Study Secondary,37683040102178,Ramona City Unified,0,null,null,null,null,null%
+Mountain Valley Academy,37683040131250,Ramona City Unified,0,null,null,null,null,null%
+Ramona High,37683043735974,Ramona City Unified,163,516,530,501,100,61.35%
+High Tech High International,37683380106732,San Diego Unified,94,488,499,477,43,45.74%
+Learning Choice Academy,37683380106799,San Diego Unified,9,null,null,null,null,null%
+San Diego International Studies,37683380107029,San Diego Unified,148,531,529,523,87,58.78%
+San Diego Business/Leadership,37683380107052,San Diego Unified,103,406,410,402,11,10.68%
+San Diego MVP Arts,37683380107060,San Diego Unified,34,401,393,405,4,11.76%
+Kearny Digital Media & Design,37683380107078,San Diego Unified,45,490,452,482,16,35.56%
+Kearny SCT,37683380107086,San Diego Unified,54,464,493,452,20,37.04%
+Kearny International Business,37683380107094,San Diego Unified,54,455,471,450,15,27.78%
+"Kearny Eng, Innov & Design",37683380107102,San Diego Unified,34,436,438,426,5,14.71%
+Crawford High,37683380107177,San Diego Unified,105,380,411,380,11,10.48%
+San Diego Science and Technology,37683380107219,San Diego Unified,56,432,428,423,10,17.86%
+San Diego Metro Career and Tech,37683380107482,San Diego Unified,15,480,462,489,8,53.33%
+High Tech High Media Arts,37683380108787,San Diego Unified,88,485,480,457,35,39.77%
+Lincoln High,37683380114025,San Diego Unified,170,386,411,389,10,5.88%
+Health Sciences High,37683380114462,San Diego Unified,105,447,437,422,21,20%
+Arroyo Paseo Charter High,37683380114520,San Diego Unified,10,null,null,null,null,null%
+San Diego Early/Middle College,37683380118315,San Diego Unified,22,529,517,483,11,50%
+King-Chavez Community High,37683380118851,San Diego Unified,90,375,382,369,2,2.22%
+Gompers Preparatory Academy,37683380119610,San Diego Unified,96,367,357,363,4,4.17%
+iHigh Virtual Academy,37683380120410,San Diego Unified,9,null,null,null,null,null%
+Coleman Tech Charter High,37683380122788,San Diego Unified,20,503,492,453,9,45%
+Home & Hosp/Transition Support,37683380126938,San Diego Unified,0,null,null,null,null,null%
+Laurel Preparatory Academy,37683380128744,San Diego Unified,2,null,null,null,null,null%
+John Muir,37683383730116,San Diego Unified,7,null,null,null,null,null%
+Serra High,37683383730173,San Diego Unified,312,457,480,452,114,36.54%
+Mira Mesa High,37683383730181,San Diego Unified,370,499,525,480,184,49.73%
+Twain High,37683383730231,San Diego Unified,1,null,null,null,null,null%
+University City High,37683383730314,San Diego Unified,337,516,525,501,179,53.12%
+San Diego SCPA,37683383730371,San Diego Unified,128,494,474,484,51,39.84%
+Mt. Everest Academy,37683383730751,San Diego Unified,15,533,531,521,9,60%
+Scripps Ranch High,37683383730884,San Diego Unified,431,565,594,564,327,75.87%
+Charter School of San Diego,37683383730959,San Diego Unified,30,498,443,479,13,43.33%
+Preuss School UCSD,37683383731189,San Diego Unified,107,512,539,520,68,63.55%
+Clairemont High,37683383731213,San Diego Unified,107,486,485,473,48,44.86%
+High Tech High,37683383731247,San Diego Unified,122,505,503,477,55,45.08%
+Audeo Charter,37683383731395,San Diego Unified,12,499,451,483,4,33.33%
+Henry High,37683383732781,San Diego Unified,356,520,533,495,204,57.3%
+Hoover High,37683383732997,San Diego Unified,215,408,427,411,27,12.56%
+La Jolla High,37683383733508,San Diego Unified,256,567,591,554,191,74.61%
+Madison High,37683383733698,San Diego Unified,146,450,455,443,42,28.77%
+Mission Bay High,37683383734431,San Diego Unified,128,437,446,430,28,21.88%
+Morse High,37683383734654,San Diego Unified,188,456,487,455,70,37.23%
+Point Loma High,37683383735750,San Diego Unified,311,523,521,506,175,56.27%
+Canyon Crest Academy,37683460106328,San Dieguito Union High,328,611,626,611,299,91.16%
+Torrey Pines High,37683463730033,San Dieguito Union High,492,612,639,617,432,87.8%
+North Coast Alternative High,37683463730769,San Dieguito Union High,1,null,null,null,null,null%
+La Costa Canyon High,37683463731007,San Dieguito Union High,357,542,574,542,264,73.95%
+Sunset High (Continuation),37683463737384,San Dieguito Union High,4,null,null,null,null,null%
+San Dieguito High Academy,37683463737418,San Dieguito Union High,240,562,580,553,179,74.58%
+Insight @ San Diego,37684030125401,Spencer Valley Elementary,5,null,null,null,null,null%
+California Virtual Academy @ San Diego,37684036120893,Spencer Valley Elementary,29,562,538,517,22,75.86%
+Olympian High,37684110111831,Sweetwater Union High,290,495,500,476,130,44.83%
+Southwest Senior High,37684113730124,Sweetwater Union High,131,441,447,437,26,19.85%
+Bonita Vista Senior High,37684113730405,Sweetwater Union High,318,503,512,484,150,47.17%
+Castle Park Senior High,37684113730801,Sweetwater Union High,140,449,449,426,33,23.57%
+Eastlake High,37684113730843,Sweetwater Union High,487,507,520,498,261,53.59%
+Chula Vista Senior High,37684113731064,Sweetwater Union High,271,460,461,441,74,27.31%
+Options Secondary,37684113731155,Sweetwater Union High,2,null,null,null,null,null%
+MAAC Community Charter,37684113731304,Sweetwater Union High,0,null,null,null,null,null%
+Alta Vista Academy,37684113731460,Sweetwater Union High,1,null,null,null,null,null%
+San Ysidro High,37684113731502,Sweetwater Union High,229,444,462,431,57,24.89%
+Otay Ranch Senior High,37684113731627,Sweetwater Union High,404,493,498,474,172,42.57%
+Hilltop Senior High,37684113732849,Sweetwater Union High,234,481,472,458,74,31.62%
+Mar Vista Senior High,37684113733953,Sweetwater Union High,121,479,481,462,47,38.84%
+Sweetwater High,37684113738226,Sweetwater Union High,285,437,459,437,66,23.16%
+Montgomery Senior High,37684113738234,Sweetwater Union High,157,451,450,438,37,23.57%
+RAI Online Charter,37684370101220,Vallecitos Elementary,5,null,null,null,null,null%
+Taylion San Diego Academy,37684370128470,Vallecitos Elementary,1,null,null,null,null,null%
+SIATech,37684520106120,Vista Unified,0,null,null,null,null,null%
+North County Trade Tech High,37684520114264,Vista Unified,0,null,null,null,null,null%
+Mission Vista High,37684520118430,Vista Unified,234,516,507,501,123,52.56%
+Guajome Learning Center,37684520124917,Vista Unified,1,null,null,null,null,null%
+Vista Visions Academy,37684520126300,Vista Unified,0,null,null,null,null,null%
+Rancho Buena Vista High,37684523730728,Vista Unified,255,501,518,495,138,54.12%
+Guajome Park Academy Charter,37684523730942,Vista Unified,49,541,523,531,25,51.02%
+Vista High,37684523738705,Vista Unified,241,493,496,475,102,42.32%
+Carlsbad High,37735513730694,Carlsbad Unified,414,555,564,538,298,71.98%
+Carlsbad Seaside Academy,37735513731163,Carlsbad Unified,0,null,null,null,null,null%
+Pacific View Charter,37735693731221,Oceanside Unified,5,null,null,null,null,null%
+Oceanside High,37735693735206,Oceanside Unified,159,472,505,454,64,40.25%
+El Camino High,37735693739018,Oceanside Unified,345,500,511,486,173,50.14%
+Ocean Shores High (Continuation),37735693739026,Oceanside Unified,1,null,null,null,null,null%
+Mission Hills High,37737910105726,San Marcos Unified,345,508,497,495,167,48.41%
+Bayshore Preparatory Charter,37737910109785,San Marcos Unified,5,null,null,null,null,null%
+Twin Oaks High,37737913730215,San Marcos Unified,1,null,null,null,null,null%
+Foothills High,37737913730793,San Marcos Unified,3,null,null,null,null,null%
+San Marcos High,37737913737632,San Marcos Unified,357,523,525,508,208,58.26%
+Warner Junior/Senior High,37754163730975,Warner Unified,6,null,null,null,null,null%
+Valley Center High,37756143731114,Valley Center-Pauma Unified,128,489,499,474,54,42.19%
+Valley Center Prep,37756143731601,Valley Center-Pauma Unified,3,null,null,null,null,null%
+High Tech High Chula Vista,37764710114678,SBC - High Tech High,136,478,469,471,46,33.82%
+High Tech High North County,37764710114694,SBC - High Tech High,112,516,503,511,56,50%

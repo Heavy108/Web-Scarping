@@ -1,0 +1,26 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Half Moon Bay High,41688904132817,Cabrillo Unified,136,525,525,524,85,62.5%
+California Virtual Academy @ San Mateo,41689160112284,Jefferson Elementary,9,null,null,null,null,null%
+Jefferson High,41689244133393,Jefferson Union High,110,455,468,451,31,28.18%
+Oceana High,41689244135075,Jefferson Union High,89,534,550,532,58,65.17%
+Terra Nova High,41689244137535,Jefferson Union High,126,537,548,523,85,67.46%
+Westmoor High,41689244137790,Jefferson Union High,179,498,540,496,93,51.96%
+Pescadero High,41689404135331,La Honda-Pescadero Unified,10,null,null,null,null,null%
+Aspire East Palo Alto Charter,41689996114953,Ravenswood City Elementary,0,null,null,null,null,null%
+Peninsula High,41690470128165,San Mateo Union High,0,null,null,null,null,null%
+Aragon High,41690474130217,San Mateo Union High,231,567,581,572,167,72.29%
+Burlingame High,41690474130472,San Mateo Union High,188,557,586,560,146,77.66%
+Capuchino High,41690474130738,San Mateo Union High,137,495,508,487,63,45.99%
+Hillsdale High,41690474133070,San Mateo Union High,201,524,554,520,120,59.7%
+Mills High,41690474134557,San Mateo Union High,222,545,592,543,163,73.42%
+San Mateo High,41690474136370,San Mateo Union High,210,558,576,559,144,68.57%
+Summit Preparatory Charter High,41690620112722,Sequoia Union High,39,532,531,522,23,58.97%
+Everest Public High,41690620119503,Sequoia Union High,53,553,551,538,36,67.92%
+East Palo Alto Academy,41690620126722,Sequoia Union High,21,385,422,403,2,9.52%
+Carlmont High,41690624130993,Sequoia Union High,349,575,604,569,289,82.81%
+Menlo-Atherton High,41690624133716,Sequoia Union High,295,580,593,575,215,72.88%
+Redwood High,41690624135687,Sequoia Union High,1,null,null,null,null,null%
+Sequoia High,41690624136693,Sequoia Union High,270,510,536,526,147,54.44%
+Woodside High,41690624138053,Sequoia Union High,208,500,510,499,108,51.92%
+El Camino High,41690704132551,South San Francisco Unified,198,491,517,479,85,42.93%
+South San Francisco High,41690704137279,South San Francisco Unified,143,481,499,477,55,38.46%

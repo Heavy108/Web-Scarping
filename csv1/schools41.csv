@@ -1,0 +1,61 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Leadership Public Schools - San Jose,43104390102905,Santa Clara County Office of Education,49,377,392,381,2,4.08%
+University Preparatory Academy Charter,43104390113431,Santa Clara County Office of Education,74,535,546,537,46,62.16%
+Magnolia Science Academy Santa Clara,43104390120261,Santa Clara County Office of Education,3,null,null,null,null,null%
+Silicon Valley Flex Academy,43104390121780,Santa Clara County Office of Education,6,null,null,null,null,null%
+Summit Public School: Tahoma,43104390123794,Santa Clara County Office of Education,61,490,483,483,22,36.07%
+Leigh High,43694014330239,Campbell Union High,226,551,573,544,158,69.91%
+Boynton High,43694014330759,Campbell Union High,2,null,null,null,null,null%
+Branham High,43694014330866,Campbell Union High,216,539,543,540,137,63.43%
+Del Mar High,43694014331955,Campbell Union High,93,468,465,459,31,33.33%
+Prospect High,43694014336137,Campbell Union High,153,534,552,531,98,64.05%
+Westmont High,43694014338505,Campbell Union High,202,528,537,529,125,61.88%
+"Escuela Popular/Center for Training and Careers, F",43694270107151,East Side Union High,0,null,null,null,null,null%
+KIPP San Jose Collegiate,43694270116889,East Side Union High,43,467,508,482,16,37.21%
+Summit Public School: Rainier,43694270123745,East Side Union High,52,488,497,493,25,48.08%
+Calero High,43694270125427,East Side Union High,0,null,null,null,null,null%
+Yerba Buena High,43694274330015,East Side Union High,179,450,487,454,59,32.96%
+Santa Teresa High,43694274330023,East Side Union High,300,516,536,508,169,56.33%
+Independence High,43694274330031,East Side Union High,375,491,524,493,185,49.33%
+Apollo High,43694274330361,East Side Union High,8,null,null,null,null,null%
+Latino College Preparatory Academy,43694274330668,East Side Union High,61,367,383,380,0,0%
+San Jose Conservation Corps Charter,43694274330676,East Side Union High,0,null,null,null,null,null%
+Evergreen Valley High,43694274330692,East Side Union High,452,558,601,565,334,73.89%
+Escuela Popular Accelerated Family Learning,43694274330726,East Side Union High,0,null,null,null,null,null%
+Andrew P. Hill High,43694274332995,East Side Union High,193,492,527,493,95,49.22%
+James Lick High,43694274333639,East Side Union High,117,440,467,440,35,29.91%
+Mount Pleasant High,43694274334900,East Side Union High,166,448,481,442,43,25.9%
+Oak Grove High,43694274335204,East Side Union High,177,494,519,487,87,49.15%
+William C. Overfelt High,43694274335428,East Side Union High,115,434,471,429,30,26.09%
+Piedmont Hills High,43694274335907,East Side Union High,364,527,570,538,233,64.01%
+Silver Creek High,43694274337903,East Side Union High,308,516,551,511,179,58.12%
+Cupertino High,43694684331799,Fremont Union High,362,598,660,619,315,87.02%
+Fremont High,43694684332474,Fremont Union High,230,522,555,525,137,59.57%
+Homestead High,43694684333316,Fremont Union High,412,586,627,591,338,82.04%
+Lynbrook High,43694684334421,Fremont Union High,398,639,698,664,382,95.98%
+Monta Vista High,43694684334462,Fremont Union High,513,638,691,657,487,94.93%
+Dr. T. J. Owens Gilroy Early College Academy,43694840114496,Gilroy Unified,43,567,563,552,30,69.77%
+Christopher High,43694840118380,Gilroy Unified,232,489,487,484,94,40.52%
+Gilroy High,43694844332839,Gilroy Unified,103,465,476,464,35,33.98%
+Los Gatos High,43695344334371,Los Gatos-Saratoga Joint Union High,379,595,608,589,328,86.54%
+Saratoga High,43695344337762,Los Gatos-Saratoga Joint Union High,319,639,674,650,302,94.67%
+Ann Sobrato High,43695830102368,Morgan Hill Unified,161,522,536,515,101,62.73%
+Live Oak High,43695834333951,Morgan Hill Unified,149,479,473,474,55,36.91%
+Los Altos High,43696094334116,Mountain View-Los Altos Union High,246,611,636,622,217,88.21%
+Mountain View High,43696094334728,Mountain View-Los Altos Union High,336,594,617,589,271,80.65%
+Henry M. Gunn High,43696414332904,Palo Alto Unified,330,642,686,646,310,93.94%
+Palo Alto High,43696414335782,Palo Alto Unified,370,627,657,624,330,89.19%
+Gunderson High,43696664330080,San Jose Unified,111,477,474,461,44,39.64%
+Liberty High (Alternative),43696664330502,San Jose Unified,1,null,null,null,null,null%
+Downtown College Preparatory,43696664330585,San Jose Unified,3,null,null,null,null,null%
+Middle College High,43696664330593,San Jose Unified,0,null,null,null,null,null%
+Broadway High,43696664332110,San Jose Unified,1,null,null,null,null,null%
+Leland High,43696664333522,San Jose Unified,339,600,641,603,293,86.43%
+Abraham Lincoln High,43696664333795,San Jose Unified,195,489,491,484,79,40.51%
+Pioneer High,43696664335949,San Jose Unified,259,530,540,531,159,61.39%
+San José High,43696664337200,San Jose Unified,111,442,450,455,27,24.32%
+Willow Glen High,43696664338950,San Jose Unified,180,501,508,496,90,50%
+Santa Clara High,43696744330122,Santa Clara Unified,230,512,522,504,121,52.61%
+Wilson Alternative,43696744330247,Santa Clara Unified,1,null,null,null,null,null%
+Adrian Wilcox High,43696744338802,Santa Clara Unified,231,521,540,526,136,58.87%
+Milpitas High,43733874334470,Milpitas Unified,450,527,563,524,279,62%

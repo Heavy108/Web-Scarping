@@ -1,0 +1,89 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+River Springs Charter,33103300110833,Riverside County Office of Education,53,489,458,478,20,37.74%
+Riverside County Education Academy,33103300125237,Riverside County Office of Education,1,null,null,null,null,null%
+Come Back Kids,33103300128397,Riverside County Office of Education,0,null,null,null,null,null%
+Gateway College and Career Academy,33103300128777,Riverside County Office of Education,0,null,null,null,null,null%
+California School for the Deaf-Riverside,33316253330834,California School for the Deaf-Riverside (State Sp,1,null,null,null,null,null%
+Alvord Alternative Continuation High,33669770126896,Alvord Unified,0,null,null,null,null,null%
+La Sierra High,33669773330008,Alvord Unified,298,473,478,458,103,34.56%
+Norte Vista High,33669773334299,Alvord Unified,210,439,450,432,47,22.38%
+Banning High,33669853330214,Banning Unified,97,419,407,414,14,14.43%
+Banning Independent Study,33669853330974,Banning Unified,0,null,null,null,null,null%
+21st Century Learning Institute,33669930129882,Beaumont Unified,0,null,null,null,null,null%
+Beaumont Senior High,33669933330479,Beaumont Unified,242,474,465,474,90,37.19%
+Eleanor Roosevelt High,33670330110627,Corona-Norco Unified,486,486,490,486,218,44.86%
+John F. Kennedy High,33670330110759,Corona-Norco Unified,134,509,499,497,70,52.24%
+Corona-Norco Alternative,33670333330131,Corona-Norco Unified,0,null,null,null,null,null%
+Centennial High,33670333330446,Corona-Norco Unified,418,494,514,482,203,48.56%
+Lee V. Pollard High,33670333330586,Corona-Norco Unified,2,null,null,null,null,null%
+Santiago High,33670333330701,Corona-Norco Unified,523,498,512,499,259,49.52%
+Corona High,33670333331600,Corona-Norco Unified,288,470,480,468,109,37.85%
+Norco High,33670333334232,Corona-Norco Unified,258,482,496,476,111,43.02%
+Shadow Hills High,33670580118885,Desert Sands Unified,179,436,428,434,36,20.11%
+Palm Desert High,33670583330388,Desert Sands Unified,259,516,510,508,137,52.9%
+La Quinta High,33670583330669,Desert Sands Unified,397,474,477,462,140,35.26%
+Horizon,33670583330909,Desert Sands Unified,2,null,null,null,null,null%
+Amistad High (Continuation),33670583331113,Desert Sands Unified,1,null,null,null,null,null%
+Indio High,33670583333192,Desert Sands Unified,199,424,403,430,30,15.08%
+Hamilton High,33670820106716,Hemet Unified,15,506,506,481,6,40%
+Tahquitz High,33670820113159,Hemet Unified,125,443,443,445,34,27.2%
+College Prep High,33670820128363,Hemet Unified,13,495,484,463,5,38.46%
+Helen Hunt Jackson Alternative High,33670823330503,Hemet Unified,3,null,null,null,null,null%
+West Valley High,33670823330537,Hemet Unified,122,460,461,462,39,31.97%
+Hemet High,33670823332673,Hemet Unified,199,483,488,470,74,37.19%
+Patriot High,33670900114157,Jurupa Unified,173,467,481,463,60,34.68%
+Rivercrest Preparatory,33670900127720,Jurupa Unified,2,null,null,null,null,null%
+Jurupa Valley High,33670903330412,Jurupa Unified,159,438,447,439,37,23.27%
+Rubidoux High,33670903337136,Jurupa Unified,128,434,445,433,28,21.88%
+Santa Rosa Academy,33671160109843,Menifee Union Elementary,34,531,506,503,21,61.76%
+Moreno Valley Online Academy,33671240128868,Moreno Valley Unified,0,null,null,null,null,null%
+Canyon Springs High,33671243330396,Moreno Valley Unified,272,444,443,440,71,26.1%
+Valley View High,33671243330438,Moreno Valley Unified,259,440,464,445,65,25.1%
+Vista del Lago High,33671243331071,Moreno Valley Unified,199,436,434,424,35,17.59%
+Moreno Valley High,33671243333770,Moreno Valley Unified,212,417,421,419,29,13.68%
+Nuview Bridge Early College High,33671573331014,Nuview Union,110,473,488,471,41,37.27%
+Cathedral City High,33671733330578,Palm Springs Unified,236,443,440,432,56,23.73%
+Desert Hot Springs High,33671733330818,Palm Springs Unified,124,432,427,429,25,20.16%
+Palm Springs High,33671733335130,Palm Springs Unified,276,458,457,447,89,32.25%
+Twin Palms Continuation,33671813331139,Palo Verde Unified,1,null,null,null,null,null%
+Palo Verde High,33671813335759,Palo Verde Unified,59,451,462,437,16,27.12%
+California Military Institute,33672070101170,Perris Union High,70,437,441,423,13,18.57%
+Heritage High,33672070113191,Perris Union High,283,452,448,444,78,27.56%
+Perris Lake High (Continuation),33672073330172,Perris Union High,1,null,null,null,null,null%
+Paloma Valley High,33672073330727,Perris Union High,213,468,474,450,68,31.92%
+Perris High,33672073335973,Perris Union High,199,410,420,410,21,10.55%
+Riverside Virtual,33672150115709,Riverside Unified,6,null,null,null,null,null%
+Arlington High,33672153330024,Riverside Unified,221,449,453,445,53,23.98%
+Summit View Independent Study,33672153330362,Riverside Unified,2,null,null,null,null,null%
+Opportunity Program,33672153330511,Riverside Unified,0,null,null,null,null,null%
+Martin Luther King Jr. High,33672153330859,Riverside Unified,402,500,524,494,198,49.25%
+John W. North High,33672153334406,Riverside Unified,265,461,471,458,85,32.08%
+Polytechnic High,33672153336237,Riverside Unified,306,489,484,477,129,42.16%
+Ramona High,33672153336492,Riverside Unified,230,440,452,442,48,20.87%
+Mountain Heights Academy,33672493331006,San Jacinto Unified,1,null,null,null,null,null%
+Mountain View High,33672493337649,San Jacinto Unified,1,null,null,null,null,null%
+San Jacinto High,33672493337656,San Jacinto Unified,200,440,432,425,38,19%
+San Jacinto Valley Academy,33672496114748,San Jacinto Unified,22,480,498,466,11,50%
+Desert Mirage High,33736760100255,Coachella Valley Unified,144,412,404,414,14,9.72%
+NOVA Academy - Coachella,33736760121673,Coachella Valley Unified,27,406,408,403,3,11.11%
+La Familia Continuation High,33736763330032,Coachella Valley Unified,1,null,null,null,null,null%
+West Shores High,33736763330354,Coachella Valley Unified,36,400,399,396,4,11.11%
+Coachella Valley High,33736763330990,Coachella Valley Unified,217,408,433,409,29,13.36%
+Lakeside High,33751760107920,Lake Elsinore Unified,198,457,460,454,55,27.78%
+Keith McCarthy Academy,33751760116343,Lake Elsinore Unified,0,null,null,null,null,null%
+Southern California Online Academy,33751760124859,Lake Elsinore Unified,5,null,null,null,null,null%
+Temescal Canyon High,33751763330487,Lake Elsinore Unified,204,486,494,472,91,44.61%
+Elsinore High,33751763332350,Lake Elsinore Unified,186,483,489,472,70,37.63%
+Great Oak High,33751920105734,Temecula Valley Unified,506,523,521,505,291,57.51%
+Temecula Valley High,33751923330370,Temecula Valley Unified,352,499,487,485,161,45.74%
+Susan H. Nelson,33751923330636,Temecula Valley Unified,3,null,null,null,null,null%
+Chaparral High,33751923330743,Temecula Valley Unified,419,501,498,491,196,46.78%
+Temecula Preparatory,33751923330917,Temecula Valley Unified,44,548,524,539,30,68.18%
+Vista Murrieta High,33752000100420,Murrieta Valley Unified,428,494,495,491,197,46.03%
+Tenaja Canyon Academy,33752000102079,Murrieta Valley Unified,3,null,null,null,null,null%
+Murrieta Mesa High,33752000118794,Murrieta Valley Unified,309,488,493,478,124,40.13%
+Murrieta Valley High,33752003330529,Murrieta Valley Unified,339,512,523,506,185,54.57%
+Citrus Hill High,33752420109108,Val Verde Unified,338,415,427,405,43,12.72%
+Val Verde Academy,33752420123190,Val Verde Unified,0,null,null,null,null,null%
+Rancho Verde High,33752423330552,Val Verde Unified,474,438,441,430,93,19.62%
+Val Verde High,33752423330560,Val Verde Unified,2,null,null,null,null,null%

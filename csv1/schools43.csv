@@ -1,0 +1,18 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+West Valley High,45698564530028,Anderson Union High,65,498,512,480,35,53.85%
+Oakview High (Alternative),45698564530051,Anderson Union High,0,null,null,null,null,null%
+Anderson New Technology High,45698564530333,Anderson Union High,10,null,null,null,null,null%
+Anderson High,45698564530804,Anderson Union High,22,472,484,455,8,36.36%
+Burney Junior-Senior High,45699894531000,Fall River Joint Unified,4,null,null,null,null,null%
+Fall River Junior-Senior High,45699894533600,Fall River Joint Unified,17,508,535,511,10,58.82%
+Stellar Secondary Charter High,45701104530341,Redding Elementary,2,null,null,null,null,null%
+University Preparatory,45701360106013,Shasta Union High,74,577,568,551,59,79.73%
+Foothill High,45701364530044,Shasta Union High,60,557,577,528,46,76.67%
+Shasta Charter Academy,45701364530267,Shasta Union High,8,null,null,null,null,null%
+North State Independence High,45701364530309,Shasta Union High,0,null,null,null,null,null%
+Enterprise High,45701364532750,Shasta Union High,70,536,544,507,40,57.14%
+Shasta High,45701364537304,Shasta Union High,90,554,549,546,61,67.78%
+Northern Summit Academy,45701690129957,Whitmore Union Elementary,0,null,null,null,null,null%
+Academy of Personalized Learning,45752670120170,Gateway Unified,9,null,null,null,null,null%
+Gateway Educational Options,45752674530101,Gateway Unified,0,null,null,null,null,null%
+Central Valley High,45752674531901,Gateway Unified,38,483,487,467,15,39.47%

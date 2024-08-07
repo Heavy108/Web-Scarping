@@ -1,0 +1,34 @@
+School Name,School Code,District Name,Number of test takers,Average Score Read,Average Score Math,Average Score Write,Number >= 1500,Percent >= 1500
+Stanislaus Alternative Charter,50105040129023,Stanislaus County Office of Education,0,null,null,null,null,null%
+Valley Charter High,50105045030234,Stanislaus County Office of Education,15,523,476,489,8,53.33%
+Whitmore Charter High,50710430107136,Ceres Unified,18,561,522,542,11,61.11%
+Central Valley High,50710430108076,Ceres Unified,203,434,434,433,43,21.18%
+Endeavor Alternative,50710435030168,Ceres Unified,0,null,null,null,null,null%
+Ceres High,50710435030879,Ceres Unified,147,458,464,450,44,29.93%
+Denair Charter Academy,50710685030267,Denair Unified,2,null,null,null,null,null%
+Denair High,50710685031521,Denair Unified,44,473,450,449,11,25%
+Hart-Ransom Academic Charter,50710926112965,Hart-Ransom Union Elementary,2,null,null,null,null,null%
+Keyes to Learning Charter,50711346113286,Keyes Union,6,null,null,null,null,null%
+James C. Enochs High,50711750110593,Modesto City High,245,499,514,487,118,48.16%
+Aspire Vanguard College Preparatory Academy,50711750120212,Modesto City High,10,null,null,null,null,null%
+Joseph A. Gregori High,50711750121129,Modesto City High,233,480,479,465,82,35.19%
+Fred C. Beyer High,50711755030010,Modesto City High,152,509,509,489,75,49.34%
+Peter Johansen High,50711755030135,Modesto City High,140,449,446,435,33,23.57%
+Grace M. Davis High,50711755031380,Modesto City High,81,460,454,442,21,25.93%
+Thomas Downey High,50711755031802,Modesto City High,136,494,499,483,62,45.59%
+Modesto High,50711755034905,Modesto City High,247,481,484,479,101,40.89%
+Del Puerto High,50712175030127,Patterson Joint Unified,1,null,null,null,null,null%
+Patterson High,50712175036256,Patterson Joint Unified,162,440,435,437,34,20.99%
+Orestimba High,50736015035902,Newman-Crows Landing Unified,76,428,452,444,22,28.95%
+Hughson High,50755495032651,Hughson Unified,87,471,476,456,26,29.89%
+Riverbank High,50755565036850,Riverbank Unified,66,433,458,434,16,24.24%
+Oakdale Charter High,50755645030176,Oakdale Joint Unified,2,null,null,null,null,null%
+Valley Oak Junior and Senior High,50755645030192,Oakdale Joint Unified,0,null,null,null,null,null%
+Oakdale High,50755645035654,Oakdale Joint Unified,138,509,511,502,64,46.38%
+Waterford High,50755725030259,Waterford Unified,57,464,481,465,21,36.84%
+Connecting Waters Charter,50755725030317,Waterford Unified,34,541,506,504,18,52.94%
+eCademy Charter at Crane,50757390124669,Turlock Unified,1,null,null,null,null,null%
+Fusion Charter,50757390131185,Turlock Unified,0,null,null,null,null,null%
+John H. Pitman High,50757395030283,Turlock Unified,234,483,495,480,100,42.74%
+Roselawn High,50757395036884,Turlock Unified,1,null,null,null,null,null%
+Turlock High,50757395037700,Turlock Unified,228,486,493,479,91,39.91%
